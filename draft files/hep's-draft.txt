@@ -1,0 +1,40 @@
+<!-- HYPHEN RULE -->
+<category name="Hyphen">
+    <!-- 
+        WRONG: 
+            nag ihaw, nag ayos 
+        PROBLEM: 
+            nagihaw, nagayos not flagged
+    -->
+    <rule id="VERB_VOWEL_SPACE" name="verb_vowel_space">
+        <pattern case_sensitive="no" mark_from="1">
+            <token regexp="yes">[mn]ag</token>
+            <token regexp="yes">[aeiou][a-zA-Z]+</token>
+            
+            <message>The prefix "<match no="1"/>" must be followed by a hyphen if the verb starts with a vowel.</message>
+            <suggestion><match no="1"/>-<match no="2"/></suggestion>
+            <short>Missing hyphen after "nag-" or "mag-"</short>
+            <example correction="nag-aral" type="incorrect"><marker>nag aral</marker></example>
+            <example type="correct"><marker>nag-aral</marker></example>
+        </pattern>
+    </rule>
+
+    <!-- 
+        WRONG: 
+            nag lakad, nag luto 
+        PROBLEM: 
+            nag-lakad, nag-luto not flagged
+    -->
+    <rule id="VERB_CONST_SPACE" name="verb_const_space">
+        <pattern case_sensitive="no">
+            <token regexp="yes">[mn]ag</token>
+            <token regexp="yes">[^aeiou][a-zA-Z]+</token>
+            
+            <message>The prefix "<match no="1"/>" must not be followed by anything if the verb starts with a consonant.</message>
+            <suggestion><match no="1"/><match no="2"/></suggestion>
+            <example correction="nag lakad" type="incorrect"><marker>nag lakad</marker></example>
+            <example type="correct"><marker>naglakad</marker></example>
+        </pattern>
+    </rule>
+</category>
+<!-- HYPHEN RULE -->
