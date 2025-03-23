@@ -1,0 +1,7848 @@
+-+A+PSNS
+–+A+PSNS
+!+A+PSNE
+*+A+PSNS
+,+A+PSNC
+.+A+PSNP
+..+A+PSNS
+...+A+PSNS
+:+A+PSNS
+;+A+PSNS
+?+A+PSNQ
+`+A+PSNS
+‘y+A+MALM
+’+A+PSNS
+++A+PSNS
+…+A+PSNS
+1+A+PSNN
+10+A+PSNN
+100+A+PSNN
+11+A+PSNN
+12+A+PSNN
+13+A+PSNN
+14+A+PSNN
+15+A+PSNN
+16+A+PSNN
+17+A+PSNN
+18+A+PSNN
+19+A+PSNN
+2+A+PSNN
+20+A+PSNN
+200+A+PSNN
+21+A+PSNN
+22+A+PSNN
+23+A+PSNN
+24+A+PSNN
+25+A+PSNN
+26+A+PSNN
+3+A+PSNN
+4+A+PSNN
+42+A+PSNN
+43+A+PSNN
+44+A+PSNN
+45+A+PSNN
+46+A+PSNN
+47+A+PSNN
+48+A+PSNN
+49+A+PSNN
+5+A+PSNN
+50+A+PSNN
+51+A+PSNN
+52+A+PSNN
+53+A+PSNN
+54+A+PSNN
+55+A+PSNN
+56+A+PSNN
+57+A+PSNN
+58+A+PSNN
+6+A+PSNN
+7+A+PSNN
+8+A+PSNN
+9+A+PSNN
+a+A+INTR
+A+A+NABB
+aabutin+A+VOBF CN B
+aagawin+A+VOBF CN B
+aakyat+A+VACF CN B
+aalis+A+VACF CN B
+aandap-andap+A+ADUN
+aangal+A+VACF CN B
+aanim+A+ADNU
+aanyayahan+A+VOBF CN B
+aaprubahan+A+VOBF CN B
+aasikasuhin+A+VOBF CN B
+aawit+A+VACF CN B
+aba+A+INTR
+Aba+A+NPRO
+Abad+A+NPRO
+abala+A+ADUN
+abala+A+NCOM 2
+abalahin+A+VOBF NE B
+abalang-abala+A+ADUN
+abanikong+C+NCOM 2
+abito+A+NCOM 2
+abo+A+NCOM 2
+abogado+A+NCOM 1
+abogadong+C+NCOM 1
+abogasya+A+NCOM 2
+Abril+A+NPRO
+abuhin+A+VOBF NE B
+abuloy+A+NCOM 2
+abutan+A+VOBF NE B
+adelpa+A+NCOM 2
+adhikain+A+NCOM 2
+agaw+A+VOTF OT B
+agham+A+NCOM 2
+agila+A+NCOM 1
+aginaldo+A+NCOM 2
+agos+A+NCOM 2
+agunyas+A+NCOM 2
+Agustino+A+NPRO
+ah+A+INTR
+aha+A+INTR
+ahedres+A+NCOM 2
+ahente+A+NCOM 2
+akademya+A+NCOM 2
+akala+A+NCOM 2
+akala+A+VOTF OT B
+akalain+A+VOBF NE B
+akalaing+B+NCOM 2
+akalaing+B+VOBF NE B
+akasya+A+NCOM 2
+akin+A+PSAP ST S
+aking+B+PSAP ST S
+aklat+A+NCOM 2
+aklatan+A+NCOM 2
+aklat-dasalan+A+NCOM 2
+ako+A+PANP ST S
+akong+C+PANP ST S
+akordiyon+A+NCOM 2
+aksayahin+A+VOBF NE B
+ala+A+MANH
+alaala+A+NCOM 2
+alaalang+C+NCOM 2
+alaga+A+NCOM 1
+alagad+A+NCOM 1
+alagang+C+NCOM 1
+alahas+A+NCOM 2
+alak+A+NCOM 2
+alalahanin+A+VOBF NE B
+alalay+A+NCOM 2
+alam+A+VOTF OT B
+alamat+A+NCOM 2
+alamin+A+VOBF NE B
+alampay+A+NCOM 2
+alang-alang+A+ADUN
+alang-alang+A+NCOM 2
+alas+A+NCOM 2
+alas-diyes+A+ADNU
+alas-otso+A+ADNU
+alay+A+NCOM 2
+Alba+A+NPRO
+Albay+A+NPRO
+Albino+A+NPRO
+Albinong+C+NPRO
+ale+A+NCOM 2
+Aleman+A+NPRO
+Alemanya+A+NPRO
+Alemanyang+C+NPRO
+Alfonso+A+NPRO
+alikabok+A+NCOM 2
+alila+A+NCOM 2
+alimango+A+NCOM 1
+alimura+A+NCOM 2
+alin+A+PINP NU S
+aling+B+PINP NU S
+aling+A+PINP NU S
+alingasngas+A+NCOM 2
+alingawngaw+A+NCOM 2
+alinlangan+A+NCOM 2
+alinmang+B+PIDP NU B
+alinmang+B+PINP NU S
+alinsunod+A+PRRE
+alintana+A+ADUN
+alipin+A+NCOM 2
+alis+A+ADUN
+alitan+A+NCOM 2
+aliw+A+NCOM 2
+alkalde+A+NCOM 2
+Alkalde+A+NPRO
+alkaldeng+B+NCOM 2
+alon+A+NCOM 2
+along+B+NCOM 2
+alpa+A+NCOM 2
+alpabetong+C+NCOM 2
+alpaca+A+NCOM 2
+alperes+A+NCOM 2
+alta+A+NCOM 2
+alta-presyon+A+NCOM 2
+altar+A+NCOM 2
+altea+A+NCOM 2
+alumpihit+A+ADUN
+ama+A+NCOM 1
+amain+A+NCOM 1
+amang+A+NCOM 1
+amin+A+PSAP ST P
+aming+B+PSAP ST P
+amo+A+NCOM 2
+amoy+A+NCOM 2
+ampalaya+A+NCOM 2
+anak+A+NCOM 1
+anak-anakan+A+NCOM 1
+anang+A+VOTF OT B
+Anastacio+A+NPRO
+Anda+A+NPRO
+Andeng+A+NPRO
+ang+A+DECN NOM
+ang+A+NA
+angkan+A+NCOM 2
+angking+B+ADUN
+angkop+A+ADUN
+ani+A+NCOM 2
+ani+A+VOTF OT B
+anim+A+ADNU
+animnapu+A+ADNU
+animnapung+C+ADNU
+animo+A+PIDP NU B
+animong+C+PIDP NU B
+anino+A+NCOM 1
+aninong+C+NCOM 1
+aniya+A+VOTF OT B
+Anloage+A+NPRO
+ano+A+PINP NU S
+anong+C+PINP NU S
+antas+A+NCOM 2
+Antete+A+NPRO
+Antipolo+A+NPRO
+Antonio+A+NPRO
+antukin+A+ADUN
+anu-ano+A+PINP NU P
+anu-anong+C+PINP NU P
+anuman+A+PIDP NU B
+anumang+B+PIDP NU B
+anyayahan+A+VOBF NE B
+anyayahang+B+VOBF NE B
+anyong+C+NCOM 2
+apat+A+ADNU
+apat-na-daang+B+ADNU
+apatnapu’t+A+ADNU
+apatnapung+C+ADNU
+apelyido+A+NCOM 2
+apoy+A+NCOM 2
+apyan+A+NCOM 2
+Aquino+A+NPRO
+arabe+A+NCOM 2
+aral+A+NCOM 2
+araw+A+NCOM 2
+Araw+A+NPRO
+aray+A+INTR
+ari+A+NCOM 2
+ari-arian+A+NCOM 2
+arkilahin+A+VOBF NE B
+arkitekto+A+NCOM 2
+arkitektura+A+NCOM 2
+Armand+A+NPRO
+armas+A+NCOM 2
+arsobispo+A+NCOM 2
+Arsobispo+A+NPRO
+artilyero+A+NCOM 2
+artipisyal+A+ADUN
+artistang+C+NCOM 2
+asahan+A+VOBF NE B
+asal+A+NCOM 2
+asawa+A+NCOM 1
+asawang+C+NCOM 1
+asikasuhin+A+VOBF NE B
+aso+A+NCOM 1
+Assisi+A+NPRO
+asukal+A+NCOM 2
+asul+A+ADUN
+asunto+A+NCOM 2
+asutea+A+NCOM 2
+Asya+A+NPRO
+at+A+CONM
+at+A+NA
+ataul+A+NCOM 2
+atin+A+PSAP ST P
+ating+B+PSAP ST P
+atungal+A+NCOM 2
+awa+A+ADUN
+awa+A+NCOM 2
+away+A+NCOM 2
+awit+A+NCOM 2
+awitin+A+VOBF NE B
+awiting+B+NCOM 2
+awtoridad+A+NCOM 2
+ay+A+INTR
+ay+A+MALM
+ayan+A+PFOP ND B
+ayang+B+PFOP ND B
+ayaw+A+AUXN
+ayaw+A+AVGI AL
+ayaw+A+IRID
+ayon+A+PFOP RD B
+ayon+A+PRRE
+ayong+B+PFOP RD B
+ayos+A+ADUN
+ayos+A+NCOM 2
+ayto+A+PFOP ST B
+aytong+C+PFOP ST B
+ayun+A+PFOP RD B
+ayung+B+PFOP RD B
+ayungin+A+NCOM 2
+Ayuntamiento+A+NPRO
+ayusin+A+VOBF NE B
+ba+A+ENCL
+ba’t+A+ENCL
+babae+A+NCOM 1
+babae’t+A+NCOM 1
+babae’y+A+NCOM 1
+babaeng+C+NCOM 1
+babagsak+A+VACF CN B
+babai+A+NCOM 1
+babaing+C+NCOM 1
+babala+A+NCOM 2
+babalasa+A+VACF CN B
+babalik+A+VACF CN B
+babanggitin+A+VOBF CN B
+babantayan+A+VOBF CN B
+babarilin+A+VOBF CN B
+babasahin+A+VOBF CN B
+babati+A+VACF CN B
+babatiin+A+VOBF CN B
+babawiin+A+VOBF CN B
+babayaran+A+VOBF CN B
+babe+A+NCOM 1
+baboy+A+NCOM 1
+baboy-ramo+A+NCOM 1
+badyet+A+NCOM 2
+baga+A+NCOM 2
+bagamat+A+NA
+bagay+A+ADUN
+bagay+A+NCOM 2
+bagay-bagay+A+NCOM 2
+baging+A+NCOM 2
+bago+A+ADUN
+bagong+C+ADUN
+bagyo+A+NCOM 2
+baha+A+NCOM 2
+bahag+A+NCOM 2
+bahagi+A+ADUN
+bahagi+A+NCOM 2
+bahaging+C+NCOM 2
+bahagyang+C+ADUN
+bahay+A+NCOM 2
+bahid+A+ADUN
+bahid+A+NCOM 2
+baho+A+NCOM 2
+Bailon+A+NPRO
+baka+A+AVAG AL
+baka+A+NCOM 2
+bakal+A+NCOM 2
+bakante+A+NCOM 2
+bakas+A+NCOM 2
+bakit+A+PINP NU S
+baklad+A+NCOM 2
+bakod+A+NCOM 2
+bakol+A+NCOM 2
+bakuran+A+NCOM 2
+bala+A+NCOM 2
+Balagtas+A+NPRO
+balak+A+NCOM 2
+balakin+A+VOBF NE B
+balang+C+ADUN
+balang-araw+A+NCOM 2
+balanggot+A+NCOM 2
+balaraw+A+NCOM 2
+balas+A+NCOM 2
+balat+A+NCOM 2
+Balat+A+NPRO
+balbas+A+NCOM 2
+baldosa+A+NCOM 2
+bali-baling+C+ADUN
+balikat+A+NCOM 2
+balingkinitan+A+ADUN
+balingkinitang+B+ADUN
+balisa+A+ADUN
+balisang+C+ADUN
+balita+A+NCOM 2
+balita’y+A+NCOM 2
+balitang+C+NCOM 2
+balite+A+NCOM 2
+baliw+A+ADUN
+baliw+A+NCOM 2
+Baliw+A+NPRO
+balkonahe+A+NCOM 2
+balkonaheng+C+NCOM 2
+balon+A+NCOM 2
+baluktot+A+ADUN
+balutin+A+VOBF NE B
+banak+A+NCOM 2
+banal+A+ADUN
+banal+A+NCOM 2
+Banal+A+NPRO
+banayad+A+ADUN
+bandang+C+ADUN
+bandehado+A+NCOM 2
+bandido+A+NCOM 2
+bandilang+C+NCOM 2
+bang+A+ENCL
+bangaw+A+NCOM 2
+banggitin+A+VOBF NE B
+bangin+A+NCOM 2
+bangka+A+NCOM 2
+bangkang+C+NCOM 2
+bangkay+A+NCOM 2
+bangkero+A+NCOM 2
+bangketa+A+NCOM 2
+bangko+A+NCOM 2
+bango+A+NCOM 2
+bangos+A+NCOM 2
+bangungot+A+NCOM 2
+bangus+A+NCOM 2
+banig+A+NCOM 2
+bansa+A+NCOM 2
+bansang+C+NCOM 2
+banta+A+NCOM 2
+bantad+A+ADUN
+bantay+A+NCOM 2
+bantayog+A+ADUN
+bantog+A+ADUN
+bapor+A+NCOM 2
+baraha+A+NCOM 2
+barahang+C+NCOM 2
+barandilya+A+NCOM 2
+Barbarang+C+NPRO
+barbaro+A+NCOM 2
+Barbaro+A+NPRO
+baril+A+NCOM 2
+barilan+A+NCOM 2
+barilin+A+VOBF NE B
+barko+A+NCOM 2
+barkong+C+NCOM 2
+baro+A+NCOM 2
+barong+A+NCOM 2
+Barrarera+A+NPRO
+Barsobya+A+NPRO
+baryang+C+NCOM 2
+basa+A+ADUN
+basahan+A+NCOM 2
+basahang+B+NCOM 2
+basahin+A+VOBF NE B
+basang+C+ADUN
+Basilio+A+NPRO
+basket+A+NCOM 2
+basta-bastang+C+ADUN
+baston+A+NCOM 2
+bastong+B+NCOM 2
+bastos+A+ADUN
+bata+A+ADUN
+bata+A+NCOM 1
+batambata+A+ADUN
+batambatang+C+ADUN
+batam-batang+C+ADUN
+batang+C+ADUN
+batang+C+NCOM 1
+Batangas+A+NPRO
+batas+A+NCOM 2
+batayan+A+NCOM 2
+Bathala+A+NPRO
+bati+A+VOTF OT B
+batid+A+VOTF OT B
+batiin+A+VOBF NE B
+Batikano+A+NPRO
+batis+A+NCOM 2
+batisan+A+NCOM 2
+bato+A+NCOM 2
+batong+A+NCOM 2
+batong-buhay+A+NCOM 2
+batubalaning+C+NCOM 2
+batuhan+A+NCOM 2
+bawa’t+A+PIDP NU B
+bawal+A+ADUN
+bawas+A+ADUN
+bawasan+A+VOBF NE B
+bawat+A+ADUN
+bawat+A+PIDP NU B
+bayad+A+NCOM 2
+bayan+A+NCOM 2
+Bayan+A+NPRO
+bayan-bayan+A+NCOM 2
+bayang+B+NCOM 2
+bayani+A+NCOM 1
+bayaran+A+VOBF NE B
+bayaw+A+NCOM 1
+baybayin+A+NCOM 2
+baywang+A+NCOM 2
+beateryo+A+NCOM 2
+Belfry+A+NPRO
+Ben+A+NPRO
+benditadong+C+ADUN
+bente+A+ADNU
+Bernardo+A+NPRO
+berso+A+NCOM 2
+bestida+A+NCOM 2
+bibig+A+NCOM 2
+bibigyan+A+VOBF CN B
+bibiruin+A+VOBF CN B
+bida+A+NCOM 2
+bigas+A+NCOM 2
+bigat+A+ADUN
+bigat+A+NA
+bigay+A+VOBF NE B
+bigkas+A+NCOM 2
+bigkas-espanyol+A+NCOM 2
+biglang+C+ADUN
+biguin+A+VOBF NE B
+bigyan+A+VOBF NE B
+bigyang+B+VOBF NE B
+bihasa+A+ADUN
+bihira+A+ADUN
+biktima+A+NCOM 1
+bilang+A+ADUN
+bilang+A+NA
+bilang+A+NCOM 2
+bilanggo+A+NCOM 2
+bilangguan+A+NCOM 2
+Bilibid+A+NPRO
+bilin+A+NCOM 2
+bilisan+A+VOBF NE B
+bilog+A+ADUN
+bilugang+B+NCOM 2
+binabalak+A+VOBF IN B
+binabali+A+VOBF IN B
+binabanggit+A+VOBF IN B
+binabantaan+A+VOBF IN B
+binabantayan+A+VOBF IN B
+binabasa+A+VOBF IN B
+binabati+A+VOBF IN B
+binabawi+A+VOBF IN B
+binabaybay+A+VOBF IN B
+binalikan+A+VOBF CM B
+binalingan+A+VOBF CM B
+binaluktot+A+VOBF CM B
+binanggit+A+VOBF CM B
+binansagang+B+VOBF CM B
+binantaan+A+VOBF CM B
+binaril+A+VOBF CM B
+binasa+A+VOBF CM B
+binata+A+NCOM 1
+binatang+C+ADUN
+binatang+C+NCOM 1
+binati+A+VOBF CM B
+binatilyo+A+NCOM 2
+binatilyong+C+ADUN
+binawian+A+VOBF CM B
+binayaran+A+VOBF CM B
+binaybay+A+VOBF CM B
+binendisyunan+A+VOBF CM B
+binhi+A+NCOM 2
+binibigkas+A+VOBF IN B
+binibihisan+A+VOBF IN B
+binibilang+B+VOBF IN B
+binibili+A+VOBF IN B
+binibiling-biling+C+VOBF IN B
+binibilog+A+VOBF IN B
+binibiro+A+VOBF IN B
+binibisita+A+VOBF IN B
+binigyan+A+VOBF CM B
+binigyang+B+VOBF CM B
+binilang+A+VOBF CM B
+binili+A+VOBF CM B
+binilisan+A+VOBF CM B
+bininyagang+B+VOBF CM B
+binirahan+A+VOBF CM B
+binisita+A+VOBF CM B
+binitay+A+VOBF CM B
+binitiwan+A+VOBF CM B
+Binondo+A+NPRO
+bintana+A+NCOM 2
+bintanang+C+NCOM 2
+bintang+C+NCOM 2
+binti+A+NCOM 2
+binubugbog+A+VOBF IN B
+binubuhat+A+VOBF IN B
+binubukalan+A+VOBF IN B
+binubulag+A+VOBF IN B
+binubuo+A+VOBF IN B
+binudburan+A+VOBF IN B
+binugbog+A+VOBF CM B
+binuksan+A+VOBF CM B
+binulungan+A+VOBF CM B
+binunghalit+A+VOBF IN B
+binyagan+A+ADUN
+birhen+A+NCOM 1
+Birhen+A+NPRO
+birheng+B+NCOM 1
+biro+A+NCOM 2
+biruin+A+VOBF NE B
+bisa+A+NCOM 2
+bise-alkalde+A+NCOM 2
+Bise-Alkalde+A+NPRO
+bisig+A+NCOM 2
+biskwit+A+NCOM 2
+bisperas+A+NCOM 2
+bistado+A+ADUN
+bisyo+A+NCOM 2
+bisyo’t+A+NCOM 2
+bitag+A+NCOM 2
+bitayan+A+NCOM 2
+biton+A+NCOM 2
+bituin+A+NCOM 2
+bituka+A+NCOM 2
+biya+A+NCOM 2
+biyakin+A+VOBF NE B
+biyaya+A+NCOM 2
+biyayaan+A+VOBF IN B
+biyayang+C+NCOM 2
+blusa+A+NCOM 2
+Bohemya+A+NPRO
+bomba+A+NCOM 2
+borlas+A+NCOM 2
+boses+A+NCOM 2
+bota+A+NCOM 2
+botaniko+A+NCOM 2
+Botaniko+A+NPRO
+bote+A+NCOM 2
+braso+A+NCOM 2
+brilyante+A+NCOM 2
+Bruno+A+NPRO
+bruto+A+INTR
+bubong+A+NCOM 2
+bubukulan+A+VOBF CN B
+bubulahawin+A+VOBF CN B
+bubungang+B+NCOM 2
+bubuti+A+VACF CN B
+budhi+A+NCOM 2
+Buen+A+NPRO
+buenas+A+NCOM 2
+bughaw+A+ADUN
+buhangin+A+NCOM 2
+buhat+A+NA
+buhay+A+ADUN
+buhay+A+NCOM 2
+buhay+A+VOTF OT B
+buhok+A+NCOM 2
+buhos+A+NCOM 2
+buiyaya+A+NCOM 2
+bukal+A+NCOM 2
+bukana+A+NCOM 2
+bukas+A+ADUN
+bukas+A+AVPA AL
+bukas+A+NCOM 2
+bukid+A+NCOM 2
+bukirin+A+NCOM 2
+buklurin+A+VOBF NE B
+buko+A+NCOM 2
+bukod+A+NA
+buksan+A+VOBF NE B
+bula+A+NCOM 2
+bulag+A+ADUN
+bulag+A+NCOM 2
+bulak+A+NCOM 2
+bulaklak+A+NCOM 1
+bulaklaking+B+ADUN
+bulalas+A+NCOM 2
+bulalas+A+VOTF OT B
+buli+A+NCOM 2
+bulik+A+NCOM 2
+bulkang+B+NCOM 2
+bulok+A+ADUN
+bulong+A+VOTF OT B
+bulsa+A+NCOM 2
+bulungan+A+NCOM 2
+bulung-bulungan+A+NCOM 2
+bulung-bulungang+B+NCOM 2
+bulwagan+A+NCOM 2
+bulwagang+B+NCOM 2
+bulyaw+A+VOTF OT B
+bumaba+A+VACF CM B
+bumabasa+A+VACF IN B
+bumagsak+A+VACF CM B
+bumagyo+A+VACF CM B
+bumalik+A+VACF CM B
+bumaril+A+VACF CM B
+bumasa+A+VACF CM B
+bumawi+A+VACF CM B
+bumili+A+VACF CM B
+bumitiw+A+VACF CM B
+bumubulung-bulong+A+VACF IN B
+bumugbog+A+VACF CM B
+bumuhos+A+VACF CM B
+bumukas+A+VACF CM B
+bumulong+A+VACF CM B
+bumuti+A+VACF CM B
+bumuti-buti+A+ADUN
+bundok+A+NCOM 2
+bunga+A+NCOM 2
+bungad+A+VOTF OT B
+bunganga+A+NCOM 2
+bungi+A+ADUN
+bungkalin+A+VOBF NE B
+bunso+A+NCOM 1
+buntal+A+NCOM 2
+buntis+A+NCOM 1
+bunton+A+NCOM 2
+buntong-hininga+A+NCOM 2
+buntot+A+NCOM 2
+buo+A+ADUN
+buong+A+ADUN
+burado+A+ADUN
+burdadong+C+ADUN
+Burgos+A+NPRO
+busabos+A+NCOM 2
+busalsal+A+NCOM 2
+busog+A+ADUN
+Bustamante+A+NPRO
+busugin+A+VOBF NE B
+butas+A+NCOM 2
+butaw+A+NCOM 2
+butil+A+NCOM 2
+butil-butil+A+ADUN
+buto+A+NCOM 2
+butones+A+NCOM 2
+buwan+A+NCOM 2
+buwang+A+NCOM 2
+buwaya+A+NCOM 1
+buwayang+C+NCOM 1
+buwig+A+ADUN
+buwis+A+NCOM 2
+buyo+A+NCOM 2
+cacique+A+NCOM 2
+Cafe+A+NPRO
+Calamba+A+NPRO
+Camiling+A+NPRO
+camisa+A+NCOM 2
+Camorra+A+NPRO
+Campaña+A+NPRO
+campanillang+C+NCOM 2
+caramba+A+INTR
+Carlicos+A+NPRO
+Catalina+A+NPRO
+Caysasay+A+NPRO
+Central+A+NPRO
+Chloe+A+NPRO
+Cicero+A+NPRO
+Ciruela+A+NPRO
+civil+A+NCOM 1
+Clara+A+NPRO
+Clarita+A+NPRO
+coadjutor+A+NCOM 1
+Cochers+A+NPRO
+Colegio+A+NPRO
+coliseum+A+NCOM 2
+Concordia+A+NPRO
+Confraternidad+A+NPRO
+Consolacion+A+NPRO
+copa+A+NCOM 2
+criminal+A+NCOM 2
+Crisostomo+A+NPRO
+Crispin+A+NPRO
+Cristiana+A+NPRO
+Cristina+A+NPRO
+Cristo+A+NPRO
+Cruz+A+NPRO
+cuadjutor+A+NCOM 1
+Custodio+A+NPRO
+daan+A+NCOM 2
+daanan+A+NCOM 2
+daang+B+ADNU
+daang+B+NCOM 2
+dadaan+A+VACF CN B
+dadakpin+A+VOBF CN B
+dadalaw+A+VACF CN B
+dadalawin+A+VOBF CN B
+dadaloy+A+VACF CN B
+dadaluhan+A+VOBF CN B
+dagat+A+NCOM 2
+dagdag+A+ADUN
+dagdagan+A+VOBF NE B
+dagliang+B+ADUN
+dagok+A+NCOM 2
+dahas+A+NCOM 2
+dahil+A+CONA
+dahil+A+NA
+dahilan+A+NA
+dahilan+A+NCOM 2
+dahilang+B+NCOM 2
+dahlia+A+NCOM 2
+dahon+A+NCOM 2
+dahon+A+NPRO
+dahong+B+NCOM 2
+daigdig+A+NCOM 2
+daing+A+NCOM 2
+dakila+A+ADUN
+dakila+A+NCOM 2
+dakilang+C+ADUN
+dako+A+NCOM 2
+dakpin+A+VOBF NE B
+dala+A+ADUN
+dala+A+NCOM 2
+dala-dala+A+ADUN
+dala-dalahan+A+NCOM 2
+dala-dalang+C+ADUN
+dalag+A+NCOM 1
+dalaga+A+NCOM 1
+dalagang+C+NCOM 1
+dalampasigan+A+NCOM 2
+dalang+C+ADUN
+dalang+C+NCOM 2
+dalangan+A+VOBF NE B
+dalangin+A+NCOM 2
+dalaw+A+NCOM 2
+dalawa+A+ADNU
+dalawa+A+NCOM 2
+dalawampu+A+ADNU
+dalawampung+C+ADNU
+dalawandaang+B+ADNU
+dalawang+C+ADNU
+dalawin+A+VOBF NE B
+daldal+A+NCOM 2
+dalhin+A+NCOM 2
+dalhin+A+VOBF NE B
+daliri+A+NCOM 2
+dalisay+A+ADUN
+daluyan+A+NCOM 2
+dalwang+C+ADNU
+Damaso+A+NPRO
+Damasong+A+NPRO
+dambuhalang+C+ADUN
+damdamin+A+NCOM 2
+damdaming+B+NCOM 2
+damit+A+NCOM 2
+damit-pilipina+A+ADUN
+damo+A+NCOM 2
+dampa+A+NCOM 2
+dampi+A+NCOM 2
+danasin+A+VOBF NE B
+dangal+A+NCOM 2
+danyos+A+NCOM 2
+dapat+A+NA
+daraan+A+VACF CN B
+daraanan+A+NCOM 2
+darating+A+VACF NE B
+Darwin+A+NPRO
+dasal+A+NCOM 2
+datapwat+A+CONI
+dati+A+ADUN
+dating+C+ADUN
+dating+C+NCOM 2
+dati-rating+C+ADUN
+daungang+B+NCOM 2
+daw+A+ENCL
+dayuhan+A+NCOM 1
+dayuhang+B+NCOM 1
+de+A+NA
+De+A+NPRO
+debosyon+A+NCOM 2
+decision+A+NCOM 2
+dehado+A+ADUN
+de-kalibreng+C+ADUN
+dekorasyon+A+NCOM 2
+dekorasyong+B+NCOM 2
+del+A+NA
+Del+A+NPRO
+delikadong+C+ADUN
+delubyo+A+NCOM 2
+desisyon+A+NCOM 2
+dias+A+NCOM 2
+dibdib+A+NCOM 2
+dibuho+A+NCOM 2
+dice+A+NCOM 2
+Diego+A+NPRO
+Diegong+C+NPRO
+di-gaanong+C+NA
+digmaan+A+NCOM 2
+dignidad+A+NCOM 2
+diin+A+VOTF OT B
+dikit-dikit+A+ADUN
+dila+A+NCOM 2
+dilim+A+NCOM 2
+din+A+ENCL
+dinadaanan+A+VOBF IN B
+dinadagukan+A+VOBF IN B
+dinadakila+A+VOBF IN B
+dinadala+A+VOBF IN B
+dinadalaw+A+VOBF IN B
+dinakip+A+VOBF CM B
+dinala+A+VOBF CM B
+dinalaw+A+VOBF CM B
+dinampot+A+VOBF CM B
+dinanas+A+VOBF CM B
+dinapuan+A+VOBF CM B
+dinaramdam+A+VOBF CM B
+dinaranas+A+VOBF IN B
+dinatnan+A+VOBF CM B
+ding+B+ENCL
+dingding+A+NCOM 2
+diniinan+A+VOBF CM B
+dinudulutan+A+VOBF IN B
+dinukot+A+VOBF CM B
+diploma+A+NCOM 2
+disenterya+A+NCOM 2
+disenyo+A+NCOM 2
+disiplina+A+NCOM 2
+distrito+A+NCOM 2
+dito+A+NA
+dito+A+PSAD ST B
+ditong+C+PSAD ST B
+diwang+A+NCOM 2
+diwatang+C+NCOM 1
+diyan+A+PSAD ND B
+diyang+B+PSAD ND B
+Diyos+A+NPRO
+diyus-diyusan+A+NCOM 1
+do’n+A+PSAD RD B
+do’ng+B+PSAD RD B
+Doctrina+A+NPRO
+doktor+A+NCOM 1
+Doktor+A+NPRO
+doktora+A+NCOM 1
+Doktora+A+NPRO
+dokumento+A+NCOM 2
+Dominiko+A+NPRO
+Dominikong+C+NPRO
+Don+A+NPRO
+don+A+PSAD RD B
+dong+B+PSAD RD B
+donya+A+NCOM 1
+Donya+A+NPRO
+donyang+C+NCOM 1
+doo+A+PSAD RD B
+doon+A+PSAD RD B
+doong+C+PSAD RD B
+doong+B+PSAD RD B
+dos+A+ADNU
+Dr.+A+NABB
+dudurugin+A+VOBF CN B
+dugo+A+NCOM 2
+dugong+A+NCOM 2
+dugtong+A+NCOM 2
+dugtong+A+VOTF OT B
+duguan+A+ADUN
+duguang+B+ADUN
+duke+A+NCOM 1
+Duke+A+NPRO
+dukha+A+ADUN
+dukha+A+NCOM 1
+dula+A+NCOM 2
+dulaan+A+NCOM 2
+dulang+C+NCOM 2
+dulo+A+NCOM 2
+dumaan+A+VACF CM B
+dumadagundong+A+VOBF IN B
+dumadaing+A+VOBF IN B
+dumadalaw+A+VOBF IN B
+dumalaw+A+VACF CM B
+dumalo+A+VACF CM B
+dumaloy+A+VACF CM B
+dumami+A+VACF CM B
+dumaming+C+VACF CM B
+dumampot+A+VACF CM B
+dumaong+C+VACF CM B
+dumaraan+A+VACF IN B
+dumarami+A+VOBF IN B
+dumarating+A+VACF CM B
+dumarating+A+VOBF IN B
+dumating+A+VACF CM B
+dumilig+A+VACF CM B
+dumulog+A+VACF CM B
+dumungaw+A+VACF CM B
+dumura+A+VACF CM B
+dumurang+C+VACF CM B
+dungis+A+NCOM 2
+dungisan+A+VOBF NE B
+dunong+A+NCOM 2
+durungawan+A+NCOM 2
+duwag+A+ADUN
+duwag+A+NCOM 2
+duwelo+A+NCOM 2
+duyang+B+NCOM 2
+dyan+A+PSAD ND B
+dyang+B+PSAD ND B
+e+A+INTR
+Eba+A+NPRO
+Eden+A+NPRO
+edukado+A+ADUN
+edukasyon+A+NCOM 2
+Eibarramendia+A+NPRO
+eimoglasa+A+NCOM 2
+eksaktong+C+ADUN
+ekskomulgado+A+NCOM 1
+ekskomunikado+A+NCOM 1
+eksperimento+A+NCOM 2
+eksperto+A+NCOM 1
+eleison+A+NCOM 2
+elemento+A+NCOM 1
+Elias+A+NPRO
+engkantando+A+NCOM 1
+English+A+NPRO
+ensalada+A+NCOM 2
+entablado+A+NCOM 2
+erehe+A+NCOM 1
+Escolta+A+NPRO
+escucha+A+NCOM 2
+eskabetse+A+NCOM 2
+eskapularyo+A+NCOM 2
+espada+A+NCOM 2
+Espadana+A+NPRO
+Espadaña+A+NPRO
+Espany+A+NPRO
+Espanya+A+NPRO
+Espanyol+A+NPRO
+Espanyola+A+NPRO
+espirituwal+A+NCOM 1
+esposo+A+NCOM 1
+estado+A+NCOM 2
+estatwa+A+NCOM 2
+estudiyante+A+NCOM 1
+estudyante+A+NCOM 1
+Europa+A+NPRO
+Europeo+A+NPRO
+Familia+A+NPRO
+Felisa+A+NPRO
+Fernandez+A+NPRO
+Filipo+A+NPRO
+Florentino+A+NPRO
+Fonda+A+NPRO
+Francisco+A+NPRO
+G+A+NABB
+G.+A+NABB
+gaano+A+AVSC AL
+gaano+A+PINP NU S
+gaanong+C+AVSC AL
+gaanong+C+PINP NU S
+gabi+A+NCOM 2
+gabinete+A+NCOM 1
+gabing+C+NCOM 2
+Gabriel+A+NPRO
+gagalaw+A+VACF CN B
+gagaling+A+VACF CN B
+gagamitin+A+VOBF CN B
+gaganapin+A+VOBF CN B
+gagastusin+A+VOBF CN B
+gagawin+A+VACF CN B
+gagawing+B+VACF CN B
+gagong+C+ADUN
+galak+A+NCOM 2
+galang+A+NCOM 2
+galaw+A+NCOM 2
+galawin+A+VOBF NE B
+galbanisado+A+NCOM 2
+galing+A+VOTF OT B
+galit+A+ADUN
+galit+A+NCOM 2
+galitin+A+VOBF NE B
+galos+A+NCOM 2
+gamit+A+NCOM 2
+gamit+A+VOTF OT B
+gamitin+A+VOBF NE B
+gamot+A+NCOM 2
+gamut+A+NCOM 2
+gamutin+A+VOBF NE B
+ganang+C+NCOM 2
+ganda+A+NCOM 2
+ganito+A+PCOP ST B
+ganitong+C+PCOP ST B
+ganoon+A+PCOP RD B
+ganoong+B+PCOP RD B
+gansa+A+NCOM 2
+gantimpala+A+NCOM 2
+ganyan+A+PCOP ND B
+ganyang+B+PCOP ND B
+ganyang-ganyan+A+PCOP ND B
+ganyang-ganyang+B+PCOP ND B
+gapiin+A+VOBF NE B
+garing+C+NCOM 2
+Garote+A+NPRO
+gaserang+C+NCOM 2
+gasino+A+AVSC AL
+gasinong+C+AVSC AL
+gatas+A+NCOM 2
+gatong+A+NCOM 2
+gawa+A+VOTF OT B
+gawa-gawa+A+NCOM 2
+gawain+A+NCOM 2
+gawaing+B+NCOM 2
+gawi+A+NCOM 2
+gawin+A+VOBF NE B
+gawing+B+ADUN
+gawing+B+NCOM 2
+gawing+B+VOBF NE B
+gaya+A+AVET AL
+gaya+A+NA
+gayahin+A+VOBF NE B
+gayo+A+NA
+gayo’y+A+NA
+gayon+A+NA
+gayon+A+PCOP RD B
+gayong+B+PCOP RD B
+gayun+A+PCOP RD B
+gayundin+A+NA
+gayung+B+PCOP RD B
+gayunman+A+NA
+gibain+A+VOBF NE B
+gilagid+A+NCOM 2
+gilid+A+NCOM 2
+ginabi+A+VOBF CM B
+ginagabi+A+VOBF IN B
+ginagamit+A+VOBF IN B
+ginagapangan+A+VOBF IN B
+ginagatungan+A+VOBF IN B
+ginagawa+A+VOBF IN B
+ginagawang+C+VOBF IN B
+ginagaya+A+VOBF IN B
+ginalit+A+VOBF CM B
+ginamit+A+VOBF CM B
+ginang+A+NCOM 1
+Ginang+A+NPRO
+ginantihan+A+VOBF CM B
+ginawa+A+VOBF CM B
+ginawang+C+VOBF CM B
+ginaya+A+VOBF CM B
+ginimbal+A+VOBF CM B
+ginisang+C+ADUN
+ginising+A+VOBF CM B
+ginoo+A+NCOM 1
+Ginoo+A+NPRO
+ginoong+C+NCOM 1
+Ginoong+C+NPRO
+ginto+A+ADUN
+ginto+A+NCOM 2
+gintong+C+ADUN
+ginugol+A+VOBF CM B
+ginugulan+A+VOBF CM B
+ginugulo+A+VOBF IN B
+ginulat+A+VOBF CM B
+ginulpi+A+VOBF CM B
+ginunita+A+VOBF CM B
+gipit+A+ADUN
+gisado+A+NCOM 2
+gisingin+A+VOBF NE B
+gitara+A+NCOM 2
+Gobernador+A+NPRO
+gobernadorcillo+A+NCOM 1
+Gomez+A+NPRO
+grabe+A+INTR
+Granada+A+NPRO
+guardia+A+NCOM 1
+gubat+A+NCOM 2
+Guevarra+A+NPRO
+gugulin+A+VOBF NE B
+guhit+A+NCOM 2
+gulang+A+NCOM 2
+gulay+A+NCOM 2
+gulo+A+ADUN
+gulo+A+NCOM 2
+gulod+A+NCOM 2
+gulok+A+NCOM 2
+gulong+A+NCOM 2
+Gulong+A+NPRO
+gumagabi+A+VACF IN B
+gumagala+A+VACF IN B
+gumagaling+A+VACF IN B
+gumagamit+A+VACF IN B
+gumagaralgal+A+VACF IN B
+gumagasta+A+VACF IN B
+gumagawa+A+VACF IN B
+gumala-gala+A+ADUN
+gumalaw+A+VACF CM B
+gumaling+A+VACF CM B
+gumamit+A+VACF CM B
+gumanda+A+VACF CM B
+gumapang+A+VACF CM B
+gumawa+A+VACF CM B
+gumigising+A+VACF IN B
+gumilid+A+VACF CM B
+gumon+A+ADUN
+gumugol+A+VACF CM B
+gumuguhit+A+VACF IN B
+gumuhit+A+VACF CM B
+gumuhong+C+VACF CM B
+gumulpi+A+VACF CM B
+gunita+A+NCOM 2
+gunitain+A+VOBF NE B
+guro+A+NCOM 1
+gusaling+C+NCOM 2
+gusot+A+ADUN
+gusto+A+AUXP
+Gusto+A+NPRO
+gustong+C+AUXP
+gustung-gusto+A+ADUN
+gutom+A+NCOM 2
+Guwardiya+A+NPRO
+guya+A+NCOM 2
+ha+A+INTR
+haba+A+NCOM 2
+habambuhay+A+NCOM 2
+habang+A+NA
+hadlang+A+NCOM 2
+hagdan+A+NCOM 2
+hagdanan+A+NCOM 2
+hagdanang+C+NCOM 2
+hagupit+A+NCOM 2
+hahakbang+A+VACF CN B
+hahampasin+A+VOBF CN B
+hahamunin+A+VOBF CN B
+hahanap+A+VACF CN B
+hahanapin+A+VOBF CN B
+hahangaan+A+VOBF CN B
+hahangarin+A+VACF CN B
+hahanguin+A+VOBF CN B
+hakbang+A+NCOM 2
+halaga+A+NCOM 2
+halagang+C+NCOM 2
+halakhak+A+NCOM 2
+halakhakan+A+NCOM 2
+halaman+A+NCOM 2
+halamanan+A+NCOM 2
+halamang+B+NCOM 2
+halata+A+ADUN
+haligi+A+NCOM 2
+halika’t+A+VOTF OT B
+halikan+A+VOBF NE B
+halimaw+A+NCOM 2
+halimbawa+A+NCOM 2
+halimbawang+C+NCOM 2
+halip+A+NA
+halos+A+ADNU
+halos+A+ADUN
+halos+A+AVCO AL
+halos+A+NA
+haltak+A+NCOM 2
+halughugin+A+VOBF NE B
+hamak+A+AVSO AL
+hamakin+A+VOBF NE B
+hambog+A+ADUN
+hamon+A+NCOM 2
+hampas+A+NCOM 2
+hamunin+A+VOBF NE B
+hanapin+A+VOBF NE B
+handa+A+ADUN
+handa+A+NCOM 2
+handa+A+VOTF OT B
+handaan+A+NCOM 2
+handaang+B+NCOM 2
+handog+A+NCOM 2
+hangad+A+NCOM 2
+hangal+A+NCOM 2
+hangang-hanga+A+ADUN
+hangarin+A+NCOM 2
+hangaring+B+NCOM 2
+hanggan+A+NCOM 2
+hangganan+A+NCOM 2
+hanggang+A+NCOM 2
+hanggang+A+PRTA
+hangin+A+NCOM 2
+hanging+B+NCOM 2
+hango+A+ADUN
+hapag+A+NCOM 2
+hapag-kainan+A+NCOM 2
+hapon+A+NCOM 1
+hapuaan+A+NCOM 2
+hapunan+A+NCOM 2
+harapan+A+NCOM 2
+harapin+A+VOBF NE B
+hardin+A+NCOM 2
+Hardin+A+NPRO
+hargin+A+NCOM 2
+hari+A+AVST AL
+hari+A+NCOM 2
+Haring+C+NPRO
+hatakin+A+VOBF NE B
+hati+A+NCOM 2
+hawak+A+ADUN
+hawak+A+NCOM 2
+hawak+A+VOTF OT B
+hawakan+A+NCOM 2
+hayaan+A+VOBF NE B
+hayaang+B+VOBF NE B
+hayan+A+PFOP ND B
+hayang+B+PFOP ND B
+hayon+A+PFOP RD B
+hayong+B+PFOP RD B
+hayop+A+NCOM 1
+hayun+A+PFOP RD B
+hayung+B+PFOP RD B
+helmet+A+NCOM 2
+hene-heneral+A+ADUN
+heneral+A+NCOM 1
+Heneral+A+NPRO
+henerasyon+A+NCOM 1
+heograpiya+A+NCOM 2
+hepe+A+NCOM 1
+hermana+A+NCOM 1
+Hermana+A+NPRO
+hermano+A+NCOM 1
+heroglifico+A+NCOM 2
+Hesuwita+A+NPRO
+Heswita+A+NPRO
+heto+A+PFOP ST B
+hetong+C+PFOP ST B
+hibang+A+NCOM 2
+higaan+A+NCOM 2
+higanteng+C+ADUN
+higit+A+AVCT AL
+higit+A+NA
+hihigit+A+ADUN
+hihigit+A+NA
+hihigitin+A+VOBF CN B
+hihikayatin+A+VOBF CN B
+hihilingin+A+VOBF CN B
+hihinaan+A+VOBF CN B
+hihingan+A+VOBF CN B
+hihingi+A+VACF CN B
+hihintayin+A+VOBF CN B
+hihinto+A+VACF CN B
+hikbing+C+NCOM 2
+hila+A+NCOM 2
+hila-hila+A+ADUN
+hilahin+A+VOBF NE B
+hilig+A+ADUN
+hilig+A+NCOM 2
+hiling+A+VOTF OT B
+hilingin+A+VOBF NE B
+himagsikan+A+NCOM 2
+himagsikang+B+NCOM 2
+himala+A+NCOM 2
+himig+A+NCOM 2
+himpilan+A+NCOM 2
+himutok+A+ADUN
+himutok+A+VOBF CM B
+hinabol+A+VOBF CM B
+hinadlangan+A+VOBF CM B
+hinagkan+A+VOBF CM B
+hinagupit+A+VOBF CM B
+hinahablot+A+VOBF IN B
+hinahabol+A+VOBF IN B
+hinahadlangan+A+VOBF IN B
+hinahaltak+A+VOBF IN B
+hinahamak+A+VOBF IN B
+hinahanap+A+VOBF CM B
+hinahanap+A+VOBF IN B
+hinahangad+A+VOBF IN B
+hinaharang+A+VOBF IN B
+hinaharap+A+NCOM 2
+hinaharap+A+VOBF IN B
+hinahati+A+VOBF IN B
+hinaing+A+NCOM 2
+hinala+A+NCOM 2
+hinalikan+A+VOBF CM B
+hinalinhan+A+VOBF CM B
+hinaltak+A+VOBF CM B
+hinamon+A+VOBF CM B
+hinanakit+A+NCOM 2
+hinanap+A+VOBF CM B
+hinangaan+A+VOBF CM B
+hinango+A+VOBF CM B
+hinaplos+A+VOBF CM B
+hinarap+A+VOBF CM B
+hinatak+A+VOBF CM B
+hinawakan+A+VOBF CM B
+hinayaan+A+VOBF CM B
+hindi+A+AVGI AL
+hindi+A+IRID
+hindi+A+MANE
+hingan+A+VOBF NE B
+hinggil+A+PRRE
+hingin+A+VOBF NE B
+hinihigaan+A+VOBF IN B
+hinihila+A+VOBF IN B
+hinihiling+A+VOBF IN B
+hinihimas+A+VOBF IN B
+hinihimas-himas+A+VOBF IN B
+hinihingi+A+VOBF IN B
+hinihintay+A+VOBF IN B
+hinihipan+A+VOBF IN B
+hiniling+A+VOBF CM B
+hinimok+A+VOBF CM B
+hininga+A+NCOM 2
+hiningan+A+VOBF CM B
+hiningi+A+VOBF CM B
+hininging+C+VOBF CM B
+hinintay+A+VOBF CM B
+hiniram+A+VOBF CM B
+hiniya+A+VOBF CM B
+hintayin+A+VOBF NE B
+hinuhubaran+A+VOBF IN B
+hinukay+A+VOBF CM B
+hinuli+A+VOBF CM B
+hinutok+A+VOBF CM B
+hipan+A+VOBF NE B
+hiram+A+NCOM 2
+hirap+A+ADUN
+hirap+A+NCOM 2
+hita+A+NCOM 2
+hitik+A+NCOM 2
+hitso+A+NCOM 2
+hitsong+C+NCOM 2
+hitsura+A+NCOM 2
+hiwalay+A+ADUN
+hiyas+A+NCOM 2
+hmmm+A+INTR
+ho+A+MAHM
+Hongkong+A+NPRO
+hoy+A+INTR
+Hoy+A+NPRO
+hubad+A+NCOM 2
+hubarin+A+VOBF NE B
+hubog+A+ADUN
+hubog+A+NCOM 2
+hudyat+A+NCOM 2
+hugis+A+NCOM 2
+hugis-ahas+A+ADUN
+huh+A+INTR
+huhulihin+A+VOBF CN B
+huhusgahan+A+VOBF CN B
+hukay+A+ADUN
+hukay+A+NCOM 2
+hukbo+A+NCOM 2
+hukbong+C+NCOM 2
+Hukom+A+NPRO
+hukuman+A+NCOM 2
+huli+A+ADUN
+huli+A+NCOM 1
+hulihan+A+NCOM 2
+hulihin+A+VOBF NE B
+huling+C+ADUN
+humadlang+A+VACF CM B
+humagilap+A+VACF CM B
+humagulgol+A+VACF IN B
+humahaginit+A+VACF IN B
+humahalakhak+A+VACF IN B
+humahalimuyak+A+VACF IN B
+humahamon+A+VACF IN B
+humahampas+A+VACF IN B
+humahanga+A+VACF IN B
+humahangang+C+VACF IN B
+humahangos+A+VACF IN B
+humalakhak+A+VACF IN B
+humalik+A+VACF CM B
+humamak+A+VACF CM B
+humanap+A+VACF CM B
+humanga+A+VACF CM B
+humawak+A+VACF CM B
+humigop+A+VACF CM B
+humihikab+A+VACF IN B
+humihikbi+A+VACF IN B
+humihinga+A+VACF IN B
+humihingi+A+VACF IN B
+humiling+A+VACF CM B
+humimutok+A+VACF CM B
+humingi+A+VACF CM B
+huminto+A+VACF CM B
+humintong+C+VACF CM B
+humuhuni+A+VACF IN B
+humukay+A+VACF CM B
+huni+A+NCOM 2
+hus+A+INTR
+hustisya+A+NCOM 2
+husto+A+NA
+hustong+C+NA
+huwad+A+ADUN
+huwag+A+IRID
+huwag+A+MAVN
+huwaran+A+NCOM 2
+Huwebes+A+NPRO
+huwepe+A+NCOM 1
+huwes+A+NCOM 1
+i+A+INTR
+iabot+A+VOBF NE B
+ialay+A+VOBF NE B
+ialo+A+NA
+iamang+A+ENCL
+iba+A+ADUN
+iba+A+PIDP NU B
+ibabad+A+VBEF CN B
+ibabayad+A+VBEF CN B
+ibala+A+VOBF NE B
+ibalik+A+VOBF NE B
+ibalita+A+VOBF NE B
+ibalot+A+VOBF NE B
+ibandila+A+VOBF NE B
+ibang+C+ADUN
+ibang+C+PIDP NU B
+ibang-iba+A+ADUN
+Ibarra+A+NPRO
+Ibarrang+C+NPRO
+ibat+A+ADUN
+ibayong+C+ADUN
+Iberia+A+NPRO
+ibibigay+A+VBEF CN B
+ibibili+A+VBEF CN B
+ibig+A+AUXP
+ibigay+A+VOBF NE B
+ibinaba+A+VOBF CM B
+ibinabalik+A+VOBF IN B
+ibinabayad+A+VOBF IN B
+ibinagsak+A+VOBF CM B
+ibinaling+B+VOBF CM B
+ibinalita+A+VOBF CM B
+ibinansag+A+VOBF CM B
+ibinaon+A+VOBF CM B
+ibinibilang+A+VOBF IN B
+ibinibintang+A+VOBF IN B
+ibinibitin+A+VOBF IN B
+ibinigay+A+VOBF CM B
+ibinili+A+VOBF CM B
+ibinitin+A+VOBF CM B
+ibintang+A+VOBF CM B
+ibinuga+A+VOBF CM B
+ibinuka+A+VOBF CM B
+ibinulong+A+VOBF CM B
+ibinunga+A+VOBF CM B
+ibon+A+NCOM 1
+ibong+B+NCOM 1
+iboto+A+VOBF NE B
+ibubuwal+A+VBEF CN B
+ibuka+A+VOBF NE B
+ibunton+A+VOBF NE B
+idaraos+A+VOBF NE B
+Iday+A+NPRO
+ideya+A+NCOM 2
+idinadaing+A+VOBF IN B
+idinadalangin+A+VOBF IN B
+idinagdag+A+VOBF CM B
+idinakot+A+VOBF CM B
+idinaos+A+VOBF CM B
+idinawit+A+VOBF CM B
+idiniin+A+VOBF CM B
+idiniit+A+VOBF CM B
+idinugtong+A+VOBF CM B
+igagala+A+VBEF CN B
+igagalang+A+VBEF CN B
+igagapos+A+VBEF CN B
+igalang+A+VBEF NE B
+igalang+A+VOBF NE B
+igaod+A+VOBF NE B
+iginagalang+A+VOBF IN B
+iginala+A+VOBF CM B
+iginuhit+A+VOBF CM B
+iha+A+NCOM 1
+ihagis+A+VOBF NE B
+ihahambing+A+VBEF CN B
+ihahanda+A+VBEF CN B
+ihahandog+A+VBEF CN B
+iha-handog+A+VBEF CN B
+ihaharap+A+VBEF CN B
+ihahatid+A+VBEF CN B
+ihambing+A+VOBF NE B
+ihanap+A+VOBF NE B
+ihanda+A+VBEF NE B
+ihanda+A+VOBF NE B
+ihandog+A+VOBF NE B
+ihatid+A+VOBF NE B
+ihawin+A+VOBF NE B
+iibigin+A+VOBF IN B
+iika-ika+A+ADUN
+iinsultuhin+A+VOBF CN B
+iisa+A+ADNU
+iisipin+A+VOBF CN B
+iiwan+A+VACF CN B
+ikaanim+A+ADNU
+ikaapat+A+ADNU
+ikabahala+A+VOBF NE B
+ikabubuti+A+ADUN
+ikabubuti+A+NA
+ikabubuti+A+VOBF CN B
+ikagagaling+A+NA
+ikagagaling+A+VOBF CN B
+ikagagalit+A+NA
+ikagalit+A+NA
+ikahiya+A+VOBF NE B
+ikakasal+A+NA
+ikalabing-apat+A+ADNU
+ikalawang+C+ADNU
+ikalimang+C+ADNU
+ikalulungkot+A+ADUN
+ikapapanatag+A+NA
+ikapito+A+ADNU
+ikasal+A+VBEF NE B
+ikatakot+A+VOBF NE B
+ikatatakot+A+ADUN
+ikatlong+C+ADNU
+ikatuwa+A+ADUN
+ikauunlad+A+ADUN
+ikaw+A+PANP ND S
+ikaw+A+PINP NU S
+ikawalo+A+ADNU
+ikinabalisa+A+VOBF CM B
+ikinagagalak+A+VOBF IN B
+ikinagaganda+A+VOBF IN B
+ikinagalit+A+VOBF CM B
+ikinagulat+A+VOBF CM B
+ikinaiiba+A+ADUN
+ikinalulungkot+A+VOBF IN B
+ikinamatay+A+VOBF CM B
+ikinasa+A+VOBF CM B
+ikinasama+A+VOBF CM B
+ikinasisiya+A+VOBF IN B
+ikinatahimik+A+ADUN
+ikinatutuwa+A+VOBF IN B
+ikinatuwa+A+VOBF CM B
+ikinibit+A+VOBF CM B
+ikinikilos+A+VOBF IN B
+ikinubli+A+VOBF CM B
+ikinuha+A+VOBF CM B
+ikinulong+A+VOBF CM B
+ikinumpisal+A+VOBF CM B
+ikinuwento+A+VOBF CM B
+iklian+A+VOBF NE B
+ikukulong+A+VBEF CN B
+ikukuwento+A+VBEF CN B
+ikuwento+A+VOBF NE B
+ilabas+A+VOBF NE B
+ilagay+A+VOBF NE B
+ilalabang+C+VBEF CN B
+ilalabang+B+VBEF CN B
+ilalabas+A+VBEF CN B
+ilalagay+A+VBEF CN B
+ilalampaso+A+VBEF CN B
+ilalim+A+PRPL
+ilan+A+PINP NU S
+ilang+B+PINP NU S
+ilang-ilang+A+NCOM 1
+ilapag+A+VOBF NE B
+ilaw+A+NCOM 2
+ilawan+A+NCOM 2
+ilibing+A+VBEF NE B
+ilibing+A+VOBF NE B
+iligtas+A+VBEF NE B
+iligtas+A+VOBF NE B
+ilihim+A+VOBF NE B
+ililigtas+A+VOBF IN B
+ililihim+A+VBEF CN B
+ililipat+A+VBEF CN B
+ilipat+A+VOBF NE B
+illegal+A+NCOM 2
+ilog+A+NCOM 2
+Ilog+A+NPRO
+ilong+A+NCOM 2
+ilong+A+PINP NU S
+iluha+A+VOBF NE B
+imahen+A+NCOM 2
+imbentor+A+NCOM 2
+imik+A+ADUN
+imik+A+NCOM 2
+imikan+A+ADUN
+iminumungkahi+A+VOBF IN B
+imno+A+NCOM 2
+impit+A+ADUN
+impiyerno+A+NCOM 2
+impluwensya+A+NCOM 2
+imposibleng+C+ADUN
+imungkahi+A+VOBF NE B
+ina+A+NCOM 1
+Ina+A+NPRO
+inaabot+A+VOBF IN B
+inaabuloy+A+VOBF IN B
+inaakala+A+VOBF IN B
+inaalala+A+VOBF IN B
+inaalam+A+VOBF IN B
+inaalis+A+VOBF IN B
+inaamin+A+VOBF IN B
+inaanak+A+NCOM 1
+inaangkat+A+VOBF IN B
+inaaninag+A+VOBF IN B
+inaantok+A+VOBF IN B
+inaanyayahan+A+VOBF IN B
+inaaresto+A+VOBF IN B
+inaasahan+A+VOBF IN B
+inaasal+A+VOBF IN B
+inaasikaso+A+VOBF IN B
+inaatake+A+VOBF IN B
+inaaway+A+VOBF IN B
+inaayos+A+VOBF IN B
+inabot+A+VOBF CM B
+inahin+A+NCOM 1
+inahing+B+NCOM 1
+ina-inahan+A+ADUN
+inakala+A+VOBF CM B
+inakusahan+A+VOBF CM B
+inakyat+A+VOBF CM B
+inalalayan+A+VOBF IN B
+inalam+A+VOBF CM B
+inalipusta+A+VOBF CM B
+inalis+A+VOBF CM B
+inamin+A+VOBF CM B
+inang+C+NCOM 1
+inang+A+NCOM 1
+Inang+A+NPRO
+inantok+A+VOBF CM B
+inanyayahan+A+VOBF CM B
+inapi+A+VOBF CM B
+inaprubahan+A+VOBF CM B
+inawit+A+VOBF CM B
+inayos+A+VOBF CM B
+indigo+A+NCOM 2
+Indiyo+A+NPRO
+Indiyong+C+NPRO
+indulgencia+A+NCOM 1
+indulhensiya+A+NCOM 1
+indulhensiyang+C+NCOM 1
+Ines+A+NPRO
+ingay+A+NCOM 2
+inggit+A+ADUN
+inginunguso+A+VOBF IN B
+Inglatera+A+NPRO
+Ingles+A+NPRO
+iniaabot+A+VOBF IN B
+iniabot+A+VOBF CM B
+inialok+A+VOBF CM B
+iniangat+A+VOBF CM B
+inihagis+A+VOBF CM B
+inihahanda+A+VOBF IN B
+inihaharap+A+VOBF IN B
+inihalal+A+VOBF CM B
+inihalimbawa+A+VOBF CM B
+inihambing+A+VOBF CM B
+inihampas+A+VOBF CM B
+inihanda+A+VOBF CM B
+iniharap+A+VOBF CM B
+inihatid+A+VOBF CM B
+inihinto+A+VOBF CM B
+inihudyat+A+VOBF CM B
+inihulog+A+VOBF CM B
+iniibig+A+VOBF IN B
+iniilag+A+VOBF IN B
+iniisip+A+VOBF IN B
+iniiwas+A+VOBF IN B
+iniiwasan+A+VOBF IN B
+inilabas+A+VOBF CM B
+inilagay+A+VOBF CM B
+inilagi+A+VOBF CM B
+inilakas+A+VOBF CM B
+inilalaan+A+VOBF IN B
+inilalabas+A+VOBF IN B
+inilalagay+A+VOBF IN B
+inilalayo+A+VOBF IN B
+inilantad+A+VOBF CM B
+inilapag+A+VOBF CM B
+inilarawan+A+VOBF CM B
+inilibing+A+VOBF CM B
+inilibot+A+VOBF CM B
+iniligtas+A+VOBF CM B
+inilihim+A+VOBF CM B
+inilihis+A+VOBF CM B
+inilipat+A+VOBF CM B
+inilubog+A+VOBF CM B
+ininom+A+VOBF CM B
+inisip+A+VOBF CM B
+init+A+NCOM 2
+iniurong+A+VOBF CM B
+iniutos+A+VOBF CM B
+iniuukol+A+VOBF IN B
+iniwan+A+VOBF CM B
+iniwanan+A+VOBF CM B
+inosenteng+C+ADUN
+INRI+A+NABB
+inspirasyon+A+NCOM 2
+institusyong+B+NCOM 2
+interes+A+NCOM 2
+interesado+A+NCOM 2
+Intramuros+A+NPRO
+Intsik+A+NPRO
+inumang+B+NCOM 2
+inumangan+A+VOBF CM B
+inumin+A+NCOM 2
+inumin+A+VOBF CM B
+inungkat+A+VOBF CM B
+inusig+A+VOBF CM B
+inutusan+A+VOBF CM B
+inuulit+A+VOBF IN B
+inuusig+A+VOBF IN B
+inuutos+A+VOBF IN B
+inyo+A+PSAP ND P
+inyong+C+PSAP ND P
+ipaalam+A+VBEF NE B
+ipaalam+A+VOBF NE B
+ipabibilanggo+A+VBEF CN B
+ipadurog+A+VBEF NE B
+ipagamot+A+VBEF NE B
+ipagbawal+A+VBEF NE B
+ipagbibilin+A+VBEF CN B
+ipagdaramdam+A+VBEF CN B
+ipagdarasal+A+VBEF NE B
+ipagdiwang+A+VBEF NE B
+ipaghiganti+A+VBEF NE B
+ipagkakait+A+VBEF CN B
+ipagkakaloob+A+VBEF CN B
+ipagkaloob+A+VBEF NE B
+ipagkanulo+A+VBEF NE B
+ipagmalaki+A+VBEF NE B
+ipagmamalaki+A+VBEF CN B
+ipagpamisa+A+VBEF NE B
+ipagpapagawa+A+VBEF CN B
+ipagpatawad+A+VBEF NE B
+ipagpatuloy+A+VBEF NE B
+ipagpaumanhin+A+VBEF NE B
+ipagpilitan+A+VBEF NE B
+ipagsanggalang+C+VBEF NE B
+ipagtabi+A+VBEF NE B
+ipagtaka+A+VBEF NE B
+ipagtanggol+A+VBEF NE B
+ipagtapat+A+VBEF NE B
+ipagtulakan+A+VBEF NE B
+ipag-umpugan+A+VBEF NE B
+ipahahanap+A+VBEF CN B
+ipahihintulot+A+VBEF CN B
+ipahintulot+A+VBEF NE B
+ipahintulot+A+VOBF NE B
+ipahiwatig+A+VOBF NE B
+ipahukay+A+VBEF NE B
+ipahuli+A+VBEF NE B
+ipakakasal+A+VBEF CN B
+ipakasal+A+VBEF NE B
+ipakikipaglaban+A+VOBF IN B
+ipakikita+A+VBEF CN B
+ipakilala+A+VBEF NE B
+ipakipaglaban+A+VBEF CM B
+ipakita+A+VOBF NE B
+ipakulong+A+VOBF NE B
+ipamukha+A+VBEF NE B
+ipapagpag+A+VBEF NE B
+ipapalabas+A+VBEF CN B
+ipapasiya+A+VBEF CN B
+ipararating+A+VBEF CN B
+iparating+A+VBEF NE B
+iparinig+A+VOBF NE B
+ipasabi+A+VOBF NE B
+ipasaulo+A+VOBF NE B
+ipasiya+A+VOBF CM B
+ipatanggal+A+VOBF NE B
+ipatong+A+VOBF CM B
+ipatong+A+VOBF NE B
+ipatungkol+A+VBEF NE B
+ipatungkol+A+VOBF NE B
+ipatupad+A+VOBF NE B
+ipaubaya+A+VOBF NE B
+ipesa+A+NCOM 2
+ipikit+A+VOBF NE B
+ipinaaalam+A+VBEF IN B
+ipinaaawit+A+VBEF IN B
+ipinaako+A+VBEF IN B
+ipinaalam+A+VOBF CM B
+ipinadala+A+VOBF CM B
+ipinadikit+A+VOBF CM B
+ipinagagawa+A+VBEF IN B
+ipinagamot+A+VBEF CM B
+ipinagbibili+A+VBEF IN B
+ipinagbilin+A+VBEF CM B
+ipinagdasal+A+VBEF CM B
+ipinagdiinan+A+VBEF CM B
+ipinaghanda+A+VBEF CM B
+ipinaghiganti+A+VBEF CM B
+ipinagigiba+A+VOBF IN B
+ipinagising+A+VOBF CM B
+ipinagkaloob+A+VBEF CM B
+ipinagmalaki+A+VBEF CM B
+ipinagmamalaki+A+VBEF IN B
+ipinagpalagay+A+VOBF CM B
+ipinagpalit+A+VBEF CM B
+ipinagpapasalamat+A+VBEF IN B
+ipinagpapatuloy+A+VBEF IN B
+ipinagpatuloy+A+VBEF CM B
+ipinagtabuyan+A+VBEF CM B
+ipinagtaka+A+VBEF CM B
+ipinagtanggol+A+VBEF CM B
+ipinagtanong+A+VBEF CM B
+ipinagtapat+A+VBEF CM B
+ipinagtataka+A+VBEF IN B
+ipinagtatanggol+A+VBEF IN B
+ipinagtulakan+A+VBEF CM B
+ipinagyabang+A+VBEF CM B
+ipinagyayabang+A+VBEF IN B
+ipinahayag+A+VBEF CM B
+ipinahihiwatig+A+VBEF IN B
+ipinahila+A+VBEF CM B
+ipinainom+A+VBEF CM B
+ipinakikipaglaban+A+VOBF IN B
+ipinakikiusap+A+VBEF IN B
+ipinakilala+A+VBEF CM B
+ipinakipaglaban+A+ADUN
+ipinakita+A+VBEF CM B
+ipinako+A+VBEF CM B
+ipinakulong+A+VBEF CM B
+ipinakulot+A+VBEF CM B
+ipinalagay+A+VBEF CM B
+ipinalalagay+A+VBEF IN B
+ipinalipat+A+VBEF CM B
+ipinalipat+A+VOBF CM B
+ipinamana+A+VBEF CM B
+ipinangako+A+VBEF CM B
+ipinanganak+A+VBEF CM B
+ipinanganganak+A+VBEF IN B
+ipinapalagay+A+VBEF IN B
+ipinapanhik+A+VBEF IN B
+ipinapastol+A+VBEF IN B
+ipinapayong+C+VBEF IN B
+ipinarito+A+VBEF CM B
+ipinarusa+A+VBEF CM B
+ipinasabi+A+VBEF CM B
+ipinasabing+C+VBEF CM B
+ipinasiya+A+VBEF CM B
+ipinasok+A+VBEF CM B
+ipinasok+A+VOBF CM B
+ipinasundo+A+VBEF CM B
+ipinasya+A+VOBF CM B
+ipinataw+A+VBEF CM B
+ipinatawag+A+VBEF CM B
+ipinatong+A+VBEF CM B
+ipinatong+A+VOBF CM B
+ipinatungkol+A+VBEF CM B
+ipinauubaya+A+VBEF IN B
+ipinauunawa+A+VBEF IN B
+ipinukol+A+VBEF CM B
+iputong+A+VOBF NE B
+Irene+A+NPRO
+isa+A+ADNU
+isa+A+PIDP NU B
+isaalang-alang+A+VBEF IN B
+Isabel+A+NPRO
+Isagani+A+NPRO
+Isaganing+C+NPRO
+isagawa+A+VOBF NE B
+isakatuparan+A+NA
+isakatuparan+A+VOBF NE B
+isakdal+A+VOBF NE B
+isakripisyo+A+VOBF CM B
+isama+A+VBEF NE B
+isandaan+A+ADNU
+isang+C+ADNU
+isang+C+PIDP NU B
+isangguni+A+VBEF NE B
+isantabi+A+VOBF NE B
+isapin+A+VOBF NE B
+isasabog+A+VBEF CN B
+isasagawa+A+VBEF CN B
+isasakatuparan+A+VBEF CN B
+isasalaysay+A+VBEF CN B
+isda+A+NCOM 1
+isdang+C+NCOM 1
+isigang+A+VOBF NE B
+isilang+A+VOBF NE B
+isinakdal+A+VOBF CM B
+isinalaysay+A+VOBF CM B
+isinalubong+A+VOBF CM B
+isinara+A+VOBF CM B
+isinasaad+A+VBEF IN B
+isinasaalang-alang+A+VBEF IN B
+isinasabalikat+A+VBEF IN B
+isinasalin+A+VBEF IN B
+isinasaulo+A+VBEF IN B
+isinilang+A+VOBF CM B
+isinilid+A+VOBF CM B
+isinisiksik+A+VBEF IN B
+isinulat+A+VOBF CM B
+isinumpa+A+VOBF CM B
+isinusulat+A+VBEF IN B
+isinusumpa+A+VBEF IN B
+isinusuot+A+VBEF IN B
+isip+A+NCOM 2
+isipa’t+A+NCOM 2
+isipan+A+NCOM 2
+isipang+B+NCOM 2
+isipin+A+VOBF NE B
+isiping+B+VOBF NE B
+iskolar+A+NCOM 1
+isponsor+A+NCOM 1
+isuko+A+VOBF NE B
+isulat+A+VOBF NE B
+isuplong+A+VOBF NE B
+isusumbong+A+VBEF CN B
+isusumpa+A+VBEF CN B
+itaas+A+VOBF NE B
+itago+A+VOBF NE B
+itaguyod+A+VOBF NE B
+itala+A+VOBF NE B
+Italya+A+NPRO
+itanong+A+VBEF NE B
+itanong+A+VOBF NE B
+itatago+A+VBEF NE B
+itatali+A+VBEF NE B
+itatanong+A+VBEF CN B
+itataya+A+VBEF CN B
+itim+A+ADUN
+itinaas+A+VOBF CM B
+itinago+A+VOBF CM B
+itinakas+A+VOBF CM B
+itinakwil+A+VOBF CM B
+itinali+A+VOBF CM B
+itinanan+A+NA
+itinanong+A+VOBF CM B
+itinapat+A+VOBF CM B
+itinapon+A+VOBF CM B
+itinatago+A+VBEF IN B
+itinatagong+C+VBEF IN B
+itingala+A+VOBF CM B
+itinigil+A+VOBF CM B
+itinirik+A+VOBF CM B
+itinitinda+A+VBEF IN B
+itinuloy+A+VOBF CM B
+itinuring+A+VOBF CM B
+itinuro+A+VOBF CM B
+itinurong+C+VOBF CM B
+itinuturing+A+VBEF IN B
+itinuturo+A+VBEF IN B
+ito+A+PAND ST B
+itong+C+PAND ST B
+itukod+A+VOBF NE B
+ituloy+A+VOBF NE B
+ituring+A+VBEF NE B
+ituring+A+VOBF NE B
+ituro+A+VOBF NE B
+ituturing+A+VBEF CN B
+iuwi+A+VBEF NE B
+iuwi+A+VOBF NE B
+iwan+A+VOBF NE B
+iwan+A+VOTF OT B
+iwanan+A+NA
+iwanan+A+VOBF NE B
+iyak+A+NCOM 2
+iyan+A+PAND ND B
+iyan+A+PINP NU S
+iyang+B+PAND ND B
+iyang+B+PINP NU S
+iyo+A+PSAP ND S
+iyon+A+PAND RD B
+iyong+C+PSAP ND S
+iyong+B+PAND RD B
+iyun+A+PAND RD B
+iyung+B+PAND RD B
+Jacinto+A+NPRO
+Janyll+A+NPRO
+Jose+A+NPRO
+Juan+A+NPRO
+Juanito+A+NPRO
+Justin+A+NPRO
+ka+A+ENCL
+ka+A+PANP ND S
+kaakit-akit+A+ADUN
+kaalamang+B+NCOM 2
+kaalipinan+A+NCOM 2
+kaanyuan+A+NCOM 2
+kaarawan+A+NCOM 2
+kaasalan+A+NCOM 2
+kaawaan+A+NCOM 2
+kaawaan+A+VBEF NE B
+kaawa-awa+A+ADUN
+kaawa-awang+C+ADUN
+kaaway+A+NCOM 2
+kaayusan+A+NCOM 2
+kaba+A+NCOM 2
+kababa+A+ADUN
+kababaan+A+NCOM 2
+kababaang-loob+A+NCOM 2
+kababaihan+A+NCOM 1
+kababakasan+A+ADUN
+kababalaghang+B+NCOM 2
+kababanaagan+A+ADUN
+kababawan+A+NCOM 2
+kababayan+A+NCOM 2
+kababayang+B+NCOM 2
+kabahayan+A+NCOM 2
+kabaitan+A+NCOM 2
+kabaliwan+A+NCOM 2
+kabanalan+A+NCOM 2
+Kabanal-banalang+B+NPRO
+kabanata+A+NCOM 2
+kabataan+A+NCOM 1
+kabataang+B+ADUN
+kabataang+B+NCOM 2
+kabayanan+A+NCOM 2
+kabayanihan+A+NCOM 2
+kabayaran+A+NCOM 2
+kabayo+A+NCOM 1
+kabayong+C+NCOM 1
+kabayuhang+B+NCOM 2
+kabesa+A+NCOM 2
+kabiguan+A+NCOM 2
+kabila+A+NA
+kabilang+C+ADUN
+kabilang+C+NA
+kabinataan+A+NCOM 2
+kabisera+A+NCOM 2
+kablegrama+A+NCOM 2
+kabonegro+A+NCOM 2
+kabuhayan+A+NCOM 2
+kabuluhan+A+NCOM 2
+kabundukan+A+NCOM 2
+kabutihan+A+NCOM 2
+kabutihang+B+NCOM 2
+kabuuan+A+NCOM 2
+kadahilanang+B+NCOM 2
+kadalagahan+A+NCOM 2
+kadalagahang+B+NCOM 2
+kadalisayan+A+NCOM 2
+kadena+A+NCOM 2
+kadete+A+NCOM 1
+kadeteng+C+NCOM 1
+kadiliman+A+NCOM 2
+kadilimang+B+NCOM 2
+kagagawan+A+NCOM 2
+kagalakan+A+NCOM 2
+kagalang-galang+A+ADUN
+kagalingan+A+NCOM 2
+kagalit+A+NCOM 2
+kagandahan+A+NCOM 2
+kagandahang-loob+A+NCOM 2
+kagaspangan+A+NCOM 2
+kagaya+A+NA
+kagiliwan+A+NCOM 2
+kaginoohan+A+NCOM 2
+kagipitan+A+NCOM 2
+kagubatan+A+NCOM 2
+kagubatang+B+NCOM 2
+kaguluhan+A+NCOM 2
+kagustuhan+A+NCOM 2
+kahabag-habag+A+ADUN
+kahalagahan+A+NCOM 2
+kahalayan+A+NCOM 2
+kahalubilo+A+ADUN
+kahambugan+A+NCOM 2
+kahangalan+A+NCOM 2
+kahapon+A+AVPA AL
+kaharap+A+NCOM 2
+kahawig+A+NCOM 2
+kahihiyan+A+NCOM 2
+kahilingan+A+NCOM 2
+kahinaan+A+NCOM 2
+kahirapan+A+NCOM 2
+kahirapang+B+NCOM 2
+kahit+A+CONI
+kahit+A+NA
+kahoy+A+NCOM 2
+kahulugan+A+NCOM 2
+kahusayan+A+NCOM 2
+kaibigan+A+NCOM 2
+kaibigang+B+NCOM 2
+kaiinggitan+A+ADUN
+kailan+A+PINP NU S
+kailang+B+PINP NU S
+kailangan+A+NA
+kailangan+A+VOTF OT B
+kailangang+B+NA
+kailangang+B+VOTF OT B
+kainan+A+NCOM 2
+kaingay+A+ADUN
+kaipala+A+PINP NU S
+kaipalang+C+PINP NU S
+kaisa-isang+C+ADNU
+kaisipan+A+NCOM 2
+kaisipang+B+NCOM 2
+kakaiba+A+ADUN
+kakailanganin+A+VOBF CN B
+kakainin+A+VOBF CN B
+kakambal+A+NCOM 2
+kakanin+A+NCOM 2
+kakasa-kasalanan+A+NCOM 2
+kakatwang+C+ADUN
+kakayahan+A+NCOM 2
+kakayanin+A+VOBF CN B
+kakikitaan+A+ADUN
+kakila-kilabot+A+ADUN
+kakilala+A+ADUN
+kakilala+A+NCOM 1
+kakilus-kilos+A+ADUN
+kaktus+A+NCOM 1
+kakubaan+A+NCOM 2
+kakukumpisal+A+VOTF RC B
+kakulangan+A+NCOM 2
+kalaban+A+NCOM 1
+kalabanin+A+VOBF NE B
+kalabar+A+NCOM 2
+kalabaw+A+NCOM 1
+kalabisan+A+NCOM 2
+kalabitin+A+VOBF NE B
+kaladkad+A+ADUN
+kaladkarin+A+ADUN
+kalagayan+A+NCOM 2
+kalaguyo+A+NCOM 1
+kalahati+A+ADUN
+kalakal+A+NCOM 2
+kalakaran+A+NCOM 2
+kalaki+A+ADUN
+kalalakihan+A+NCOM 1
+kalalakihang+B+NCOM 1
+kalan+A+NCOM 2
+kalang+B+NCOM 2
+kalangitan+A+NCOM 2
+kalansay+A+NCOM 2
+kalansing+A+ADUN
+kalansing+A+NCOM 2
+kalansingan+A+NCOM 2
+kalaparan+A+NCOM 2
+kalapati+A+NCOM 1
+kalapating+C+NCOM 1
+kalapit+A+ADUN
+kalapitan+A+NCOM 2
+kalapit-bayan+A+NCOM 2
+kalaro+A+NCOM 1
+kalaswaan+A+NCOM 2
+kalaunan+A+NCOM 2
+kalawakan+A+NCOM 2
+kalawanging+B+ADUN
+kalayaan+A+NCOM 2
+kalayuan+A+NCOM 2
+kalesa+A+NCOM 2
+kalidatan+A+NCOM 2
+kaligatan+A+NCOM 2
+kaligayahan+A+NCOM 2
+kaligtasan+A+NCOM 2
+kalihim+A+NCOM 2
+Kalihim+A+NPRO
+kalihim-munisipal+A+NCOM 2
+kalikasan+A+NCOM 2
+kalilibing+A+VOTF RC B
+kalilimutan+A+VOBF CN B
+kalimutan+A+VOBF NE B
+kalingkingan+A+NCOM 2
+kaliwa+A+ADUN
+kalmot+A+NCOM 2
+kalooban+A+NCOM 2
+kaloobang+B+NCOM 2
+kaluluwa+A+NCOM 2
+kaluluwa’y+A+NCOM 1
+kaluluwang+C+NCOM 1
+kalungkutan+A+NCOM 2
+kalungkutang+B+NCOM 2
+kalunus-lunos+A+ADUN
+kalupitan+A+NCOM 2
+kalusugan+A+NCOM 2
+kalutasan+A+NCOM 2
+kalye+A+NCOM 2
+Kalye+A+NPRO
+kamaganak+A+NCOM 1
+kamag-anak+A+NCOM 1
+kamag-angkan+A+NCOM 1
+kamagong+A+NCOM 2
+kamahalan+A+NCOM 1
+Kamahalan+A+NPRO
+kamakalawa+A+AVDE AL
+kamalasan+A+NCOM 2
+kamalas-malasan+A+ADUN
+kamalayan+A+NCOM 2
+kamalian+A+NCOM 2
+kamandag+A+NCOM 2
+kamangmangan+A+NCOM 2
+kamao+A+NCOM 2
+kamatayan+A+NCOM 2
+kamatis+A+NCOM 2
+kamay+A+NCOM 2
+Kamaynilaan+A+NPRO
+kambal+A+NCOM 1
+kambing+A+NCOM 1
+kami+A+PANP ST P
+kamilya+A+NCOM 1
+kamilyang+C+NCOM 1
+kaming+C+PANP ST P
+kamisang+C+NCOM 2
+kamiseta+A+NCOM 2
+kampana+A+NCOM 2
+kampanaryo+A+NCOM 2
+kamunduhan+A+NCOM 2
+kamurahan+A+NCOM 2
+kamuwangan+A+NCOM 2
+kamyas+A+NCOM 1
+kanang+B+ADUN
+kandila+A+NCOM 2
+kandilang+C+NCOM 2
+kang+C+ENCL
+kang+C+PANP ND S
+kanganganga+A+ADUN
+kani-kanilang+C+PINP NU P
+kanila+A+PSAP RD P
+kanilang+C+PSAP RD P
+kanin+A+NCOM 2
+kanina+A+AVPA AL
+kanino+A+PINP NU S
+kaninong+C+PINP NU S
+kaninuman+A+PIDP NU B
+kaninumang+B+PIDP NU B
+kaniya+A+PSAP RD S
+kaniyang+C+PSAP RD S
+kanta+A+NCOM 2
+kantanod+A+NCOM 2
+kanugnog-bayan+A+NCOM 2
+kanyon+A+NCOM 2
+kapag+A+CONU
+kapaguran+A+NCOM 2
+kapahamakan+A+NCOM 2
+kapaitan+A+NCOM 2
+kapakanan+A+NCOM 2
+kapalaran+A+NCOM 2
+kapalarang+B+NCOM 2
+kapaligiran+A+NCOM 2
+kapalit+A+NCOM 2
+kapanahon+A+ADUN
+kapanalig+A+NCOM 2
+kapanatagan+A+NCOM 2
+kapanganib+A+NCOM 2
+kapangyarihan+A+NCOM 2
+kapangyarihang+B+NCOM 2
+kapansin-pansin+A+ADUN
+kaparusahan+A+NCOM 2
+kapatagan+A+NCOM 2
+kapatawaran+A+NCOM 2
+kapatid+A+NCOM 2
+kapayapaan+A+NCOM 2
+kape+A+NCOM 2
+kapiling+A+ADUN
+kapiling+A+NCOM 1
+kapilya+A+NCOM 2
+kapintasan+A+NCOM 2
+kapirasong+C+ADUN
+Kapisanan+A+NPRO
+kapistahan+A+NCOM 2
+kapitan+A+NCOM 1
+Kapitan+A+NPRO
+Kapitana+A+NPRO
+kapitang+B+NCOM 1
+kapitan-heneral+A+NCOM 1
+Kapitan-Heneral+A+NPRO
+kapitbahay+A+NCOM 2
+kapitolyo+A+NCOM 2
+kapormalan+A+NCOM 2
+kapritso+A+NCOM 2
+kapritsoso+A+NCOM 2
+kapuluan+A+NCOM 2
+kapuluang+B+NCOM 2
+kapurihan+A+NCOM 2
+kapus-palad+A+NCOM 2
+kaputol+A+NCOM 2
+kapwa+A+AVEO AL
+kapwa+A+PIDP NU B
+kapwang+C+PIDP NU B
+karagdagang+B+ADUN
+karaingan+A+NCOM 2
+karaingang+B+NCOM 2
+karamdaman+A+NCOM 2
+karami+A+ADUN
+karamihan+A+PIDP NU B
+karamihang+B+PIDP NU B
+karanasan+A+NCOM 2
+karanasang+B+NCOM 2
+karangalan+A+NCOM 2
+karangalang+B+NCOM 2
+karaniwan+A+ADUN
+karaniwan+A+NCOM 2
+karaniwang+B+ADUN
+karapatan+A+NCOM 2
+karapatang+B+NCOM 2
+karapat-dapat+A+ADUN
+kararating+A+VOTF RC B
+karatig-bayan+A+ADUN
+karatig-bayan+A+NCOM 2
+karatig-bayang+B+NCOM 2
+karatulang+C+NCOM 2
+karayom+A+NCOM 2
+kargador+A+NCOM 2
+karimlan+A+NCOM 2
+kariton+A+NCOM 2
+karitong+B+NCOM 2
+karpet+A+NCOM 2
+kartong+B+NCOM 2
+karukhaan+A+NCOM 2
+karumaldumal+A+ADUN
+karunungan+A+NCOM 2
+karuwagan+A+NCOM 2
+karwahe+A+NCOM 2
+karwaheng+C+NCOM 2
+karware+A+NCOM 2
+kasabay+A+NCOM 2
+kasabihang+B+NCOM 2
+kasaganaan+A+NCOM 2
+kasagutan+A+NCOM 2
+kasagwaan+A+NCOM 2
+kasa-kasama+A+ADUN
+kasa-kasama+A+NCOM 2
+kasal+A+NCOM 2
+kasalanan+A+NCOM 2
+kasalanang+B+NCOM 2
+kasalubong+A+ADUN
+kasalukuyan+A+NCOM 2
+kasalukuyang+B+ADUN
+kasama+A+ADUN
+kasama+A+NCOM 1
+kasamaan+A+NCOM 2
+kasamaang+B+ADUN
+kasamaang+B+NCOM 2
+kasamaang-palad+A+NCOM 2
+kasamahan+A+NCOM 1
+kasamang+C+NCOM 1
+kasangkapang+B+NCOM 2
+kasapi+A+NCOM 1
+kasasangga+A+NCOM 1
+kasawian+A+NCOM 2
+kasawiang+B+NCOM 2
+kasawiang-palad+A+NCOM 2
+kasayahan+A+NCOM 2
+kasayahang+B+NCOM 2
+kasaysayan+A+NCOM 2
+kasi+A+NA
+kasibulang+B+NCOM 2
+kasiglahan+A+NCOM 2
+kasimputi+A+ADCO S
+kasing-itim+A+ADCO S
+kasingkatawan+A+ADCO S
+kasiningan+A+NCOM 2
+kasintahan+A+NCOM 2
+kasintahang+B+NCOM 2
+kasinungalinan+A+NCOM 2
+kasinungalingan+A+NCOM 2
+kasiraan+A+NCOM 2
+kasisinagan+A+ADUN
+kasiyahan+A+NCOM 2
+kasiya-siya+A+ADUN
+kaso+A+NCOM 2
+kasosyo+A+NCOM 1
+kastila+A+NCOM 1
+Kastila+A+NPRO
+Kastilang+C+NPRO
+kasuhan+A+VOBF NE B
+kasulatan+A+NCOM 2
+kasundo+A+ADUN
+kasundo+A+NCOM 2
+kasunod+A+ADUN
+kasunod+A+NCOM 2
+kasuotan+A+NCOM 2
+kasuyo+A+NCOM 2
+katabaan+A+NCOM 2
+katabi+A+ADUN
+katabi+A+NCOM 1
+katabing+C+ADUN
+katagal+A+ADUN
+katagalan+A+NCOM 2
+katahimikan+A+NCOM 2
+katakutan+A+ADUN
+katakutan+A+NCOM 2
+katamaran+A+NCOM 2
+katampalasanang+B+NCOM 2
+katamtaman+A+ADUN
+katandaan+A+NCOM 2
+katangian+A+NCOM 2
+katangiang+B+NCOM 2
+katanungan+A+NCOM 2
+katapangan+A+NCOM 2
+katapat+A+ADUN
+katapatan+A+NCOM 2
+katapusan+A+NCOM 2
+katarungan+A+NCOM 2
+katarungang+B+NCOM 2
+katataas+A+ADUN
+katatagan+A+NCOM 2
+katatanggap+A+VOTF RC B
+katatapos+A+VOTF RC B
+katauhan+A+NCOM 2
+katauhang+B+NCOM 2
+katawan+A+NCOM 2
+katesismo+A+NCOM 2
+katesismong+C+NCOM 2
+katibayan+A+NCOM 2
+katinuan+A+NCOM 2
+katiwala+A+NCOM 2
+katok+A+NCOM 2
+Katoliko+A+NPRO
+katotohana+A+NCOM 2
+katotohanan+A+NCOM 2
+katotohanang+B+NCOM 2
+katulad+A+NA
+katulad+A+NCOM 2
+katulong+A+NCOM 2
+katumbas+A+NCOM 2
+katungkula+A+NCOM 2
+katungkulan+A+NCOM 2
+katusuhan+A+NCOM 2
+katutubo+A+NCOM 1
+katutubong+C+ADUN
+katutubong+C+NCOM 1
+katuturan+A+NCOM 2
+katuwaan+A+NCOM 2
+katuwiran+A+NCOM 2
+katuwirang+B+NCOM 2
+katwiran+A+NCOM 2
+kaugalian+A+NCOM 2
+kaugaliang+B+NCOM 2
+kaugnayan+A+NCOM 2
+kauna-unahang+B+ADUN
+kaunlaran+A+NCOM 2
+kaunlarang+B+NCOM 2
+kaunti+A+ADUN
+kaunting+C+ADUN
+kausap+A+NA
+kausap+A+NCOM 1
+kausapin+A+VOBF NE B
+kautusan+A+NCOM 2
+kaututang+A+ADUN
+kauutos+A+ADUN
+kavsa+A+NA
+kawal+A+NCOM 1
+kawala+A+ADUN
+kawalan+A+NCOM 2
+kawalang+B+ADUN
+kawalang-malay+A+ADUN
+kawani+A+NCOM 1
+kawaning+C+NCOM 1
+kawawa+A+ADUN
+kawawaan+A+NCOM 2
+kawawaang+B+ADUN
+kawawang+C+ADUN
+kawayan+A+NCOM 2
+kawayanan+A+NCOM 2
+kawayang+B+NCOM 2
+kawilihian+A+NCOM 2
+kawili-wili+A+ADUN
+kay+A+DEPS DAT
+kay+A+NA
+kaya+A+ADUN
+kaya+A+CONM
+kaya+A+ENCL
+kaya+A+NA
+kaya+A+PIDP NU B
+kaya’y+A+NA
+kayabangan+A+NCOM 2
+kayamanan+A+NCOM 2
+kayang+C+ENCL
+kayang+C+PIDP NU B
+kayat+A+NA
+kaygandang+C+ADUN
+kayo+A+PANP ND P
+kayong+C+PANP ND P
+kaysa+A+NA
+kaytagal+A+NA
+kayumanggi+A+ADUN
+kayumangging+C+ADUN
+kibo+A+ADUN
+kibo+A+NCOM 2
+kibong+C+ADUN
+kibong+C+NCOM 2
+kidlat+A+NCOM 2
+kilabot+A+NCOM 2
+kilala+A+ADUN
+kilalang+C+ADUN
+kilalang-kilala+A+ADUN
+kilalanin+A+VOBF NE B
+kilos+A+NCOM 2
+kina+A+DEPP DAT
+kina+A+NA
+kinaaawaan+A+VOBF IN B
+kinaawaan+A+VOBF CM B
+kinabahan+A+VOBF CM B
+kinabibilangan+A+VOBF IN B
+kinabukasan+A+NCOM 2
+kinagat+A+VOBF CM B
+kinagigiliwan+A+VOBF IN B
+kinagiliwan+A+VOBF CM B
+kinahabagan+A+VOBF CM B
+kinahinatnan+A+NCOM 2
+kinaiinggitan+A+ADUN
+kinailangan+A+NA
+kinakabahan+A+VOBF IN B
+kinakabitan+A+VOBF IN B
+kinakailangang+B+VOBF IN B
+kinakain+A+VOBF IN B
+kinakaing+B+VOBF IN B
+kinakalaban+A+VOBF IN B
+kinakalawang+A+VOBF IN B
+kinakausap+A+VOBF IN B
+kinakitaan+A+ADUN
+kinalaban+A+VOBF CM B
+kinalag+A+VOBF CM B
+kinalagan+A+VOBF CM B
+kinalakhan+A+ADUN
+kinalalagakan+A+VOBF IN B
+kinalalagyan+A+ADUN
+kinalalagyan+A+NCOM 2
+kinalalagyan+A+VOBF IN B
+kinalalagyang+B+NCOM 2
+kinalaman+A+NCOM 2
+kinalawkaw+A+VOBF CM B
+kinalugdan+A+VOBF CM B
+kinalulugdan+A+VOBF IN B
+kinamayan+A+VOBF CM B
+kinamulatan+A+NCOM 2
+kinamumuhian+A+ADUN
+kinapapatungan+A+VOBF IN B
+kinariringgan+A+ADUN
+kinaroroonan+A+ADUN
+kinaroroonan+A+PRPL
+kinasuklaman+A+VOBF CM B
+kinasusulatan+A+VOBF IN B
+kinatatakutan+A+VOBF IN B
+kinatatayuan+A+VOBF IN B
+kinausap+A+VOBF CM B
+kinauukulan+A+NCOM 2
+kinayas+A+VOBF CM B
+kinikilabutan+A+VOBF IN B
+kinikilabutang+B+VOBF IN B
+kinikilala+A+VOBF IN B
+kinikilalang+C+VOBF IN B
+kinikita+A+VOBF IN B
+kinilabutan+A+VOBF CM B
+kinopya+A+VOBF CM B
+kinuha+A+VOBF CM B
+kinukuha+A+VOBF IN B
+kinukunsinti+A+VOBF IN B
+kinumpisalan+A+VOBF CM B
+kinumpiska+A+VACF CM B
+kinuyom+A+VOBF CM B
+kisame+A+NCOM 2
+kisap-mata+A+NCOM 2
+kislap+A+NCOM 2
+klerk+A+NCOM 1
+ko+A+PNGP ST S
+Kolehiyo+A+NPRO
+kolektor+A+NCOM 1
+kolonyang+C+NCOM 2
+kolorete+A+NCOM 2
+komandante+A+NCOM 1
+komedya+A+NCOM 2
+komedyang+C+NCOM 2
+kompesos+A+NCOM 2
+komunikasyon+A+NCOM 2
+konde+A+NCOM 1
+kondisyon+A+NCOM 2
+kong+C+PNGP ST S
+Konserbador+A+NPRO
+Konserbatibo+A+NPRO
+konstabularyo+A+NCOM 2
+konsul+A+NCOM 1
+konsulado+A+NCOM 2
+kontrabida+A+NCOM 1
+kontribusyon+A+NCOM 2
+kopita+A+NCOM 2
+koreo+A+NCOM 1
+koreong+C+NCOM 1
+koronang+C+NCOM 2
+korporasyon+A+NCOM 2
+Korte+A+NPRO
+krimen+A+NCOM 2
+kriminal+A+NCOM 1
+kris+A+NCOM 2
+Kristei+A+NPRO
+Kristiyanismo+A+NPRO
+Kristiyano+A+NPRO
+Kristo+A+NPRO
+krrr+A+INTR
+krus+A+NCOM 2
+Krus+A+NPRO
+kubo+A+NCOM 2
+kubyertos+A+NCOM 2
+kukunin+A+VOBF CN B
+kulang+A+ADUN
+kulay+A+ADUN
+kulay+A+NCOM 2
+kulay-ginto+A+ADUN
+kulog+A+NCOM 2
+kulot+A+ADUN
+kulot+A+NCOM 2
+kulubot+A+ADUN
+kulungan+A+NCOM 2
+kumagat+A+VACF CM B
+kumain+A+VACF CM B
+kumakabog+A+VACF IN B
+kumakain+A+VACF IN B
+kumakalam+A+VACF IN B
+kumakalansing+A+VACF IN B
+kumakaway+A+VACF IN B
+kumalat+A+VACF CM B
+kumander+A+NCOM 1
+kumapit+A+VACF CM B
+kumaripas+A+VACF CM B
+kumbento+A+NCOM 2
+kumibo+A+VACF CM B
+kumibot+A+VACF CM B
+kumikilala+A+VACF IN B
+kumikilos+A+VACF IN B
+kumilala+A+VACF CM B
+kumilos+A+VACF CM B
+kumpas+A+NCOM 2
+kumpisal+A+NCOM 2
+kumpisalan+A+NCOM 2
+kumuha+A+VACF CM B
+kumukuha+A+VACF IN B
+kumukulo+A+VACF IN B
+kumukulog+A+VACF IN B
+kumukurap+A+VACF IN B
+kumulo+A+VACF CM B
+kumunot+A+VACF CM B
+kumupkop+A+ADUN
+kumustahin+A+VOBF NE B
+kundi+A+NA
+kundiman+A+NCOM 2
+kung+A+CONU
+kung+A+NA
+kunin+A+VOBF NE B
+kura+A+NCOM 1
+kura’y+A+NCOM 1
+kurang+C+NCOM 1
+kurbata+A+NCOM 2
+Kurisma+A+NPRO
+kurot+A+NCOM 2
+kuru-kuro+A+NCOM 2
+kurutan+A+NCOM 2
+kuryente+A+NCOM 2
+kusang+C+ADUN
+kusina+A+NCOM 2
+kusinero+A+NCOM 2
+kuta+A+NCOM 2
+kutis+A+NCOM 2
+kutsara+A+NCOM 2
+kutsara’t+A+NCOM 2
+kutsero+A+NCOM 2
+kutserong+C+NCOM 2
+kutsilyo+A+NCOM 2
+kuwadrilyero+A+NCOM 2
+kuwadro+A+NCOM 2
+kuwalta+A+NCOM 2
+kuwarta+A+NCOM 2
+kuwarto+A+NCOM 2
+kuweba+A+NCOM 2
+kuwenta+A+NCOM 2
+kuwentang+C+NCOM 2
+kuwento+A+NCOM 2
+kuwentuhan+A+NCOM 2
+kuwintas+A+NCOM 2
+kuwitis+A+NCOM 2
+Kuya+A+NPRO
+kwarenta’y+A+ADNU
+kwartel+A+NCOM 2
+la+A+NA
+La+A+NPRO
+labag+A+ADUN
+labag+A+PRDI
+laban+A+NCOM 2
+laban+A+PRDI
+labanan+A+NCOM 2
+labanan+A+VOBF NE B
+labandera+A+NCOM 1
+labang+B+NCOM 2
+labhan+A+VOBF NE B
+labi+A+NCOM 2
+labindalawang+C+ADNU
+labing-anim+A+ADNU
+labing-apat+A+ADNU
+labinlimang+C+ADNU
+labis+A+NA
+laboratoryo+A+NCOM 2
+lagablab+A+NCOM 2
+laganap+A+ADUN
+lagas+A+ADUN
+lagaslas+A+ADUN
+lagnat+A+NCOM 2
+Laguna+A+NPRO
+lagusan+A+NCOM 2
+lahat+A+PIDP NU B
+lahi+A+NCOM 2
+lahing-kastila+A+NCOM 2
+lakad+A+NCOM 2
+lakas+A+NCOM 2
+lakayo+A+NCOM 2
+laki+A+NCOM 2
+Lala+A+NPRO
+lalabas+A+VACF CN B
+lalabing-isang+C+ADNU
+lalaki+A+NCOM 1
+lalaking+C+ADUN
+lalaking+C+NCOM 1
+lalaktawan+A+VOBF CN B
+lalampas+A+VACF CN B
+lalamunan+A+NCOM 2
+lalawigan+A+NCOM 2
+lalawigang+B+NCOM 2
+lalayo+A+VACF CN B
+lalo+A+AVCT AL
+lalo+A+NA
+lalo’t+A+NA
+lalong+C+NA
+lalung-lalo+A+NA
+laman+A+NCOM 2
+lamang+A+ENCL
+lamang-loob+A+NCOM 2
+lambat+A+NCOM 2
+lamig+A+NCOM 2
+lampara+A+NCOM 2
+lamukos+A+ADUN
+lana+A+NCOM 2
+landas+A+NCOM 2
+lang+A+ENCL
+langaw+A+NCOM 2
+langis+A+NCOM 2
+langit+A+NCOM 2
+lansangan+A+NCOM 2
+lansangang+B+NCOM 2
+lantsa+A+NCOM 2
+lapad+A+NCOM 2
+lapastanganin+A+VOBF NE B
+Lapiang+B+NPRO
+lapitan+A+VLOF NE B
+larangang+B+NCOM 2
+larawan+A+NCOM 2
+largabista+A+NCOM 2
+larong+C+NCOM 2
+Laruja+A+NPRO
+lasak+A+NCOM 2
+lasing+A+ADUN
+lasing+A+NCOM 2
+laslas+A+ADUN
+laso+A+NCOM 2
+lathala+A+NCOM 2
+latigo+A+NCOM 2
+latigong+C+NCOM 2
+Latin+A+NPRO
+lawa+A+NCOM 2
+layag+A+NCOM 2
+laylayan+A+NCOM 2
+layunin+A+NCOM 2
+lbarra+A+NPRO
+leeg+A+NCOM 2
+legal+A+ADUN
+Legal+A+NPRO
+legong+C+NCOM 2
+leksyon+A+NCOM 2
+lemonada+A+NCOM 2
+lengguwahe+A+NCOM 2
+Leon+A+NPRO
+Leong+B+NPRO
+Letran+A+NPRO
+li+A+INTR
+libakin+A+VOBF NE B
+libangin+A+VOBF NE B
+liberal+A+NCOM 2
+Liberal+A+NPRO
+libing+A+NCOM 2
+libingan+A+NCOM 2
+libingang+B+NCOM 2
+libo+A+NCOM 2
+libo’t+A+NCOM 2
+libo-libong+C+ADNU
+libros+A+NCOM 2
+libu-libong+C+ADNU
+libutin+A+VOBF NE B
+lider+A+NCOM 1
+ligaw+A+ADUN
+ligaya+A+NCOM 2
+ligtas+A+ADUN
+liham+A+NCOM 2
+lihim+A+ADUN
+lihim+A+NCOM 2
+likha+A+ADUN
+likha+A+NCOM 2
+likhang-sining+A+NCOM 2
+likod+A+NCOM 2
+likod+A+PRPL
+lilibutin+A+VOBF CN B
+lilim+A+NCOM 2
+lilingapin+A+VOBF CN B
+lilipulin+A+VOBF CN B
+lilisanin+A+VOBF CN B
+limampung+C+ADNU
+limandaang+B+ADNU
+limang+C+ADNU
+limanlibong+C+ADNU
+limos+A+NCOM 2
+limot+A+ADUN
+limutin+A+VOBF NE B
+Linares+A+NPRO
+linaw+A+NCOM 2
+linawin+A+VOBF NE B
+linggo+A+NCOM 2
+Linggo+A+NPRO
+linggo-linggo+A+AVPA AL
+linggong+C+NCOM 2
+lingguwistika+A+NCOM 2
+lingid+A+ADUN
+lingo+A+NCOM 2
+liningon+A+VOBF CM B
+Lino+A+NPRO
+linta+A+NCOM 1
+Lipa+A+NPRO
+lipad+A+NCOM 2
+lipon+A+NCOM 1
+lipos+A+ADUN
+lipunan+A+NCOM 1
+lipunang+B+NCOM 1
+liquen+A+NCOM 2
+lisanin+A+VLOF NE B
+literature+A+NCOM 2
+litson+A+NCOM 2
+liwanag+A+NCOM 2
+liwanagin+A+VOBF NE B
+liwasan+A+NCOM 2
+liwasang+B+NCOM 2
+liyamado+A+ADUN
+lnihahanda+A+VACF IN B
+lntsik+A+NPRO
+lola+A+NCOM 1
+lolo+A+NCOM 1
+Lolo+A+NPRO
+loob+A+NCOM 2
+loob-loob+A+NCOM 2
+Lorelei+A+NPRO
+loro+A+NCOM 1
+Los+A+NPRO
+lotus+A+NCOM 1
+lubak+A+ADUN
+lubak-lubak+A+ADUN
+lubha+A+AVSO AL
+lubha+A+NA
+lubhang+C+NA
+lubid+A+NCOM 2
+lubog+A+ADUN
+Lucas+A+NPRO
+Lucia+A+NPRO
+Luculo+A+NPRO
+lugar+A+NCOM 2
+luha+A+NCOM 2
+luhaan+A+NCOM 2
+luhaang+B+ADUN
+luhang+C+NCOM 2
+luho+A+NCOM 2
+luksang-luksa+A+ADUN
+lulan+A+NCOM 2
+lulan+A+VOTF OT B
+lulubog+A+VACF CN B
+luluha+A+VACF CN B
+lulusubin+A+VOBF CN B
+luma+A+ADUN
+lumaban+A+VACF CM B
+lumabas+A+VACF CM B
+lumaboy+A+VACF CM B
+lumaganap+A+VACF CM B
+lumaganap+A+VOBF CM B
+lumagapak+A+VACF CM B
+lumagda+A+VACF CM B
+lumakad+A+VACF CM B
+lumakad-lakad+A+ADUN
+lumaki+A+VACF CM B
+lumalaban+A+VACF IN B
+lumalabas+A+VACF IN B
+lumalakas+A+VACF IN B
+lumalaki+A+VACF CM B
+lumalaki+A+VACF IN B
+lumalaro+A+VACF IN B
+lumamig+A+VACF CM B
+lumampas+A+VACF CM B
+lumang+C+ADUN
+lumapastangan+A+NCOM 2
+lumapastangan+A+VACF CM B
+lumapit+A+VACF CM B
+lumayas+A+VACF CM B
+lumayo+A+VACF CM B
+lumigaya+A+VACF CM B
+lumikha+A+VACF CM B
+luminga+A+VACF CM B
+luminga-linga+A+VACF IN B
+lumingon+A+VACF CM B
+lumipas+A+VACF CM B
+lumipat+A+VACF CM B
+lumisan+A+VACF CM B
+lumitaw+A+VACF CM B
+lumot+A+NCOM 1
+lumpiyang-intsik+A+NCOM 2
+lumubha+A+VACF CM B
+lumubog+A+VACF CM B
+lumuhod+A+VACF CM B
+lumukso+A+VACF CM B
+lumulubog+A+VACF IN B
+lumuluha+A+VACF IN B
+lumuluhang+C+VACF IN B
+lumundag+A+VACF CM B
+lumunsad+A+VACF CM B
+lumusong+A+VACF CM B
+lumuwalhati+A+VACF CM B
+lumuwas+A+VACF CM B
+lunas+A+NCOM 2
+Luneta+A+NPRO
+lungsod+A+NCOM 2
+luntiang+B+ADUN
+lupa+A+NCOM 2
+lupain+A+NCOM 2
+lupang+C+NCOM 2
+lusubin+A+VOBF NE B
+luwa+A+ADUN
+m+A+NA
+ma+A+ENCL
+maaaksaya+A+ADMO P
+maaaksayang+C+ADMO P
+maaalaala+A+VOBF CN B
+maaaninag+A+VOBF CN B
+maaanod+A+VOBF CN B
+maaari+A+AUPO
+maaari+A+IRUN
+maaayos+A+ADMO P
+maaayos+A+VOBF CN B
+maabala+A+VOBF NE B
+maabutan+A+VOBF NE B
+maaga+A+ADMO S
+maagang+C+ADMO S
+maalab+A+ADMO S
+maalagaan+A+VOBF NE B
+maalala+A+VOBF NE B
+maalalang+C+VOBF NE B
+maalikabok+A+ADMO S
+maalinsangan+A+ADMO S
+maalinsangang+B+ADMO S
+maaliwalas+A+ADMO S
+maamong+C+ADMO S
+maaninaw+A+VOBF NE B
+maanyayahan+A+VOBF NE B
+maanyayahang+B+AVMA AL
+maari+A+AVAG AL
+maawa+A+VOBF NE B
+maawain+A+ADMO S
+maawaing+B+ADMO S
+maayos+A+ADMO S
+maayos+A+AVMA AL
+mababa+A+ADMO S
+mababa+A+NA
+mababakas+A+VOBF CN B
+mababali+A+ADMO P
+mababali+A+VOBF CN B
+mababaling+C+ADMO P
+mababang+C+ADMO S
+mababaril+A+VOBF CN B
+mababasa+A+VOBF CN B
+mabagal+A+ADMO S
+mabagsik+A+AVMA AL
+mabahala+A+VOBF NE B
+mabahong+C+ADMO S
+mabait+A+ADMO S
+mabalik+A+VOBF NE B
+mabaril+A+VOBF NE B
+mabasa+A+VOBF NE B
+mabati+A+VOBF NE B
+mabatong+C+ADMO S
+mabayaran+A+AVMA AL
+mabibigo+A+VOBF CN B
+mabibilang+A+VOBF CN B
+mabigat+A+ADMO S
+mabigat+A+AVMA AL
+mabigkas+A+VOBF NE B
+mabigo+A+VOBF NE B
+mabigyan+A+VOBF NE B
+mabilis+A+ADMO S
+mabilis+A+AVMA AL
+mabinbin+A+VOBF NE B
+mabingi+A+VOBF NE B
+mabisang+C+ADMO S
+mabitiwan+A+AVMA AL
+mabubuhay+A+VOBF CN B
+mabubuti+A+ADMO P
+mabubuting+C+ADMO P
+mabubuwal+A+VOBF CN B
+mabuhay+A+VOBF NE B
+mabulagta+A+VOBF NE B
+mabulaklak+A+ADMO S
+mabusog+A+ADMO S
+mabuti+A+ADMO S
+mabuti+A+AVMA AL
+mabuti+A+NCOM 2
+mabuti’t+A+ADMO S
+mabuting+C+ADMO S
+mabuting+C+AVMA AL
+mabuwal+A+ADMO S
+Macanista+A+NPRO
+Macaraig+A+NPRO
+madadaig+A+ADMO P
+madadala+A+VOBF CN B
+madalas+A+ADMO S
+madalas+A+AVMA AL
+madaldal+A+ADMO S
+madali+A+ADMO S
+madali+A+AVMA AL
+madalian+A+ADMO S
+madaliang+B+ADMO S
+madaling+C+ADMO S
+madaling+C+AVMA AL
+madamay+A+ADMO S
+madamdamin+A+ADMO S
+madamdaming+B+ADMO S
+madapuan+A+AVMA AL
+madasalin+A+ADMO S
+madasaling+B+ADMO S
+madawag+A+ADMO S
+madilaw+A+ADMO S
+madilim+A+ADMO S
+madilim-dilim+A+ADMO S
+madla+A+NCOM 1
+madla+A+PIDP NU B
+madlang+C+PIDP NU B
+madre+A+NCOM 1
+Madrid+A+NPRO
+madugong+C+ADMO S
+madurog+A+ADMO S
+Maestro+A+NPRO
+mag-aabuloy+A+VACF CN B
+mag-aalahas+A+NCOM 1
+mag-aalala+A+VACF CN B
+mag-aalas-nuwebe’y+A+NA
+mag-aaliw+A+VACF CN B
+magaang+B+ADMO S
+mag-aaral+A+NCOM 1
+mag-aasawang+C+VACF CN B
+mag-aasukal+A+NCOM 1
+magaganap+A+VACF CN B
+magaganda+A+ADMO P
+magagandang+C+ADMO P
+magagawa+A+VACF CN B
+magagawang+C+AVMA AL
+mag-alala+A+VACF NE B
+magalang+A+AVMA AL
+magaling+A+ADMO S
+magaling+A+AVMA AL
+magalit+A+VACF NE B
+mag-almusal+A+VACF NE B
+mag-alsa+A+AVMA AL
+magambala+A+VACF NE B
+maganap+A+VACF NE B
+maganda+A+ADMO S
+magandang+C+ADMO S
+mag-antanda+A+AVMA AL
+magantihan+A+VACF NE B
+mag-anyaya+A+VACF NE B
+mag-aral+A+NCOM 1
+mag-aral+A+VACF NE B
+mag-asawa+A+AVMA AL
+mag-asawa+A+NCOM 1
+mag-asawa+A+VACF NE B
+mag-asawang+C+NCOM 1
+magawa+A+VACF NE B
+magawang+C+AVMA AL
+magawang+C+VACF NE B
+mag-away+A+VACF NE B
+magbabago+A+VACF CN B
+magbabantay+A+VACF CN B
+magbabatian+A+AVMA AL
+magbabayad+A+VACF CN B
+magbago+A+AVMA AL
+magbago+A+VACF NE B
+magbakasyon+A+AVMA AL
+magbakasyon+A+VACF NE B
+magbalik+A+VACF NE B
+magbayad+A+VACF NE B
+magbibigay+A+VACF CN B
+magbibintang+A+VACF CN B
+magbibitiw+A+VACF CN B
+magbitiw+A+VACF NE B
+magbubukid+A+NCOM 2
+magbubunga+A+VACF CN B
+magbubuntung-hininga+A+VACF CN B
+magbuwis+A+AVMA AL
+magdamag+A+AVMA AL
+magdaraan+A+VACF NE B
+magdaraos+A+VACF NE B
+magdasal+A+AVMA AL
+magdurusa+A+AVMA AL
+magguguhit+A+AVMA AL
+maghahain+A+VACF CN B
+maghahalungkat+A+VACF CN B
+maghahapunan+A+VACF CN B
+maghahatid+A+VACF CN B
+maghanap+A+VACF NE B
+maghanapbuhay+A+AVMA AL
+maghanda+A+VACF NE B
+maghandog+A+VACF NE B
+maghapon+A+NCOM 2
+maghapon+A+VACF NE B
+maghapong+B+ADUN
+magharap+A+VACF NE B
+maghiganti+A+VACF NE B
+maghihimagsik+A+VACF CN B
+maghintay+A+VACF NE B
+maghiwa-hiwalay+A+AVMA AL
+maghukay+A+VACF NE B
+magiging+A+VACF CN B
+mag-iiba+A+VACF CN B
+mag-iikapito+A+VACF CN B
+mag-iina+A+NCOM 1
+mag-iina+A+VACF CN B
+mag-iinang+C+NCOM 1
+mag-iingat+A+VACF CN B
+mag-iisang+C+AVMA AL
+mag-iisip+A+VACF CN B
+magiliw+A+AVMA AL
+maging+A+ADUN
+maging+A+AVMA AL
+maging+A+COMU
+maging+A+NA
+mag-ingat+A+VACF NE B
+maginhawa+A+AVMA AL
+maginoo+A+ADMO S
+maginoo+A+NCOM 1
+maginoong+C+ADMO S
+mag-isa+A+AVMA AL
+mag-isang+C+AVMA AL
+magising+A+VACF NE B
+mag-isip+A+VACF NE B
+magkabilang+C+ADUN
+magkagayon+A+NA
+magkahalong+C+ADUN
+magkahiwalay+A+NA
+magkaibigan+A+NCOM 1
+magkakabunga+A+NA
+magkakahawak+A+VACF CN B
+magkakaibigan+A+NCOM 1
+magkakaisa+A+VACF CN B
+magkakamayan+A+VACF CN B
+magkakamit+A+VACF CN B
+magkakapatid+A+NCOM 1
+magkakapitbahay+A+NCOM 1
+magkakapit-baywang+A+ADUN
+magkakaratig+A+NA
+magkakasalo+A+NA
+magkalaban+A+NCOM 1
+magkalat+A+VACF NE B
+magkalayo+A+ADUN
+magkamal+A+VACF NE B
+magkanlong+A+VACF NE B
+magkano+A+NA
+magkapantay+A+NA
+magkapatid+A+NCOM 1
+magkapera+A+VACF NE B
+magkaroon+A+MAEM
+magkaroon+A+NA
+magkaroon+A+VACF NE B
+magkasabay+A+AVMA AL
+magkasakit+A+NA
+magkasama+A+NA
+magkasintaha+A+NCOM 1
+magkasintahan+A+NCOM 1
+magkasunod+A+AVMA AL
+magkatinginan+A+AVMA AL
+magkatulad+A+NA
+magkausap+A+NA
+magkikita+A+VACF CN B
+magkita+A+VACF NE B
+magkubli+A+VACF NE B
+magkunwa+A+VACF NE B
+magkuwento+A+VACF NE B
+maglaban+A+AVMA AL
+maglaho+A+AVMA AL
+maglaho+A+VACF NE B
+maglakad+A+VACF NE B
+maglakbay+A+VACF NE B
+maglalabas+A+VACF CN B
+maglalabinlimang+C+ADUN
+maglalaon+A+VACF CN B
+maglalarawan+A+VACF CN B
+magliligtas+A+VACF CN B
+maglilimos+A+VACF CN B
+magliliwanag+A+VACF CN B
+maglingkod+A+VACF NE B
+magmadali+A+VACF NE B
+magmamano+A+VACF CN B
+magmamasid+A+VACF CN B
+magmasid+A+VACF NE B
+magmula+A+VACF NE B
+magmumula+A+VACF CN B
+magmumulta+A+VACF CN B
+magmumurang+C+AVMA AL
+magmungkahi+A+VACF NE B
+magnakaw+A+VACF NE B
+magnanakaw+A+NCOM 1
+magnegosyo+A+NCOM 1
+magnobena+A+NCOM 1
+magpaalam+A+VACF NE B
+magpadala+A+VACF NE B
+magpahangin+A+VACF NE B
+magpahayag+A+VACF NE B
+magpahinga+A+VACF NE B
+magpahukay+A+VACF NE B
+magpakaaba+A+VACF NE B
+magpakahinahon+A+VACF NE B
+magpakamatay+A+VACF NE B
+magpakasal+A+AVMA AL
+magpakilala+A+VACF NE B
+magpalabas+A+VACF NE B
+magpalakas+A+NCOM 1
+magpalinis+A+VACF NE B
+magpaliwanag+A+AVMA AL
+magpanggap+A+VACF NE B
+magpaopera+A+VACF NE B
+magpapaalam+A+VACF CN B
+magpapadala+A+VACF CN B
+magpapagawa+A+VACF CN B
+magpapakabait+A+VACF CN B
+magpapakahangal+A+AVMA AL
+magpapakaliit+A+VACF CN B
+magpapalabas+A+VACF CN B
+magpapaliwanag+A+VACF CN B
+magpapamisa+A+VACF CN B
+magpapari+A+VACF CN B
+magpapatuloy+A+VACF CN B
+magparusa+A+VACF NE B
+magpasabong+B+VACF NE B
+magpasalamat+A+VACF NE B
+magpasko+A+VACF NE B
+magpasok+A+VACF NE B
+magpatakbo+A+AVMA AL
+magpatakbo+A+VACF NE B
+magpatalo+A+VACF NE B
+magpatanim+A+VACF NE B
+magpatuloy+A+VACF NE B
+magpinsang+B+NCOM 1
+magpunta+A+VACF NE B
+magreklamo+A+VACF NE B
+magrosaryo+A+VACF NE B
+magsabi+A+VACF NE B
+magsadya+A+VACF NE B
+magsakristan+A+VACF NE B
+magsalaysay+A+VACF NE B
+Magsalin+A+NPRO
+magsalita+A+AVMA AL
+magsalita+A+VACF NE B
+magsama-sama+A+VACF NE B
+magsasabing+C+VACF CN B
+magsasabog+A+VACF CN B
+magsasaka+A+NCOM 1
+magsasakang+C+NCOM 1
+magsasakatuparan+A+VACF CN B
+magsasakristan+A+VACF CN B
+magsasalita+A+VACF CN B
+magsasama-sama+A+ADUN
+magsasama-sama+A+VACF CN B
+magsawa+A+AVMA AL
+magsesermon+A+VACF CN B
+magsimba+A+VACF NE B
+magsimula+A+VACF NE B
+magsing-irog+A+NCOM 1
+magsinungaling+A+AVMA AL
+magsipaghanda+A+VACF NE B
+magsipag-krus+A+VACF NE B
+magsisakay+A+VACF CN B
+magsisilbing+C+AVMA AL
+magsisilbing+C+VACF CN B
+magsisimba+A+VACF CN B
+magsisinungaling+A+VACF CN B
+magsisipagsabong+A+VACF CN B
+magsisipamista+A+VACF CN B
+magsitigil+A+VACF NE B
+magsiyasat+A+VACF NE B
+magsosorbetes+A+NCOM 1
+magsugal+A+VACF NE B
+magsumbong+A+VACF NE B
+magsumbrero+A+VACF NE B
+magsuplong+A+VACF NE B
+magsusugal+A+VACF CN B
+magsusulputan+A+VACF CN B
+magsusuplong+A+VACF CN B
+magsusuri+A+VACF CN B
+magtagal+A+VACF NE B
+magtagalog+A+VACF NE B
+magtaglay+A+VACF NE B
+magtagumpay+A+VACF NE B
+magtalo+A+VACF NE B
+magtampo+A+VACF NE B
+magtanggol+A+VACF NE B
+magtanim+A+VACF NE B
+magtanong+A+VACF NE B
+magtapat+A+AVMA AL
+magtapos+A+VACF NE B
+magtatagal+A+VACF CN B
+magtatagumpay+A+VACF CN B
+magtatanim+A+VACF CN B
+magtatanong+A+VACF CN B
+magtatapos+A+VACF CN B
+magtatayo+A+VACF CN B
+magtawanan+A+AVMA AL
+magtayo+A+VACF NE B
+magtetrenta-anyos+A+ADUN
+magtiis+A+VACF NE B
+magtinda+A+VACF NE B
+magtrabaho+A+VACF NE B
+magtungo+A+VACF NE B
+magtuos+A+VACF NE B
+magtutungo+A+VACF CN B
+magugulat+A+VACF CN B
+magulang+A+NCOM 1
+magulong+C+ADMO S
+mag-umaga+A+VACF NE B
+mag-umpisa+A+VACF NE B
+mag-usap+A+AVMA AL
+mag-usap+A+VACF NE B
+mag-usisa+A+VACF NE B
+magutom+A+VACF NE B
+mag-utos+A+VACF NE B
+mag-uusap+A+VACF CN B
+mag-uutos+A+VACF CN B
+magwawakas+A+VACF CN B
+magyabang+A+VACF NE B
+magyuko+A+VACF NE B
+mahaba+A+ADMO S
+mahabang+C+ADMO S
+mahahabang+C+ADMO P
+mahahalagang+C+ADMO P
+mahal+A+NCOM 1
+Mahal+A+NPRO
+mahal+A+VOTF OT B
+mahalaga+A+ADMO S
+mahalagang+C+ADMO S
+mahalin+A+VOBF NE B
+mahawakan+A+VOBF NE B
+mahigit+A+ADMO S
+mahigit+A+NA
+mahigpit+A+ADMO S
+mahigpit+A+AVMA AL
+mahihimok+A+VOBF CN B
+mahihinang+C+ADMO P
+mahihingan+A+VOBF CN B
+mahihiram+A+VOBF CN B
+mahihirap+A+ADMO P
+mahihirap+A+NCOM 1
+mahihirapan+A+AVMA AL
+mahikayat+A+VOBF NE B
+mahiligin+A+VOBF NE B
+mahimatay+A+AVMA AL
+mahimbing+A+AVMA AL
+mahina+A+ADMO S
+mahinang+C+ADMO S
+mahinang+C+AVMA AL
+mahinhin+A+ADMO S
+mahinhing+B+ADMO S
+mahirap+A+ADMO S
+mahirap+A+AVMA AL
+mahistrado+A+NCOM 2
+mahiwagang+C+ADMO S
+mahiya+A+VOBF NE B
+mahiyain+A+ADMO S
+mahiyaing+B+ADMO S
+mahuhuli+A+ADMO P
+mahuhuli+A+VOBF CN B
+mahuhuling+C+ADMO P
+mahuli+A+ADMO S
+mahuli+A+VOBF NE B
+mahuling+C+ADMO S
+mahusay+A+ADMO S
+mahusay+A+AVMA AL
+maibalik+A+VOBF NE B
+maibibigay+A+VOBF CN B
+maibigan+A+AVMA AL
+maibigan+A+VOBF NE B
+maibigay+A+AVMA AL
+maibigay+A+VOBF NE B
+maihahatid+A+VOBF CN B
+maihanda+A+AVMA AL
+maihanda+A+VOBF NE B
+maihatid+A+VOBF NE B
+maihingi+A+VOBF NE B
+maiibigan+A+VOBF CN B
+maiilagan+A+VOBF CN B
+maiinam+A+VOBF CN B
+maiingay+A+ADMO P
+maiitim+A+ADMO P
+maiiwan+A+VOBF CN B
+maiiwang+B+VOBF CN B
+maikalat+A+VOBF NE B
+maikintal+A+VOBF NE B
+maikli+A+ADMO S
+maikling+C+ADMO S
+maikukubli+A+VOBF CN B
+maikukulong+A+VOBF CN B
+mailagay+A+AVMA AL
+mailibing+A+AVMA AL
+mailibing+A+VOBF NE B
+mailigtas+A+VOBF NE B
+maimumungkahi+A+VOBF CN B
+mainam+A+ADMO S
+maingat+A+ADMO S
+maingay+A+ADMO S
+maingay+A+AVMA AL
+mainip+A+ADMO S
+mainip+A+VOBF NE B
+mainit+A+ADMO S
+mainitan+A+VOBF NE B
+mainitang+B+ADMO S
+mainsulto+A+AVMA AL
+maipaghiganti+A+VBEF NE B
+maipaglilingkod+A+VBEF IN B
+maipagmalaki+A+VBEF NE B
+maipagpapabukas+A+VBEF IN B
+maipagpapaliban+A+VBEF IN B
+maipagparangalan+A+VBEF NE B
+maipagtanggol+A+VBEF NE B
+maipakilala+A+VBEF NE B
+maipaliwanag+A+VOBF NE B
+maipambibili+A+VBEF NE B
+maipapayong+C+AVMA AL
+maipatupad+A+AVMA AL
+maipusta+A+VOBF NE B
+mairereto+A+VOBF CN B
+mais+A+NCOM 2
+maisasagawa+A+VOBF CN B
+maisasakatuparan+A+VOBF CN B
+maisasalin+A+VOBF CN B
+maisa-tagalog+A+VOBF NE B
+maisipang+B+AVMA AL
+maisugal+A+VOBF NE B
+maisuot+A+AVMA AL
+maisusulat+A+VOBF CN B
+maitali+A+VOBF NE B
+maitatala+A+VOBF CN B
+maitatatwang+C+VOBF CN B
+maitayo+A+VOBF NE B
+maituro+A+AVMA AL
+maituro+A+VOBF NE B
+maitustos+A+VOBF NE B
+maitutulad+A+VOBF CN B
+maitutulong+A+VOBF CN B
+maituturing+A+VOBF CN B
+maitutuwid+A+VOBF CN B
+maiwan+A+VOBF NE B
+maiwasan+A+VOBF NE B
+maiwasto+A+VOBF NE B
+makaalis+A+VACF NE B
+makababawas+A+VACF CN B
+makabago+A+ADOT
+makabati+A+ADOT
+makabili+A+VACF NE B
+makabubuti+A+ADOT
+makabubuti+A+VACF CN B
+makabubuting+C+ADOT
+makabubuting+C+AVMA AL
+makabuluhan+A+ADOT
+makadadalaw+A+VACF CN B
+makadaing+A+VACF NE B
+makagagaling+A+VACF CN B
+makagagalitan+A+VACF CN B
+makagambala+A+VACF NE B
+makaganti+A+VACF NE B
+makagawa+A+VACF NE B
+makahahadlang+A+ADOT
+makahahalik+A+VACF CN B
+makahahanap+A+VACF CN B
+makahanap+A+VACF NE B
+makaharap+A+VACF NE B
+makahihigit+A+VACF CN B
+makahihingi+A+VACF CN B
+makahulugan+A+AVMA AL
+makahulugang+B+AVMA AL
+makaimik+A+ADOT
+makain+A+VACF NE B
+makaipon+A+VACF NE B
+makaiwas+A+VACF NE B
+makakagawa+A+VACF CN B
+makakahalata+A+VACF CN B
+makakaharap+A+VACF CN B
+makakakalag+A+ADOT
+makakakilala+A+VACF CN B
+makakakita+A+VACF CN B
+makakamit+A+VACF CN B
+makakamtan+A+VACF CN B
+makakapagtatag+A+VACF CN B
+makakapal+A+AVMA AL
+makakapiling+A+ADOT
+makakasal+A+VACF CN B
+makakasalubong+A+VACF CN B
+makakasama+A+VACF CN B
+makakatagpo+A+VACF CN B
+makakausap+A+VACF CN B
+makakaya+A+ADOT
+makakaya+A+VACF NE B
+makakita+A+VACF NE B
+makakuha+A+VACF NE B
+makalabas+A+AVMA AL
+makalalabas+A+VACF CN B
+makalampas+A+VACF NE B
+makalawa+A+AVNU AL
+makalayo+A+VACF NE B
+makalimot+A+ADOT
+makalimot+A+VACF NE B
+makalipas+A+NA
+makalipas+A+VACF NE B
+makaluto+A+VACF NE B
+makamit+A+VACF NE B
+makamtan+A+VACF NE B
+makapag-aaral+A+VACF CN B
+makapag-araro+A+VACF NE B
+makapag-asawa+A+VACF NE B
+makapagbibigay+A+VACF CN B
+makapagdudulot+A+VACF CN B
+makapaghiganti+A+VACF NE B
+makapag-iisip+A+VACF CN B
+makapag-isip+A+VACF NE B
+makapaglalagay+A+VACF NE B
+makapaglingkod+A+VACF NE B
+makapagmalupit+A+VACF NE B
+makapagmisa+A+VACF NE B
+makapagnakaw+A+AVMA AL
+makapagpaalaala+A+VACF NE B
+makapagpapahamak+A+VACF CN B
+makapagpapatibay+A+VACF CN B
+makapagpasiya+A+VACF NE B
+makapagsabi+A+VACF NE B
+makapag-sabi+A+VACF NE B
+makapagsalita+A+AVMA AL
+makapagsalita+A+VACF NE B
+makapagsasabi+A+VACF CN B
+makapagsasabing+C+VACF CN B
+makapagsuri+A+AVMA AL
+makapagtanong+A+VACF NE B
+makapagtika+A+AVMA AL
+makapagtuturo+A+VACF CN B
+makapag-usap+A+VACF NE B
+makapal+A+ADMO S
+makapanganak+A+VACF NE B
+makapangumpisal+A+VACF NE B
+makapangyariha+A+NA
+makapangyarihan+A+ADOT
+makapangyarihan+A+NCOM 2
+makapangyarihang+B+ADOT
+makapanhik+A+VACF NE B
+makapaniwala+A+VACF NE B
+makapanood+A+VACF NE B
+makapaparito+A+VACF CN B
+makapapasok+A+VACF CN B
+makapapayag+A+ADOT
+makapapayag+A+VACF CN B
+makapasok+A+AVMA AL
+makapasok+A+VACF NE B
+makapipili+A+VACF CN B
+makapipintas+A+VACF CN B
+makaraan+A+VACF NE B
+makararating+A+VACF CN B
+makarating+A+VACF NE B
+makarinig+A+VACF NE B
+makaririnig+A+VACF CN B
+makasakit+A+VACF NE B
+makasal+A+VACF NE B
+makasalanan+A+ADOT
+makasalo+A+AVMA AL
+makasampa+A+VACF NE B
+makasarili+A+ADOT
+makasasagupa+A+VACF CN B
+makasasaksi+A+VACF CN B
+makasuweldo+A+VACF NE B
+makatakas+A+VACF NE B
+makatanggap+A+VACF NE B
+makatao+A+ADOT
+makatarungan+A+ADOT
+makatatanggap+A+VACF NE B
+makatayo+A+VACF NE B
+makatingin+A+VACF NE B
+makatitiyak+A+VACF CN B
+makatiyak+A+AVMA AL
+makatotohanan+A+ADOT
+makatulog+A+ADOT
+makatulog+A+AVMA AL
+makatulog+A+VACF NE B
+makatupad+A+VACF NE B
+makatutugon+A+VACF CN B
+makatutulong+A+VACF CN B
+makatwiran+A+ADOT
+makatwiran+A+AVMA AL
+makausap+A+AVMA AL
+makausap+A+VACF NE B
+makauunawa+A+VACF CN B
+makauuwi+A+VACF CN B
+makauwi+A+VACF NE B
+makialam+A+VACF NE B
+makibagay+A+VACF NE B
+makibalita+A+VACF NE B
+makihati+A+VACF NE B
+makikiharap+A+VACF CN B
+makikiisa+A+VACF CN B
+makikilala+A+VACF CN B
+makikipagkita+A+VACF CN B
+makikipaglaban+A+VACF CN B
+makikipagpustahan+A+VACF CN B
+makikisalo+A+VACF CN B
+makikita+A+VACF CN B
+makikitang+C+AVMA AL
+makikitang+C+VACF CN B
+makikitid+A+ADMO P
+makikitira+A+VACF CN B
+makikiusap+A+VACF CN B
+makilahok+A+VACF NE B
+makilala+A+AVMA AL
+makilala+A+VACF NE B
+Makiling+A+NPRO
+makina+A+NCOM 2
+makinig+A+VACF NE B
+makinis+A+ADMO S
+makipagkaibigan+A+VACF NE B
+makipaglaban+A+AVMA AL
+makipaglibing+A+VACF NE B
+makipagpalitan+A+AVMA AL
+makipagsugal+A+VACF NE B
+makipagtalo+A+AVMA AL
+makipagtalo+A+VACF NE B
+makipagtipan+A+VACF NE B
+makipag-usap+A+AVMA AL
+makipag-usap+A+VACF NE B
+makipot+A+ADMO S
+makisig+A+ADMO S
+makita+A+VACF NE B
+makitang+C+AVMA AL
+makitang+C+VACF NE B
+makontrol+A+NCOM 2
+makuha+A+VACF NE B
+makuhang+C+AVMA AL
+makukuha+A+VACF CN B
+makukuha+A+VOBF CN B
+makulay+A+ADMO S
+makulong+A+VACF NE B
+makunat+A+ADMO S
+malabag+A+ADMO S
+malabnaw+A+ADMO S
+malabo+A+ADMO S
+Malabon+A+NPRO
+malabong+C+ADMO S
+Malacanang+A+NPRO
+malagim+A+ADMO S
+malagkit+A+ADMO S
+malagong+C+ADMO S
+malakas+A+ADMO S
+malakas+A+AVMA AL
+malakas+A+NA
+malaki+A+ADMO S
+malaking+C+ADMO S
+malala+A+ADMO S
+malalabay+A+ADMO P
+malalabi+A+VACF CN B
+malalagas+A+VOBF CN B
+malalagay+A+VACF CN B
+malalakas+A+ADMO P
+malalaki+A+ADMO P
+malalaking+C+ADMO P
+malalalim+A+ADMO P
+malalaman+A+VOBF CN B
+malalang+C+ADMO S
+malalaswang+C+ADMO P
+malalim+A+ADMO S
+malalim+A+AVMA AL
+malaman+A+VOBF NE B
+malamang+A+ADMO S
+malamang+A+AVAG AL
+malamang+A+VACF NE B
+malambing+A+ADMO S
+malamig+A+ADMO S
+malamlam+A+ADMO S
+malamlam+A+AVMA AL
+malamyos+A+ADMO S
+malapad+A+ADMO S
+malapit+A+ADMO S
+malapit+A+AVMA AL
+malapitan+A+VOBF NE B
+malapot+A+ADMO S
+malas+A+ADUN
+malawak+A+ADMO S
+malay+A+NCOM 2
+malaya+A+ADMO S
+malayang+C+ADMO S
+malayo+A+ADMO S
+malayong+C+ADMO S
+malayong+C+AVMA AL
+Malecom+A+NPRO
+Malecon+A+NPRO
+mali+A+ADUN
+mali+A+NCOM 2
+maliban+A+NA
+malibang+B+NA
+maligamgam+A+ADMO S
+maligaya+A+ADMO S
+maligayang+C+ADMO S
+maligoy+A+ADMO S
+malihim+A+ADMO S
+maliit+A+ADMO S
+malilibang+A+AVMA AL
+maliligayang+C+ADMO P
+maliligo+A+VOBF CN B
+maliligtas+A+VACF CN B
+maliliit+A+ADMO P
+malilimot+A+VACF CN B
+malilinlang+A+VACF CN B
+malilipat+A+ADMO P
+malimot+A+ADMO S
+malimot+A+VACF NE B
+malinamnam+A+ADMO S
+malinaw+A+ADMO S
+maling+C+ADUN
+malinis+A+ADMO S
+maliwanag+A+ADMO S
+malubha+A+ADMO S
+malubhang+C+ADMO S
+malugod+A+AVMA AL
+maluha-luhang+C+ADMO S
+maluho+A+ADMO S
+maluhong+C+ADMO S
+malulubhang+C+ADMO P
+malulunasan+A+VOBF CN B
+malulungkot+A+ADMO P
+malulungkutin+A+ADMO P
+malulungkuting+B+ADMO P
+malulusog+A+ADMO P
+malunasan+A+VOBF NE B
+malungkot+A+ADMO S
+malungkot+A+AVMA AL
+malungkutin+A+ADMO S
+malungkuting+B+ADMO S
+malupit+A+ADMO S
+malusog+A+ADMO S
+maluta+A+ADMO S
+malutang+C+ADMO S
+maluwag+A+ADMO S
+maluwag+A+AVMA AL
+maluwang+A+ADMO S
+mamagitan+A+AVMA AL
+mamahala+A+VACF NE B
+mamahalin+A+VOBF CN B
+mamahaling+B+ADMO S
+mamalo+A+AVMA AL
+mamamahala+A+VOBF CN B
+mamamahayag+A+NCOM 1
+mamamalas+A+VACF CN B
+mamamatay+A+VOBF CN B
+mamamayan+A+NCOM 1
+mamamayang+B+NCOM 1
+mamamayani+A+VOBF CN B
+mamasukan+A+AVMA AL
+mamatay+A+AVMA AL
+mamatay+A+VACF NE B
+mambabasa+A+NCOM 1
+mamili+A+VACF NE B
+mampis+A+ADUN
+mamuhay+A+AVMA AL
+mamuhay+A+VACF NE B
+mamula-mula+A+ADMO P
+mamula-mulang+C+ADMO P
+mamumuhunan+A+NCOM 1
+mamumulat+A+VOBF CN B
+mamumutawi+A+ADMO P
+mamumutawing+C+ADMO P
+mamutawi+A+VACF NE B
+man+A+COMU
+man+A+ENCL
+Mana+A+NPRO
+managalog+A+AVMA AL
+manahimik+A+VACF NE B
+manalig+A+VACF NE B
+manalo+A+VACF NE B
+manalong+C+VACF NE B
+mananalaysay+A+NCOM 1
+manananggol+A+NCOM 1
+mananaog+A+VACF CN B
+mananari+A+NCOM 1
+mananatili+A+VACF CN B
+mananatiling+C+VACF CN B
+manang+A+NCOM 1
+manangis+A+VACF NE B
+Mandaluyong+A+NPRO
+mang+A+ENCL
+mangako+A+VACF NE B
+manganak+A+VACF NE B
+mangangalagas+A+NCOM 1
+mangangalakal+A+NCOM 1
+mangangambang+C+AVMA AL
+mangangayupapa+A+VOBF CN B
+mangarap+A+VACF NE B
+mangastila+A+AVMA AL
+mangastila+A+VACF NE B
+mangga+A+NCOM 1
+manggagamot+A+NCOM 1
+manggagawa+A+NCOM 1
+manggas+A+NCOM 1
+manggulo+A+VACF NE B
+manghaharana+A+VOBF CN B
+manghiram+A+VACF NE B
+manghuhuli+A+VOBF CN B
+manghuli+A+VACF NE B
+mangibang-bansa+A+ADMO S
+mangibang-bansang+C+ADMO S
+mangingisda+A+NCOM 1
+mangingisdang+C+NCOM 1
+mangiyak-ngiyak+A+ADMO S
+mangiyak-ngiyak+A+AVMA AL
+mangumpisal+A+VACF NE B
+mangungumpisal+A+VOBF CN B
+mangyari+A+VACF NE B
+mangyaring+C+VACF NE B
+mangyayari+A+VOBF CN B
+Manilenya+A+NPRO
+manindigan+A+AVMA AL
+manindigan+A+VOBF NE B
+maningil+A+AVMA AL
+maningil+A+VACF NE B
+maningning+A+ADMO S
+maniningil+A+NCOM 1
+maniningil+A+VACF CN B
+maninirahan+A+VOBF CN B
+maniniwala+A+VACF CN B
+maniniwala+A+VOBF CN B
+manira+A+VACF NE B
+manirahan+A+VOBF NE B
+maniwala+A+VACF NE B
+manlalakbay+A+NCOM 1
+manlilinlang+A+VACF CN B
+manlulupig+A+NCOM 1
+manlulupig+A+VACF NE B
+manok+A+NCOM 1
+Manuel+A+NPRO
+manunugal+A+NCOM 1
+manunulat+A+NCOM 1
+manununog+A+NCOM 1
+mapa+A+NCOM 2
+mapabayaan+A+VOBF NE B
+mapabuti+A+ADMO S
+mapabuting+C+ADMO S
+mapag-aalinlanganan+A+VLOF CN B
+mapagbigay+A+ADOT
+mapaghimala+A+NA
+mapaghimalang+C+ADOT
+mapaghinalaan+A+VLOF CN B
+mapag-iisa+A+NA
+mapag-iisip-isip+A+ADOT
+mapagitna+A+NA
+mapagkikilanlan+A+VLOF CN B
+mapagkikilanlang+B+VLOF CN B
+mapagkumbaba+A+ADOT
+mapaglingkuran+A+VLOF NE B
+mapagmahal+A+ADOT
+mapagmamasdan+A+VLOF CN B
+mapagmataas+A+ADOT
+mapagod+A+NA
+mapagpakumbaba+A+ADOT
+mapagpipilian+A+VLOF CN B
+mapagsalitaan+A+VLOF NE B
+mapagsamantalang+C+ADOT
+mapagtatagumpayan+A+VLOF CN B
+mapagtibay+A+NA
+mapagtuturuan+A+VLOF CN B
+mapag-ukulan+A+VLOF NE B
+mapag-usisa+A+NA
+mapahalagahan+A+VOBF NE B
+mapahamak+A+ADMO S
+mapahamak+A+VBEF NE B
+mapahupa+A+VBEF NE B
+mapait+A+ADMO S
+mapait+A+AVMA AL
+mapaiyak+A+AVMA AL
+mapakali+A+ADMO S
+mapakali+A+VBEF NE B
+mapakaling+C+ADMO S
+mapala+A+VBEF NE B
+mapalad+A+ADMO S
+mapalapit+A+ADMO S
+mapamahal+A+VBEF NE B
+mapamamangkaan+A+ADOT
+mapaminsala+A+ADMO S
+mapaminsalang+C+ADMO S
+mapanatili+A+VBEF NE B
+mapang-abusong+C+ADOT
+mapangahas+A+ADOT
+mapang-akit+A+ADOT
+mapangalagaan+A+VOBF NE B
+mapang-alipin+A+ADOT
+mapangarapin+A+ADOT
+mapang-asar+A+ADOT
+mapangasawa+A+VBEF NE B
+mapanglaw+A+ADOT
+mapanira+A+ADMO S
+mapanirang+C+ADMO S
+mapanlinlang+A+ADMO S
+mapansin+A+VBEF NE B
+mapansing+B+VBEF NE B
+mapapadali+A+VBEF CN B
+mapapahamak+A+VBEF CN B
+mapapahiram+A+VBEF CN B
+mapapakinabang+A+VBEF CN B
+mapapakinabangan+A+VOBF CN B
+mapapakinggan+A+VOBF CN B
+mapapakiusapan+A+VOBF CN B
+mapapala+A+VBEF CN B
+mapapalitan+A+VOBF CN B
+mapapalo+A+VBEF CN B
+mapapanatili+A+VBEF CN B
+mapapangiti+A+VBEF CN B
+mapapansin+A+VBEF CN B
+mapapansin+A+VOBF CN B
+mapapansing+B+VBEF CN B
+mapapataas+A+VBEF CN B
+mapapatunayan+A+VOBF CN B
+mapapawalang-saysay+A+VBEF CN B
+mapasasama+A+ADMO S
+mapasasamang+C+ADMO S
+mapasubsob+A+AVMA AL
+mapatabi+A+VBEF NE B
+mapatahimik+A+VBEF NE B
+mapatapat+A+AVMA AL
+mapatapat+A+VBEF NE B
+mapatay+A+AVMA AL
+mapatunggang+C+VBEF NE B
+mapaurong+A+AVMA AL
+mapawalang-bisa+A+VBEF NE B
+mapawi+A+VBEF NE B
+mapayapa+A+ADMO S
+mapayapang+C+ADMO S
+mapigil+A+VACF NE B
+mapigilan+A+VOBF NE B
+mapinid+A+AVMA AL
+mapugutan+A+VOBF NE B
+mapulang+C+ADMO S
+mapula-pula+A+ADMO S
+mapula-pulang+C+ADMO S
+mapuna+A+VACF NE B
+mapunta+A+VACF NE B
+mapupungay+A+ADMO S
+mapuputi+A+ADMO P
+mapuputing+C+ADMO P
+mapupuwing+A+VOBF CN B
+mapupuyat+A+VACF CN B
+mapusok+A+ADMO S
+maputik+A+ADMO S
+maputla+A+ADMO S
+maputla’t+A+ADMO S
+maputlang+C+ADMO S
+maputlang-maputla+A+ADMO S
+maputlang-maputlang+C+ADMO S
+marahan+A+ADMO S
+marahan+A+AVMA AL
+marahang+B+ADMO S
+marahang+B+AVMA AL
+marahas+A+ADMO S
+marahas+A+AVMA AL
+marahil+A+AVAG AL
+maralita+A+ADMO S
+maralitang+C+ADMO S
+marami+A+ADMO S
+marami+A+ADNU
+marami+A+ENCL
+marami+A+PIDP NU B
+maraming+C+ADMO S
+maraming+C+ADNU
+maraming+C+PIDP NU B
+maranasan+A+VOBF NE B
+marangal+A+ADMO S
+mararalitang+C+ADMO S
+marating+A+AVMA AL
+marating+A+VACF NE B
+maratnan+A+VOBF NE B
+Maria+A+NPRO
+Mariang+C+NPRO
+mariing+B+AVMA AL
+marilag+A+ADMO S
+marinig+A+AVMA AL
+marinig+A+VACF NE B
+mariposa+A+NCOM 2
+maririnig+A+VACF CN B
+maririnig+A+VOBF CN B
+marka+A+NCOM 2
+Marla+A+NPRO
+marmol+A+NCOM 2
+Martee+A+NPRO
+Martin+A+NPRO
+marumi+A+ADMO S
+marumi+A+AVMA AL
+maruming+C+ADMO S
+marunong+A+ADMO S
+marunong+A+AVMA AL
+marurumi+A+ADMO P
+maruruming+C+ADMO P
+mas+A+AVCO AL
+mas+A+NA
+masabing+C+VACF NE B
+masagana+A+ADMO S
+masaganang+C+ADMO S
+masagasaan+A+ADMO S
+masagasaang+B+ADMO S
+masakit+A+AVMA AL
+masaklap+A+ADMO S
+masaklap+A+NA
+masalimuot+A+ADMO S
+masalita+A+ADMO S
+masalitang+C+ADMO S
+masama+A+ADMO S
+masama+A+AVMA AL
+masama+A+NCOM 1
+masamain+A+VOBF NE B
+masamang+C+ADMO S
+masamang+C+AVMA AL
+masandalan+A+VOBF NE B
+masangkot+A+VACF NE B
+masarap+A+ADMO S
+masarap+A+AVMA AL
+masasabi+A+VACF CN B
+masasabing+C+VACF CN B
+masasaka+A+VACF CN B
+masasakit+A+ADMO S
+masasakitin+A+ADMO P
+masasakiting+B+ADMO P
+masasaktan+A+VOBF CN B
+masasama+A+ADMO P
+masasamang+C+ADMO P
+masasarap+A+ADMO P
+masasaya+A+ADMO P
+masasayang+C+ADMO P
+masaya+A+ADMO S
+masaya+A+AVMA AL
+masayahin+A+ADMO S
+masayahing+B+ADMO S
+masayang+C+ADMO S
+masayang+C+AVMA AL
+masdan+A+VOBF NE B
+masigasig+A+ADMO S
+masiglang+C+AVMA AL
+masinagan+A+VOBF NE B
+masipag+A+ADMO S
+masipon+A+AVMA AL
+masisilipang+B+VOBF CN B
+masisinag+A+ADMO P
+masisira+A+VACF CN B
+masisiyahan+A+VOBF CN B
+masiyahan+A+VOBF NE B
+masugpo+A+VACF NE B
+masundan+A+VOBF NE B
+masunod+A+VACF NE B
+masunurin+A+ADMO S
+masunurin+A+NA
+masunuring+B+ADMO S
+masusing+Grusi+ADMO S
+masusuwerte+A+ADMO P
+masusuwerteng+C+ADMO P
+masuwerteng+C+ADMO S
+masuyuin+A+ADMO S
+masuyuing+B+ADMO S
+masyado+A+ADMO S
+masyadong+C+ADMO S
+masyadong+C+AVMA AL
+mata+A+NCOM 2
+Mata+A+NPRO
+mataas+A+ADMO S
+mataas+A+AVMA AL
+matabang+C+ADMO S
+matador+A+NCOM 1
+matagal+A+ADMO S
+matagal-tagal+A+ADMO S
+matahong+C+ADMO S
+matahong+C+NCOM 2
+matalas+A+ADMO S
+matalik+A+ADMO S
+matalim+A+ADMO S
+matalino+A+ADMO S
+matalinong+C+ADMO S
+matalo+A+VACF NE B
+matamang+C+AVMA AL
+matamis+A+ADMO S
+matamlay+A+ADMO S
+matanaw+A+VACF NE B
+matanawan+A+VOBF NE B
+matanda+A+ADMO S
+matanda+A+NCOM 1
+matandaan+A+VOBF NE B
+matandang+C+ADMO S
+matandang+A+ADMO S
+matang+C+NCOM 2
+matanggap+A+VACF NE B
+matangkad+A+ADMO S
+Matanglawin+A+NPRO
+matangos+A+ADMO S
+matapakan+A+AVMA AL
+matapakan+A+VOBF NE B
+matapang+A+ADMO S
+matapat+A+ADMO S
+matapos+A+AVMA AL
+matapos+A+VACF NE B
+matataas+A+ADMO P
+matataba+A+ADMO P
+matatabang+C+ADMO P
+matatagalan+A+VOBF CN B
+matatagpuan+A+VOBF CN B
+matatakot+A+VACF CN B
+matatalim+A+ADMO P
+matatalino+A+ADMO P
+matatalino+A+NCOM 1
+matatalinong+C+ADMO P
+matatalo+A+VACF CN B
+matatanaw+A+VACF CN B
+matatanda+A+NCOM 1
+matatandaan+A+VOBF CN B
+matatandang+C+ADMO P
+matatanggap+A+VOBF CN B
+matatapang+A+ADMO P
+matauhan+A+VOBF NE B
+matematika+A+NCOM 1
+materyal+A+NCOM 2
+matigas+A+ADMO S
+matiis+A+VACF NE B
+matindi+A+ADMO S
+matinding+C+ADMO S
+matino+A+ADMO S
+matinong+C+ADMO S
+matipunong+C+ADMO S
+matira+A+VACF NE B
+matirahang+B+VOBF NE B
+matitibag+A+ADMO P
+matitiis+A+VACF CN B
+matitinong+C+ADMO P
+matitipunong+C+ADMO P
+matitirhan+A+VOBF CN B
+matitiyagang+C+ADMO P
+matitiyak+A+VOBF CN B
+matiyak+A+ADMO S
+matubos+A+VACF NE B
+matuklasan+A+VOBF NE B
+matuklasang+B+VOBF NE B
+matulad+A+NA
+matulad+A+VACF NE B
+matulin+A+AVMA AL
+matulog+A+VACF NE B
+matustusan+A+VOBF NE B
+matuto+A+AVMA AL
+matuto+A+VACF NE B
+matutuhan+A+VOBF NE B
+matutuklasan+A+VOBF CN B
+matutulad+A+VACF CN B
+matutulog+A+VOBF CN B
+matutulungan+A+VOBF CN B
+matutunan+A+VOBF NE B
+matutupad+A+VACF CN B
+matututo+A+VACF CN B
+matututuhan+A+VOBF CN B
+matututunan+A+VOBF CN B
+matutuwa+A+VACF CN B
+maubos+A+AVMA AL
+maubos-maisip+A+VACF NE B
+maugong+A+ADMO S
+maulinigan+A+VOBF NE B
+maulit+A+VACF NE B
+mauna+A+AVMA AL
+mauna+A+VACF NE B
+maunawaan+A+VOBF NE B
+maunawaang+B+VOBF NE B
+maunawain+A+AVMA AL
+maupo+A+VACF NE B
+maupuan+A+VOBF NE B
+mauulinigan+A+VOBF CN B
+mauunawaan+A+VOBF CN B
+mauuwi+A+VACF CN B
+mawala+A+AVMA AL
+mawala+A+VACF NE B
+mawalan+A+VOBF NE B
+mawalay+A+VACF NE B
+mawawalan+A+VOBF CN B
+may+A+MAEM
+mayabang+A+ADMO S
+mayaman+A+ADMO S
+mayaman+A+NCOM 1
+mayamang+B+ADMO S
+mayapakan+A+AVMA AL
+may-ari+A+NCOM 1
+may-aring+C+NCOM 1
+mayayaman+A+ADMO P
+mayayaman+A+NCOM 1
+mayayamang+B+ADMO P
+maybahay+A+NCOM 1
+mayhanda+A+NCOM 1
+maykapangyarihan+A+ADUN
+maykapangyarihan+A+NCOM 1
+Maynila+A+NPRO
+mayor+A+NCOM 1
+mayroon+A+MAEM
+mayroong+B+MAEM
+maysakit+A+ADUN
+maysakit+A+NCOM 1
+maysuot+A+NCOM 1
+Medecina+A+NPRO
+medesina+A+NCOM 2
+medyo+A+AVCO AL
+meron+A+MAEM
+mesa+A+NCOM 2
+mesang+C+NCOM 2
+mesitang+A+NCOM 2
+mestiso+A+NCOM 1
+mestisong+C+ADUN
+mestisong+C+NCOM 1
+mestisuhing+B+NCOM 1
+Metapisika+A+NPRO
+metro+A+NCOM 2
+mga+A+DEPL NUL
+mga+A+NA
+Michael+A+NPRO
+Miguel+A+NPRO
+militar+A+NCOM 1
+military+A+NCOM 1
+minabuti+A+VOBF CM B
+minahal+A+VOBF CM B
+minamahal+A+VOBF IN B
+minana+A+VOBF CM B
+minanang+C+VOBF CM B
+minasdan+A+VOBF CM B
+Mindoro+A+NPRO
+ministeryo+A+NCOM 2
+ministro+A+NCOM 1
+minura+A+VOBF CM B
+minuto+A+NCOM 2
+misa+A+NCOM 2
+misang+C+NCOM 2
+misteryo+A+NCOM 2
+misyon+A+NCOM 2
+misyonero+A+NCOM 1
+misyonerong+C+NCOM 1
+miyembro+A+NCOM 1
+mo+A+PNGP ND S
+Moises+A+NPRO
+mong+C+PNGP ND S
+mongha+A+NCOM 1
+monopolyo+A+NCOM 2
+monumento+A+NCOM 2
+moral+A+NCOM 2
+Moro+A+NPRO
+mukha+A+NCOM 2
+mukhang+A+ADUN
+mukhang+A+NCOM 2
+mula+A+NA
+mula+A+PRSO
+multong+C+NCOM 2
+muna+A+ENCL
+munang+A+ENCL
+mundo+A+NCOM 2
+mungkahi+A+NCOM 2
+mungkahing+C+NCOM 2
+munisipyo+A+NCOM 2
+munting+C+ADUN
+mura+A+NCOM 2
+murang-mura+A+ADUN
+musa+A+NCOM 2
+musika+A+NCOM 2
+musikang+C+NCOM 2
+musiko+A+NCOM 2
+musmos+A+ADUN
+musmos+A+NCOM 2
+mutya+A+NCOM 1
+na+A+ENCL
+na+A+INTR
+na+A+LINA
+na+A+NA
+na’t+A+NA
+na’y+A+ENCL
+naaalaala+A+VACF IN B
+naaalala+A+VACF IN B
+naaaninag+A+VACF IN B
+naaapi+A+NCOM 2
+naaayon+A+VACF IN B
+naaayos+A+VACF IN B
+naabutan+A+VOBF CM B
+naaginalduhan+A+VOBF CM B
+naalaala+A+VACF CM B
+naalala+A+VACF CM B
+naalis+A+VACF CM B
+naantig+A+ADOT
+naanyayahan+A+VOBF CM B
+naapi+A+VACF CM B
+naawa+A+VACF CM B
+nababagay+A+VACF IN B
+nababagot+A+VACF IN B
+nababahala+A+VACF IN B
+nababakas+A+VACF IN B
+nababalisa+A+VACF IN B
+nababalot+A+ADOT
+nababalutan+A+VOBF IN B
+nababanggit+A+VACF IN B
+nababasa+A+VACF IN B
+nababatid+A+VACF IN B
+nababatuk-batukan+A+ADOT
+nabadya+A+VACF CM B
+nabagbag+A+ADOT
+nabaligtad+A+VACF CM B
+nabalisa+A+VACF CM B
+nabalita+A+VACF CM B
+nabalitaan+A+VOBF CM B
+nabalitang+C+VACF CM B
+nabaliw+A+ADOT
+nabanggit+A+VACF CM B
+nabasa+A+VACF CM B
+nabatid+A+VACF CM B
+nabibigkis+A+VACF IN B
+nabibihisan+A+VOBF IN B
+nabibilang+A+VACF IN B
+nabigo+A+VACF CM B
+nabigyan+A+VOBF CM B
+nabigyan+A+VOBF NE B
+nabilanggo+A+VACF CM B
+nabili+A+VACF CM B
+nabinat+A+VACF CM B
+nabitiwan+A+VOBF CM B
+nabiyudo+A+VACF CM B
+naboborlasang+B+ADOT
+nabubuhay+A+VACF IN B
+nabubulagan+A+VOBF IN B
+nabubulok+A+VACF IN B
+nabubuo+A+VACF IN B
+nabuhayan+A+VOBF CM B
+nabuksan+A+VOBF CM B
+nabulabog+A+ADOT
+nabulol+A+VACF CM B
+nabuo+A+VACF CM B
+nabuwal+A+VACF CM B
+nadaanan+A+VOBF CM B
+nadadala+A+VACF IN B
+nadadalaw+A+ADOT
+nadakip+A+VACF CM B
+nadama+A+VACF CM B
+nadaplisan+A+VOBF CM B
+nadaraanang+B+ADOT
+nadaragdagan+A+VOBF IN B
+nadarama+A+VACF CM B
+nadidilig+A+VACF IN B
+nadungisan+A+VOBF NE B
+naekskomulgado+A+VACF CM B
+naengkanto+A+VACF CM B
+nag-aabot+A+VACF IN B
+nag-aalalang+C+ADOT
+nag-aalinlangan+A+VACF IN B
+nag-aalis+A+VACF IN B
+nag-aalmusal+A+VACF IN B
+nag-aalsa+A+VACF IN B
+nag-aantay+A+VACF IN B
+nag-aanyaya+A+VACF IN B
+nag-aapoy+A+VACF IN B
+nag-aaral+A+VACF IN B
+nag-aaway+A+VACF IN B
+nag-aawitan+A+VACF IN B
+nag-abot+A+VACF CM B
+nagagalit+A+VACF IN B
+nagaganap+A+VACF CM B
+nagaganap+A+VACF IN B
+nagagawa+A+VACF IN B
+nagagawang+C+VACF IN B
+nag-ahon+A+VACF CM B
+nag-akala+A+VACF CM B
+nagalak+A+VACF CM B
+nag-alis+A+VACF CM B
+nagalit+A+VACF CM B
+nag-alok+A+VACF CM B
+nagalusan+A+ADOT
+nag-amoy+A+VACF CM B
+naganap+A+VACF CM B
+nag-anyaya+A+VACF CM B
+nag-anyong+C+ADOT
+nag-aral+A+VACF CM B
+nagawa+A+VACF CM B
+nagawang+C+VACF CM B
+nag-away+A+VACF CM B
+nag-awitan+A+VACF NE B
+nag-ayos+A+VACF CM B
+nagbaba+A+VACF CM B
+nagbabadya+A+VACF IN B
+nagbabago+A+VACF IN B
+nagbabalita+A+VACF IN B
+nagbabanta+A+VACF IN B
+nagbabantang+C+VACF IN B
+nagbabantay+A+VACF IN B
+nagbabasa+A+VACF IN B
+nagbabayad+A+VACF IN B
+nagbalak+A+VACF CM B
+nagbalal+A+VACF CM B
+nagbalik+A+VACF CM B
+nagbalita+A+VACF CM B
+nagbanta+A+VACF CM B
+nagbati+A+VACF CM B
+nagbatian+A+VACF NE B
+nagbayad+A+VACF CM B
+nagbibigay+A+VACF IN B
+nagbibinata+A+VACF IN B
+nagbibintang+A+VACF IN B
+nagbibiro+A+VACF IN B
+nagbibiruan+A+VACF IN B
+nagbigay+A+VACF CM B
+nagbigti+A+VACF CM B
+nagbihis+A+VACF CM B
+nagbilad+A+VACF CM B
+nagbili+A+VACF CM B
+nagbintang+A+VACF CM B
+nagbubuhat+A+VACF IN B
+nagbubulungan+A+VACF IN B
+nagbubuntung-hininga+A+ADOT
+nagbukas+A+VACF CM B
+nagbulungan+A+VACF NE B
+nagdaan+A+VACF NE B
+nagdadagsaan+A+VACF IN B
+nagdadamba+A+VACF IN B
+nagdadasal+A+VACF IN B
+nagdagdag+A+VACF CM B
+nagdahilan+A+VACF NE B
+nagdala+A+VACF CM B
+nagdalangtao+A+VACF CM B
+nagdalang-tao+A+VACF CM B
+nagdalawang-isip+A+ADOT
+nagdalawang-isip+A+VACF CM B
+nagdamdam+A+VACF CM B
+nagdaraan+A+VACF IN B
+nagdaraang+B+ADOT
+nagdaramdam+A+VACF IN B
+nagdaranas+A+VACF IN B
+nagdarasal+A+VACF CM B
+nagdarasal+A+VACF IN B
+nagdasal+A+VACF CM B
+nagdatingan+A+VACF NE B
+nagdidilig+A+VACF IN B
+nagdidilim+A+VACF IN B
+nagdududa+A+VACF IN B
+nagdudulot+A+VACF IN B
+nagdulot+A+VACF CM B
+nagdurugong+C+ADOT
+nagdurusa+A+VACF IN B
+naggala+A+VACF CM B
+naggitara+A+VACF CM B
+naghagikhikan+A+VACF NE B
+naghagis+A+VACF CM B
+naghahabaang+B+VACF IN B
+naghahabol+A+VACF IN B
+naghahalikan+A+VACF IN B
+naghahamon+A+VACF IN B
+naghahanap+A+VACF IN B
+naghahanapbuhay+A+VACF IN B
+naghahanda+A+VACF IN B
+naghaharing+C+VACF IN B
+naghahatid+A+VACF IN B
+naghahawan+A+VACF IN B
+naghalal+A+VACF CM B
+naghalughog+A+VACF CM B
+naghanap+A+VACF CM B
+naghanay+A+VACF CM B
+naghanda+A+VACF CM B
+naghangad+A+VACF CM B
+naghasik+A+VACF CM B
+naghatid+A+VACF CM B
+naghihikab+A+VACF IN B
+naghihilamos+A+VACF IN B
+naghihingalo+A+VACF IN B
+naghihintay+A+VACF IN B
+naghihirap+A+VACF IN B
+naghimala+A+VACF CM B
+naghingalo+A+VACF CM B
+naghintay+A+VACF CM B
+naghirap+A+VACF CM B
+naghiwa-hiwalay+A+VACF IN B
+naghiyawan+A+VACF NE B
+naghuhukay+A+VACF IN B
+nagiging+A+VACF IN B
+nag-ihaw+A+VACF CM B
+nag-iibigan+A+VACF IN B
+nag-iingat+A+VACF IN B
+nag-iinit+A+VACF IN B
+nag-iisa+A+ADOT
+nag-iisa+A+VACF IN B
+nag-iisang+C+ADOT
+nag-iisang+C+VACF IN B
+nag-iisip+A+VACF IN B
+nag-iiwan+A+VACF IN B
+naging+A+VACF CM B
+nagingitim+A+ADOT
+nag-init+A+VACF CM B
+nagipit+A+VACF CM B
+nagising+A+VACF CM B
+nag-isip+A+VACF CM B
+nag-iwan+A+VACF NE B
+nag-iyakan+A+VACF NE B
+nagkabuhay+A+VACF CM B
+nagkabuhok+A+ADOT
+nagkagayon+A+ADOT
+nagkagulo+A+VACF CM B
+nagkaisa+A+VACF CM B
+nagkakagulong+C+VACF IN B
+nagkakagusto+A+VACF IN B
+nagkakaisa+A+VACF IN B
+nagkakamali+A+VACF IN B
+nagkakaroon+A+VACF IN B
+nagkakasala+A+VACF IN B
+nagkakatipon+A+VACF IN B
+nagkakatuwaan+A+VACF IN B
+nagkakatuwaang+B+ADOT
+nagkakaunawaan+A+VACF IN B
+nagkakautang+A+VACF IN B
+nagkalat+A+VACF CM B
+nagkamay+A+VACF CM B
+nagkamot+A+VACF CM B
+nagkaroon+A+VACF CM B
+nagkasa+A+VACF CM B
+nagkasakit+A+VACF CM B
+nagkataon+A+ADOT
+nagkatawanan+A+VACF NE B
+nagkatinginan+A+ADOT
+nagkatinginan+A+VACF NE B
+nagkatitigan+A+VACF NE B
+nagkatuwaan+A+VACF NE B
+nagkausap+A+ADOT
+nagkibit+A+VACF CM B
+nagkikindatan+A+VACF IN B
+nagkikita+A+VACF IN B
+nagkita+A+ADOT
+nagkita+A+VACF CM B
+nagkrus+A+VACF CM B
+nagkubli+A+VACF CM B
+nagkukubli+A+VACF IN B
+nagkukuwentuhan+A+VACF IN B
+nagkunwang+A+VACF CM B
+nagkunwari+A+VACF CM B
+naglabasan+A+VACF NE B
+naglagalag+A+VACF CM B
+naglagi+A+VACF CM B
+naglaho+A+VACF CM B
+naglakad+A+VACF CM B
+naglakas-loob+A+VACF CM B
+naglalaba+A+VACF IN B
+naglalaban+A+VACF IN B
+naglalakad+A+VACF IN B
+naglalakihang+B+ADOT
+naglalapat+A+VACF IN B
+naglalarawan+A+VACF IN B
+naglalaro+A+VACF IN B
+naglalasing+A+VACF IN B
+naglambitin+A+VACF NE B
+naglaon+A+VACF CM B
+naglapitan+A+VACF NE B
+naglaro+A+VACF CM B
+naglawit+A+VACF CM B
+naglibot+A+VACF CM B
+naglihim+A+VACF CM B
+naglilibang+A+VACF IN B
+naglilimayon+A+VACF IN B
+naglilinis+A+VACF IN B
+nagliliparang+B+VACF IN B
+naglilis+A+VACF CM B
+naglilitis+A+VACF IN B
+nagliliyab+A+VACF IN B
+naglimos+A+VACF CM B
+naglisaw+A+VACF CM B
+naglubog+A+VACF CM B
+naglulubha+A+VACF IN B
+nagluto+A+VACF CM B
+nagmahal+A+VACF CM B
+nagmamadali+A+VACF IN B
+nagmamadaling+C+VACF IN B
+nagmamagaling+A+VACF IN B
+nagmamahal+A+VACF IN B
+nagmamahalan+A+VACF IN B
+nagmamakaawa+A+VACF IN B
+nagmamasid+A+VACF IN B
+nagmana+A+VACF CM B
+nagmatyag+A+VACF CM B
+nagmememorya+A+VACF IN B
+nagmimisa+A+VACF IN B
+nagmisa+A+VACF CM B
+nagmomonghang+C+VACF IN B
+nagmula+A+VACF CM B
+nagmumog+A+VACF CM B
+nagmumula+A+VACF IN B
+nagmumurahan+A+VACF IN B
+nagmumurang-kamatis+A+ADOT
+nagmungkahi+A+VACF CM B
+nagnanais+A+VACF IN B
+nagnanakaw+A+VACF IN B
+nagngangalang+B+ADOT
+nagngangalit+A+ADOT
+nagngangalit+A+VACF IN B
+nagngitian+A+VACF NE B
+nagpaalam+A+VACF CM B
+nagpabaya+A+VACF CM B
+nagpadala+A+VACF CM B
+nagpagala-gala+A+VACF IN B
+nagpagawa+A+VACF CM B
+nagpahamak+A+VACF CM B
+nagpahatid+A+VACF CM B
+nagpahinto+A+VACF CM B
+nagpakalulong+A+ADOT
+nagpakamatay+A+ADOT
+nagpakasal+A+VACF CM B
+nagpakilala+A+VACF CM B
+nagpalabas+A+VACF CM B
+nagpalakad-lakad+A+ADOT
+nagpalamig+A+VACF CM B
+nagpaliguy-ligoy+A+ADOT
+nagpalinga-linga+A+VACF IN B
+nagpalipat-lipat+A+ADOT
+nagpalipat-lipat+A+VACF IN B
+nagpaluto+A+VACF CM B
+nagpamalas+A+VACF CM B
+nagpang-abot+A+VACF CM B
+nagpanggap+A+VACF CM B
+nagpapaalala+A+VACF IN B
+nagpapaaliw+A+VACF IN B
+nagpapabaya+A+VACF IN B
+nagpapagalaw+A+VACF IN B
+nagpapagunita+A+VACF IN B
+nagpapahalaga+A+VACF IN B
+nagpapahid+A+VACF IN B
+nagpapahingalay+A+VACF IN B
+nagpapahingang+C+VACF IN B
+nagpapahirap+A+VACF IN B
+nagpapakain+A+VACF IN B
+nagpapakamatay+A+VACF IN B
+nagpapakilala+A+VACF IN B
+nagpapakilos+A+VACF IN B
+nagpapakumbaba+A+VACF IN B
+nagpapalagay+A+VACF IN B
+nagpapalaluan+A+VACF IN B
+nagpapalinlang+A+VACF IN B
+nagpapalipas+A+VACF IN B
+nagpapanggap+A+VACF IN B
+nagpapapigtal+A+VACF IN B
+nagpapapugot+A+VACF IN B
+nagpaparamdam+A+VACF IN B
+nagpaparatang+A+VACF IN B
+nagpapasalamat+A+VACF IN B
+nagpapatrulya+A+VACF IN B
+nagpapatunay+A+VACF IN B
+nagpapawis+A+VACF IN B
+nagpapunta+A+VACF CM B
+nagparagdag+A+VACF IN B
+nagpasalamat+A+VACF CM B
+nagpasiya+A+VACF CM B
+nagpasya+A+VACF CM B
+nagpatiwakal+A+VACF CM B
+nagpatuloy+A+VACF CM B
+nagpatumpik-tumpik+A+VACF IN B
+nagpauwi+A+VACF CM B
+nagpayaman+A+VACF NE B
+nagpigil+A+VACF CM B
+nagpipilit+A+VACF IN B
+nagpukol+A+VACF CM B
+nagpunta+A+VACF CM B
+nagpuputik+A+VACF IN B
+nagpupuyos+A+VACF IN B
+nagrereklamo+A+VACF IN B
+nagsabi+A+VACF CM B
+nagsabing+C+VACF CM B
+nagsabwatan+A+VACF NE B
+nagsadya+A+VACF CM B
+nagsaing+A+VACF CM B
+nagsaka+A+VACF CM B
+nagsakristan+A+VACF NE B
+nagsalita+A+VACF CM B
+nagsasaad+A+VACF IN B
+nagsasabi+A+VACF IN B
+nagsasabing+C+VACF IN B
+nagsasabog+A+VACF IN B
+nagsasadlak+A+VACF IN B
+nagsasalita+A+VACF IN B
+nagsasayang+A+VACF IN B
+nagsasayaw+A+VACF IN B
+nagsayaw+A+VACF CM B
+nagsenyasan+A+VACF NE B
+nagsermon+A+VACF CM B
+nagsibati+A+VACF CM B
+nagsidalo+A+VACF CM B
+nagsidulog+A+VACF CM B
+nagsigawan+A+VACF NE B
+nagsikain+A+VACF CM B
+nagsiklab+A+VACF CM B
+nagsilabas+A+VACF CM B
+nagsilang+A+VACF CM B
+nagsilbi+A+VACF CM B
+nagsilbing+C+VACF CM B
+nagsimba+A+VACF CM B
+nagsimula+A+VACF CM B
+nagsindi+A+VACF CM B
+nagsipagkurus+A+VACF CM B
+nagsisikap+A+VACF IN B
+nagsisiluhod+A+VACF IN B
+nagsisinungaling+A+VACF IN B
+nagsisipagsindi+A+VACF IN B
+nagsitakip+A+VACF CM B
+nagsitayo+A+VACF CM B
+nagsugal+A+VACF CM B
+nagsumbong+A+VACF CM B
+nagsuplong+A+VACF CM B
+nagsuri+A+VACF CM B
+nagsusulat+A+VACF IN B
+nagsusuri+A+VACF IN B
+nagtaas+A+VACF CM B
+nagtagal+A+ADOT
+nagtagal+A+VACF CM B
+nagtago+A+VACF CM B
+nagtaksil+A+VACF CM B
+nagtama+A+VACF CM B
+nagtampo+A+VACF CM B
+nagtanggol+A+VACF CM B
+nagtangka+A+VACF CM B
+nagtangkang+C+VACF CM B
+nagtanim+A+VACF CM B
+nagtanong+A+VACF CM B
+nagtataglay+A+VACF IN B
+nagtatago+A+VACF IN B
+nagtataka+A+VACF IN B
+nagtatakbo+A+VACF IN B
+nagtatakbuhang+B+VACF IN B
+nagtatalo+A+VACF IN B
+nagtatalon+A+VACF IN B
+nagtatanong+A+VACF IN B
+nagtatapos+A+VACF IN B
+nagtatawanan+A+VACF IN B
+nagtatawa't+A+VACF IN B
+nagtatayo+A+VACF IN B
+nagtayo+A+VACF CM B
+nagtayong+C+VACF CM B
+nagtiis+A+VACF CM B
+nagtinginan+A+VACF NE B
+nagtipid+A+VACF CM B
+nagtirik+A+VACF CM B
+nagtitinda+A+VACF IN B
+nagtititigan+A+VACF IN B
+nagtubo+A+VACF CM B
+nagtulak+A+VACF CM B
+nagtuloy+A+VACF CM B
+nagtungo+A+VACF CM B
+nagtutungo+A+VACF IN B
+nagtuturo’y+A+VACF IN B
+nag-udyok+A+VACF CM B
+nagugulat+A+VACF IN B
+nagugupit+A+ADOT
+nagugutom+A+VACF IN B
+nagulat+A+VACF CM B
+nagunita+A+VACF CM B
+nagunitang+C+VACF CM B
+nag-usap+A+VACF CM B
+nagustuhan+A+VACF NE B
+nag-utos+A+VACF CM B
+nag-uugat+A+VACF IN B
+nag-uusap+A+VACF IN B
+nag-uusisa+A+VACF IN B
+nag-uusyuso+A+VACF IN B
+nag-uutos+A+VACF IN B
+nagwawalang-bahala+A+VACF IN B
+nagwika+A+VACF CM B
+nahabag+A+VACF CM B
+nahadlangan+A+VOBF CM B
+nahahabag+A+VACF IN B
+nahahalatang+C+VACF IN B
+nahayag+A+VACF CM B
+nahihibang+A+VACF IN B
+nahihimbing+A+ADOT
+nahihimbing+A+VACF IN B
+nahihintakutang+B+ADOT
+nahihirapan+A+VOBF IN B
+nahimbing+A+ADOT
+nahintakutang+B+ADOT
+nahinto+A+ADOT
+nahuhuli+A+VACF IN B
+nahuhuling+C+ADOT
+nahukay+A+ADOT
+nahuli+A+ADOT
+nahuli+A+VACF CM B
+nahulihan+A+VOBF NE B
+nahulog+A+VACF CM B
+nahumpak+A+ADOT
+naibigan+A+VOBF CM B
+naibigay+A+VACF CM B
+naibulong+A+VACF CM B
+naiiba+A+VACF IN B
+naiibigan+A+VOBF IN B
+naiinggit+A+VACF IN B
+naiinip+A+VACF IN B
+naiintindihan+A+VOBF IN B
+naiisip+A+VACF IN B
+naiiwan+A+VOBF IN B
+nailatag+A+VACF CM B
+nailigtas+A+VACF CM B
+nailihim+A+VACF CM B
+nainis+A+VACF CM B
+nainom+A+ADOT
+naipagtatanggol+A+VACF IN B
+naipakikilala+A+VACF IN B
+naipapaliwanag+A+VACF IN B
+naipatutupad+A+VACF IN B
+naipon+A+VACF CM B
+naipong+B+VACF CM B
+nais+A+AUXP
+nais+A+VOTF OT B
+naisaboy+A+VACF CM B
+naisagawa+A+VACF CM B
+naisasaayos+A+VOBF NE B
+naisin+A+VACF CM B
+naisip+A+VACF CM B
+naisumpa+A+VACF CM B
+naisusulat+A+VACF IN B
+naitanong+A+VACF CM B
+naitatag+A+VACF CM B
+naitulak+A+VACF CM B
+naiwan+A+VLOF CM B
+naiwan+A+VOBF CM B
+naiwan+A+VOBF NE B
+naiwang+B+VOBF CM B
+nakaaabang+A+ADOT
+nakaaakit+A+ADOT
+nakaaalam+A+ADOT
+nakaaalis+A+ADOT
+nakaaangat+A+ADOT
+naka-abito+A+ADOT
+nakaalis+A+ADOT
+nakaatang+A+ADOT
+nakaawang+C+ADOT
+nakaayos+A+ADOT
+nakababagot+A+ADOT
+nakababahin+A+ADOT
+nakababalisa+A+ADOT
+nakababata+A+ADOT
+nakababatang+C+ADOT
+nakababatid+A+ADOT
+nakabalik+A+VACF CM B
+nakabalita+A+ADOT
+nakabarong+A+ADOT
+nakabaston+A+ADOT
+nakabili+A+ADOT
+nakabitin+A+ADOT
+nakabubulahaw+A+ADOT
+nakabukang+C+ADOT
+nakabukas+A+ADOT
+nakabunton+A+ADOT
+nakadagan+A+ADOT
+nakadakot+A+ADOT
+nakadama+A+ADOT
+nakadarama+A+ADOT
+nakadaupang-palad+A+ADOT
+nakadungaw+A+ADOT
+nakagaanan+A+ADOT
+nakagagambala+A+ADOT
+nakagagawa+A+ADOT
+nakagalang+A+ADOT
+nakagawa+A+ADOT
+nakagawian+A+ADOT
+nakahakbang+A+ADOT
+nakahanda+A+ADOT
+nakahandang+C+ADOT
+nakaharap+A+ADOT
+nakahawak+A+ADOT
+nakahihigit+A+ADOT
+nakahinga+A+ADOT
+nakahuma+A+ADOT
+nakaimik+A+ADOT
+nakaisip+A+ADOT
+nakaismid+A+ADOT
+nakakaalala+A+ADOT
+nakakaantok+A+ADOT
+nakakabalita+A+ADOT
+nakakabasa+A+ADOT
+nakakainsulto+A+ADOT
+nakakaistorbo+A+ADOT
+nakakakita+A+ADOT
+nakakakita+A+VACF IN B
+nakakalat+A+ADOT
+nakakaligtaan+A+ADOT
+nakakapagpalimot+A+ADOT
+nakakapagpasikip+A+ADOT
+nakakapamahinga+A+ADOT
+nakakapamalagi+A+ADOT
+nakakapamayat+A+ADOT
+nakakapit+A+ADOT
+nakakaraan+A+ADOT
+nakakaramdam+A+ADOT
+nakakasa+A+ADOT
+nakakasalo+A+ADOT
+nakakasalubong+A+ADOT
+nakakausap+A+ADOT
+nakakibo+A+ADOT
+nakakikilala+A+VACF IN B
+nakakikita+A+ADOT
+nakakilos+A+ADOT
+nakakolorete+A+ADOT
+nakakuha+A+ADOT
+nakakuha+A+VACF CM B
+nakakulong+A+ADOT
+nakakunot+A+ADOT
+nakakuwadrong+C+ADOT
+nakalagay+A+ADOT
+nakalalayo+A+ADOT
+nakalapag+A+ADOT
+nakalatag+A+ADOT
+nakalaya+A+ADOT
+nakalibing+A+ADOT
+nakalilimot+A+ADOT
+nakalilipas+A+ADOT
+nakalimot+A+VACF CM B
+nakalimutan+A+ADOT
+nakalugmok+A+ADOT
+nakaluksang+C+ADOT
+nakamasid+A+ADOT
+nakamit+A+ADOT
+nakangiti+A+ADOT
+nakangiting+C+ADOT
+nakapag-aaral+A+ADOT
+nakapag-aral+A+ADOT
+nakapag-asawa+A+ADOT
+nakapagbalita+A+ADOT
+nakapagbigay+A+ADOT
+nakapagbubuo+A+ADOT
+nakapagdududa+A+ADOT
+nakapaghahanda+A+ADOT
+nakapaglakbay+A+ADOT
+nakapagpabago+A+VACF CM B
+nakapagpapababa+A+ADOT
+nakapagpapahalaga+A+ADOT
+nakapagpigil+A+ADOT
+nakapagsabi+A+ADOT
+nakapagsabing+C+ADOT
+nakapagsahta+A+ADOT
+nakapagsalita+A+ADOT
+nakapagtanong+A+ADOT
+nakapagtutuwid+A+ADOT
+nakapalibot+A+ADOT
+nakapamintana+A+ADOT
+nakapandong+A+ADOT
+nakapanghihilakbot+A+ADOT
+nakapanghihimasok+A+ADOT
+nakapangumpisal+A+ADOT
+nakapangungumpisal+A+ADOT
+nakapanlalalim+A+ADOT
+nakapansin+A+ADOT
+nakapapasok+A+ADOT
+nakapasa+A+ADOT
+nakapasok+A+ADOT
+nakapatay+A+ADOT
+nakapatong+A+ADOT
+nakapinid+A+ADOT
+nakapipinsala+A+ADOT
+nakapranela+A+ADOT
+nakapupuwing+A+ADOT
+nakapusod+A+ADOT
+nakaraan+A+ADOT
+nakaraan+A+NCOM 2
+nakaraang+B+ADOT
+nakararaan+A+ADOT
+nakararaan+A+NCOM 2
+nakararami+A+ADOT
+nakararami+A+PIDP NU B
+nakararaming+C+ADOT
+nakararaming+C+PIDP NU B
+nakaratay+A+ADOT
+nakarating+A+ADOT
+nakarinig+A+ADOT
+nakarinig+A+VACF CM B
+nakaririnig+A+ADOT
+nakasabit+A+ADOT
+nakasagutan+A+ADOT
+nakasakay+A+ADOT
+nakasakay+A+VACF CM B
+nakasakit+A+VACF CM B
+nakasaksi+A+ADOT
+nakasalalay+A+ADOT
+nakasalaming+B+ADOT
+nakasalang+C+ADOT
+nakasalang+A+ADOT
+nakasalubong+A+ADOT
+nakasama+A+ADOT
+nakasandal+A+ADOT
+nakasandig+A+ADOT
+nakasasakit+A+ADOT
+nakasasakit+A+VACF IN B
+nakasibilyan+A+ADOT
+nakasinding+C+ADOT
+nakasiping+A+ADOT
+nakasisiguro+A+ADOT
+nakasosyo+A+ADOT
+nakasulat+A+ADOT
+nakasulit+A+VACF CM B
+nakasumbrero+A+ADOT
+nakasumbrerong+C+ADOT
+nakasunod+A+ADOT
+nakasuot+A+ADOT
+nakasusing+C+ADOT
+nakasusulat+A+ADOT
+nakatagal+A+ADOT
+nakatagpo+A+ADOT
+nakatakas+A+ADOT
+nakatala+A+ADOT
+nakatali+A+ADOT
+nakatalon+A+VACF CM B
+nakatanaw+A+ADOT
+nakatanggap+A+ADOT
+nakatanim+A+ADOT
+nakatapos+A+ADOT
+nakatapos+A+VACF CM B
+nakatataas+A+ADOT
+nakatatakot+A+ADOT
+nakatatalakay+A+ADOT
+nakatatanda+A+ADOT
+nakatatandang+C+ADOT
+nakatatawag+A+ADOT
+nakatayo+A+ADOT
+nakatayong+C+ADOT
+nakatingala+A+ADOT
+nakatingin+A+ADOT
+nakatingkayad+A+ADOT
+nakatirik+A+ADOT
+nakatitig+A+ADOT
+nakatitik+A+ADOT
+nakatitikim+A+ADOT
+nakatitiyak+A+ADOT
+nakatulog+A+ADOT
+nakatungalang+C+ADOT
+nakatuntong+A+ADOT
+nakatuon+A+ADOT
+nakatutok+A+ADOT
+nakatutulig+A+ADOT
+nakatutuwa+A+ADOT
+nakaukit+A+ADOT
+nakaupo+A+ADOT
+nakausap+A+ADOT
+nakausli+A+ADOT
+nakauwi+A+ADOT
+nakawala+A+ADOT
+nakawan+A+NCOM 2
+nakawan+A+VOBF NE B
+nakayuko+A+ADOT
+nakayukong+C+ADOT
+nakikiayon+A+VACF IN B
+nakikilala+A+ADOT
+nakikilala+A+VACF IN B
+nakikimi+A+ADOT
+nakikinig+A+VACF IN B
+nakikini-kinita+A+ADOT
+nakikini-kinita+A+VACF IN B
+nakikipag-agawang+B+ADOT
+nakikipagbulungan+A+ADOT
+nakikipagkaibigan+A+VACF IN B
+nakikipaglaban+A+VACF IN B
+nakikipagsapalaran+A+ADOT
+nakikipagsaya+A+ADOT
+nakikipag-usap+A+ADOT
+nakikipag-usap+A+VACF IN B
+nakikiramay+A+VACF IN B
+nakikiramdam+A+ADOT
+nakikiramdam+A+VACF IN B
+nakikisama+A+ADOT
+nakikisayaw+A+VACF IN B
+nakikita+A+ADOT
+nakikita+A+VACF IN B
+nakikitang+C+VACF IN B
+nakikituligsa+A+ADOT
+nakilala+A+ADOT
+nakilala+A+VACF CM B
+nakinig+A+VACF CM B
+nakipag-alam+A+ADOT
+nakipagbarilan+A+ADOT
+nakipaghiwalay+A+ADOT
+nakipagkamay+A+ADOT
+nakipagkita+A+ADOT
+nakipaglaban+A+ADOT
+nakipaglibing+A+ADOT
+nakipag-usap+A+ADOT
+nakipamuhay+A+ADOT
+nakiraan+A+ADOT
+nakisalo+A+VACF CM B
+nakisama+A+ADOT
+nakita+A+VACF CM B
+nakitaan+A+VACF CM B
+nakitang+C+ADOT
+nakitang+C+VACF CM B
+nakiumpok+A+ADOT
+nakiusap+A+VACF CM B
+nakokoleretehang+B+ADOT
+naku+A+INTR
+nakuha+A+VACF CM B
+nakulong+A+ADOT
+nalaglag+A+VACF CM B
+nalagutan+A+VOBF CM B
+nalalabi+A+ADOT
+nalalagot+A+ADOT
+nalalaman+A+VOBF IN B
+nalalamang+B+VOBF IN B
+nalalanghap+A+VACF IN B
+nalalapit+A+ADOT
+nalalapit+A+VACF IN B
+nalaman+A+VOBF CM B
+nalantad+A+VACF CM B
+naligaw+A+ADOT
+naligtas+A+VACF CM B
+naliligiran+A+VOBF IN B
+naliligo+A+VACF IN B
+nalilimot+A+VACF IN B
+nalilinlang+A+ADOT
+nalilito+A+VACF IN B
+nalilitong+C+ADOT
+nalimot+A+VACF CM B
+nalimutan+A+VOBF CM B
+nalinlang+A+VACF CM B
+nalipat+A+VACF CM B
+nalito+A+VACF CM B
+naluklok+A+VACF CM B
+nalulong+A+VACF CM B
+nalulungkot+A+VACF IN B
+nalulunod+A+VACF IN B
+nalungkot+A+ADOT
+nalungkot+A+VACF CM B
+naluoy+A+ADOT
+nalupig+A+VACF CM B
+nama+A+ENCL
+nama’y+A+ENCL
+namagitan+A+ADOT
+namagitan+A+VOBF CM B
+namalagi+A+VACF CM B
+namalayan+A+VOBF CM B
+namalo+A+VACF CM B
+namamahala+A+VACF IN B
+namamalayan+A+VOBF IN B
+namamalayang+B+VOBF IN B
+namamalo+A+VACF IN B
+namamasyal+A+NCOM 2
+namamasyal+A+VACF IN B
+namamayat+A+VACF IN B
+naman+A+ENCL
+namana+A+VACF CM B
+namang+B+ENCL
+namangha+A+ADOT
+namangha+A+VACF CM B
+namangka+A+VACF CM B
+namasukan+A+VOBF CM B
+namatay+A+VACF CM B
+namatayan+A+VOBF CM B
+namayapa+A+VACF CM B
+namilog+A+VACF CM B
+namimigat+A+VACF IN B
+namimilog+A+VACF IN B
+namin+A+PNGP ST P
+naming+B+PNGP ST P
+namitas+A+VACF CM B
+namuhay+A+VACF CM B
+namumuhi+A+VACF IN B
+namumukadkad+A+VACF IN B
+namumuno+A+ADOT
+namumuno+A+VACF IN B
+namumuong+C+ADOT
+namumurok+A+VACF IN B
+namumutla+A+ADOT
+namuna+A+VACF CM B
+namuno+A+VACF CM B
+namutla+A+ADOT
+nanaginip+A+VACF CM B
+nanahan+A+VOBF CM B
+nanaig+A+VACF CM B
+nanalangin+A+VACF CM B
+nanalo+A+VACF CM B
+nananabako+A+ADOT
+nananabako+A+VACF IN B
+nananaghoy+A+VACF IN B
+nananagot+A+VACF IN B
+nananahimik+A+VACF IN B
+nananakot+A+VACF IN B
+nananalangin+A+VACF IN B
+nananalig+A+VACF IN B
+nananalim+A+VACF IN B
+nananangan+A+VOBF IN B
+nanangis+A+VACF CM B
+nanaog+A+VACF CM B
+nanatili+A+VACF CM B
+Nanay+A+NPRO
+nandaraya+A+VACF IN B
+nandilat+A+VACF CM B
+nang+A+CONG
+nang-aapi+A+VACF IN B
+nang-aaway+A+VACF IN B
+nangagsiparoon+A+VACF IN B
+na-ngagtatapat+A+VACF IN B
+nangag-uunahang+B+VACF IN B
+nangag-uusap+A+VACF IN B
+nangahas+A+VACF CM B
+nangakalaya+A+VACF IN B
+nangako+A+VACF CM B
+nangakong+C+VACF CM B
+nangamoy+A+VACF CM B
+nangangahulugan+A+VOBF IN B
+nangangahulugang+B+ADOT
+nangangahulugang+B+VOBF IN B
+nangangailangan+A+VOBF IN B
+nangangalang+A+ADOT
+nangangamba+A+VACF IN B
+nangangambang+C+VACF IN B
+nanganganga+A+VACF IN B
+nangangaral+A+VACF IN B
+nangangarap+A+VACF IN B
+nangangasiwa+A+VACF IN B
+nangangastila+A+ADOT
+nangangatal+A+ADOT
+nanganlong+A+VACF CM B
+nangarap+A+VACF CM B
+nangayayat+A+ADOT
+nangayayat+A+VACF CM B
+nanggagaling+A+VACF IN B
+nanggagapasan+A+ADOT
+nanggugulo+A+VACF IN B
+nanghaharang+A+VACF IN B
+nanghihilakbot+A+ADOT
+nanghihina+A+ADOT
+nanghilakbot+A+ADOT
+nanghingi+A+VACF CM B
+nanghiram+A+VACF CM B
+nangilabot+A+ADOT
+nangingilid+A+VACF IN B
+nanginginig+A+ADOT
+nanginginig+A+VACF IN B
+nangingintab+A+ADOT
+nangingisda+A+VACF IN B
+nangingislap+A+ADOT
+nangingiti+A+VACF IN B
+nanginig+A+VACF CM B
+nangisda+A+VACF CM B
+nangislap+A+ADOT
+nangislap+A+VACF CM B
+nangiti+A+ADOT
+nangiti+A+VACF CM B
+nanguha+A+VACF CM B
+nangungulo+A+VACF IN B
+nangungumpisal+A+VACF IN B
+nangungusap+A+VACF IN B
+nangurus+A+VACF CM B
+nangusap+A+VACF CM B
+nang-uuyam+A+VACF IN B
+nangyari+A+NCOM 2
+nangyari+A+VACF CM B
+nangyaring+C+VACF CM B
+nangyayari+A+VACF IN B
+naninigarilyo+A+VACF IN B
+naninigas+A+VACF IN B
+naninilaw+A+VACF IN B
+naniningil+A+VACF IN B
+naninirahan+A+VOBF IN B
+naniniwala+A+VACF IN B
+naniniwalang+C+VACF IN B
+nanirahan+A+VOBF CM B
+naniwalang+C+VACF CM B
+nanlaban+A+VACF CM B
+nanlalaki+A+ADOT
+nanlalalim+A+ADOT
+nanlalalim+A+VACF IN B
+nanlalamig+A+ADOT
+nanlalason+A+VACF IN B
+nanlamig+A+ADOT
+nanliligaw+A+VACF IN B
+nanlilisik+A+ADOT
+nanlumo+A+VACF CM B
+nanonood+A+VACF IN B
+nanukso+A+VACF CM B
+nanumbalik+A+VACF CM B
+nanunukat+A+VACF IN B
+nanunuksong+C+VACF IN B
+nanunumbat+A+VACF IN B
+napaaari+A+VACF IN B
+napaaga+A+ADOT
+napaalis+A+ADOT
+napaatras+A+ADOT
+napabalita+A+VACF CM B
+napabalitang+C+ADOT
+napabulagta+A+ADOT
+napabuntung-hininga+A+ADOT
+napadaan+A+ADOT
+napadapa+A+ADOT
+napadasal+A+ADOT
+napag-aaralan+A+NA
+napagdaop+A+ADOT
+napag-iingatan+A+ADOT
+napag-iiwanan+A+ADOT
+napag-isip+A+ADOT
+napagkaisahan+A+VLOF CM B
+napagkalooban+A+ADOT
+napagkasunduan+A+VLOF CM B
+napagod+A+ADOT
+napag-usapan+A+ADOT
+napag-uusapan+A+NA
+napahagulgol+A+ADOT
+napahalakhak+A+ADOT
+napahinto+A+ADOT
+napahiya+A+ADOT
+napaibig+A+ADOT
+napaiyak+A+ADOT
+napakadilim+A+ADSU
+napakaganda+A+ADSU
+napakagandang+C+ADSU
+napakagat-labi+A+ADOT
+napakagiliw+A+ADSU
+napakahalaga+A+ADSU
+napakahiwaga+A+ADSU
+napakalabong+A+ADSU
+napakalakas+A+ADSU
+napakalaki+A+ADSU
+napakalaking+C+ADSU
+napakaliit+A+ADSU
+napakamahal+A+ADSU
+napakamot+A+ADOT
+napakapangit+A+ADSU
+napakapilyo+A+ADSU
+napakaraming+C+ADSU
+napakarangal+A+ADSU
+napakasal+A+ADOT
+napakasaya+A+ADSU
+napakaselan+A+ADSU
+napakatagal+A+ADSU
+napakatalim+A+ADSU
+napakatalino+A+ADSU
+napakatamis+A+ADSU
+napakiusapan+A+ADOT
+napala+A+VACF CM B
+napalilibutan+A+ADOT
+napalitan+A+VOBF CM B
+napalugrnok+A+ADOT
+napaluha+A+ADOT
+napalunok+A+ADOT
+napamahal+A+ADOT
+napamulagat+A+ADOT
+napanaginipan+A+ADOT
+napanaginipan+A+VOBF CM B
+napanganga+A+ADOT
+napangiti+A+ADOT
+napansin+A+VACF CM B
+napansing+B+VACF CM B
+napapabayaan+A+VOBF IN B
+napapagitnaan+A+ADOT
+napapahiya+A+VACF IN B
+napapalamutian+A+ADOT
+napapaligiran+A+ADOT
+napapanaginipan+A+VOBF IN B
+napapandaw+A+ADOT
+napapanganib+A+VACF IN B
+napapansin+A+VACF IN B
+napaparalisa+A+ADOT
+napapasakanya+A+ADOT
+napapasama+A+VACF IN B
+napapasigaw+A+ADOT
+napapayapa+A+VACF IN B
+napapikit+A+ADOT
+naparito+A+PSAD ST B
+naparitong+C+PSAD ST B
+napasama+A+ADOT
+napasigaw+A+ADOT
+napasukan+A+ADOT
+napasukan+A+VOBF CM B
+napasulyap+A+ADOT
+napasuntok+A+ADOT
+napataas+A+ADOT
+napatahimik+A+ADOT
+napatakam+A+ADOT
+napatawa+A+ADOT
+napatay+A+VACF CM B
+napatayo+A+ADOT
+napatigil+A+ADOT
+napatingala+A+ADOT
+napatingin+A+ADOT
+napaunlad+A+VACF CM B
+napaurong+A+ADOT
+napawi+A+VACF CM B
+napayuko+A+ADOT
+napigil+A+VACF CM B
+napiit+A+VACF CM B
+napilitan+A+VOBF CM B
+napilitan+A+VOBF NE B
+napuna+A+VACF CM B
+napunit+A+ADOT
+napuno+A+VACF CM B
+napunta+A+VACF CM B
+napuntahan+A+VOBF CM B
+naputol+A+ADOT
+naputol+A+VACF CM B
+naramdamam+A+VACF CM B
+naramdaman+A+VOBF CM B
+nararamdaman+A+VOBF IN B
+nararapat+A+ADOT
+narating+A+ADOT
+narating+A+VACF CM B
+naratnan+A+VOBF CM B
+narinig+A+VACF CM B
+narinig+A+VACF IN B
+naririnig+A+VACF IN B
+narito+A+PSAD ST B
+naritong+C+PSAD ST B
+nariyan+A+PSAD ND B
+nariyang+B+PSAD ND B
+narnan+A+ENCL
+naroon+A+PSAD RD B
+naroong+B+PSAD RD B
+nasa+A+PRLO
+nasaan+A+NA
+nasabi+A+VACF CM B
+nasabing+C+ADOT
+nasabing+C+VACF CM B
+nasaksihan+A+VOBF CM B
+nasaktan+A+NCOM 2
+nasaktan+A+VOBF CM B
+nasalubong+A+ADOT
+nasapawan+A+VOBF CM B
+nasasailalim+A+ADOT
+nasasakdal+A+VACF IN B
+nasasaktan+A+VOBF IN B
+nasasakupan+A+NCOM 2
+nasasakupan+A+VOBF IN B
+nasawata+A+VACF CM B
+nasawi+A+VACF CM B
+nasawing+C+ADOT
+nasilayan+A+VOBF CM B
+nasipa+A+VACF CM B
+nasiraan+A+VOBF CM B
+nasirang+C+ADOT
+nasisinagan+A+VOBF IN B
+nasisiraan+A+VOBF IN B
+nasisiyahan+A+VOBF IN B
+nasiyahan+A+VOBF CM B
+nasugatan+A+VOBF CM B
+nasunog+A+VACF CM B
+nasusulat+A+VACF IN B
+nasusunog+A+VACF IN B
+natabunan+A+ADOT
+natagalan+A+VOBF CM B
+natagpuan+A+VOBF CM B
+natahimik+A+ADOT
+natakot+A+VACF CM B
+natalo+A+VACF CM B
+natamaan+A+VOBF CM B
+natamo+A+VACF CM B
+natanaw+A+VACF CM B
+natanawan+A+VOBF CM B
+natapong+B+ADOT
+natapos+A+VACF CM B
+natataas+A+ADOT
+natatahan+A+VOBF IN B
+natatakot+A+ADOT
+natatakot+A+VACF IN B
+natatanaw+A+VACF IN B
+natatanging+C+ADOT
+natatanglawan+A+VOBF IN B
+natatapos+A+VACF IN B
+natataranta+A+VACF IN B
+natatawa+A+VACF IN B
+natauhan+A+VOBF CM B
+natibigan+A+VOBF NE B
+natigil+A+VACF CM B
+natin+A+PNGP ST P
+nating+B+PNGP ST P
+natira+A+ADOT
+natira+A+VACF CM B
+natirang+C+VACF CM B
+natitilamsikan+A+VOBF IN B
+natitiyak+A+VACF IN B
+natiwalag+A+VACF CM B
+natiyak+A+VACF CM B
+natuklasan+A+VOBF CM B
+natulog+A+VACF CM B
+naturingang+B+ADOT
+natuto+A+VACF CM B
+natutuhan+A+VOBF CM B
+natutuhan+A+VOBF IN B
+natutuhan+A+VOBF NE B
+natutuklasan+A+VOBF IN B
+natutulog+A+VACF IN B
+natutuwa+A+VACF IN B
+natuwa+A+VACF CM B
+naunang+C+ADOT
+naunawaan+A+VOBF CM B
+naupo+A+ADOT
+naupo+A+VACF CM B
+naupong+C+VACF CM B
+nauukol+A+ADOT
+nauumid+A+VACF IN B
+nauuna+A+ADOT
+nauunawaan+A+VOBF IN B
+nauunawaang+B+VOBF IN B
+nauupos+A+VACF IN B
+nauwi+A+VACF CM B
+nawa+A+ENCL
+nawa’y+A+ENCL
+nawala+A+VACF CM B
+nawalan+A+VOBF CM B
+nawari+A+VACF CM B
+nawawala+A+VACF IN B
+nawawalan+A+VOBF IN B
+nawawalang+C+VACF IN B
+nawika+A+VACF CM B
+nayakap+A+ADOT
+nayayamot+A+ADOT
+nayon+A+NCOM 2
+nayuyungyungan+A+VOBF IN B
+Neneng+A+NPRO
+ng+A+DECN GEN
+ng+A+NA
+nga+A+ENCL
+ngalan+A+NCOM 2
+ngang+A+ENCL
+nganga+A+NCOM 2
+nginanga+A+VOBF CM B
+ngipin+A+NCOM 2
+ngiping+B+NCOM 2
+ngiti+A+NCOM 2
+ngiting+C+NCOM 2
+ngu+A+INTR
+ngumingiti+A+VACF IN B
+ngumiti+A+VACF CM B
+ngunit+A+CONI
+ngunit+A+NA
+nguso+A+NCOM 2
+ni+A+COMU
+ni+A+DEPS GEN
+ni+A+ENCL
+ni+A+NA
+nila+A+PNGP RD P
+nilagyan+A+VLOF CM B
+nilagyan+A+VOBF CM B
+nilait+A+VOBF CM B
+nilakbay+A+VOBF CM B
+nilakhan+A+VOBF CM B
+nilalagnat+A+VOBF IN B
+nilalagyan+A+VOBF IN B
+nilalaru-laro+A+ADUN
+nilalatigo+A+VOBF IN B
+nilang+C+PNGP RD P
+nilango+A+VOBF CM B
+nilapitan+A+VOBF CM B
+nilayasan+A+VOBF CM B
+niligis+A+VOBF CM B
+nilikha+A+VOBF CM B
+nilikhang+C+VOBF CM B
+nililibak+A+VOBF IN B
+nililigawan+A+VOBF IN B
+nililito+A+VOBF IN B
+nilinga+A+VOBF CM B
+nilingon+A+VOBF CM B
+nilipad+A+VOBF CM B
+nilisan+A+VLOF CM B
+niloko+A+VOBF CM B
+niloloko+A+VOBF IN B
+nilolooban+A+VOBF IN B
+nilulumot+A+VOBF IN B
+nilulunok+A+VOBF IN B
+nilulusob+A+VOBF IN B
+nilusob+A+VOBF CM B
+nina+A+DEPP GEN
+nina+A+NA
+ninais+A+VOBF CM B
+ninakaw+A+VOBF CM B
+ninanamnam+A+VOBF IN B
+nino+A+PINP NU S
+ninong+C+PINP NU S
+ninong+A+NCOM 2
+Ninong+A+NPRO
+ninuno+A+NCOM 2
+ninyo+A+PNGP ND P
+ninyong+C+PNGP ND P
+nireresetahan+A+VOBF IN B
+nito+A+PNGD ST B
+nitong+C+PNGD ST B
+nitso+A+NCOM 2
+niya+A+PNGP RD S
+niyakap+A+VOBF CM B
+niyan+A+PNGD ND B
+niyan+A+PSAD ND B
+niyang+C+PNGP RD S
+niyang+B+PNGD ND B
+niyang+B+PSAD ND B
+niyaya+A+VOBF CM B
+niyugyog+A+VOBF CM B
+niyupi+A+VOBF CM B
+niyuyugyog+A+VOBF IN B
+niyuyurakang+B+ADUN
+nobela+A+NCOM 2
+nobena+A+NCOM 2
+Nol+A+NPRO
+non+A+PNGD RD B
+nong+B+PNGD RD B
+noo+A+NCOM 2
+noon+A+PNGD RD B
+noong+B+PNGD RD B
+Nuestra+A+NPRO
+nuncio+A+NCOM 2
+nyan+A+PNGD ND B
+nyang+B+PNGD ND B
+o+A+COMU
+o+A+INTR
+o+A+NA
+Obando+A+NPRO
+obispo+A+NCOM 2
+obligasyon+A+NCOM 2
+oho+A+IRFA
+Oktubre+A+NPRO
+onsa+A+NCOM 2
+oo+A+IRIA
+operetang+A+NCOM 2
+opisyal+A+NCOM 2
+opo+A+IRFA
+opyo+A+NCOM 2
+orapreis+A+NCOM 2
+orapreo+A+NCOM 2
+oras+A+NCOM 2
+orasan+A+NCOM 2
+oras-oras+A+AVPA AL
+orasyon+A+NCOM 2
+orkestra+A+NCOM 1
+orkestrang+C+NCOM 1
+ospital+A+NCOM 2
+ow+A+INTR
+pa+A+ENCL
+pa+A+LIPA
+pa+A+NA
+paa+A+NCOM 2
+paalam+A+NCOM 2
+paalis+A+ADOT
+paamuin+A+VOBF NE B
+paani+A+NCOM 2
+paano+A+PINP NU S
+paanong+C+PINP NU S
+paanyaya+A+NCOM 2
+paaralan+A+NCOM 2
+paaralang+B+NCOM 2
+pababang+C+ADOT
+pabigkasin+A+VOBF NE B
+pabilog+A+ADOT
+Pablo+A+NPRO
+pabo+A+NCOM 2
+pabor+A+NCOM 2
+paborito+A+ADOT
+padadala+A+NA
+pader+A+NCOM 2
+padre+A+NCOM 1
+Padre+A+NPRO
+padrino+A+NCOM 2
+Padua+A+NPRO
+pag-aabuloy+A+NCOM 2
+pag-aakala+A+NCOM 2
+pag-aakalang+C+NCOM 2
+pag-aaklas+A+NCOM 2
+pag-aalala+A+NCOM 2
+pag-aalangan+A+NCOM 2
+pag-aalinlangan+A+NCOM 2
+pag-aalis+A+NCOM 2
+pag-aalsa+A+NCOM 2
+pag-aaral+A+NCOM 2
+pag-aari+A+NCOM 2
+pag-aayos+A+NCOM 2
+pag-akyat+A+NCOM 2
+pagalingin+A+NCOM 2
+pag-alipusta+A+NCOM 2
+pag-alis+A+NCOM 2
+pag-aralan+A+NCOM 2
+pag-aray+A+NCOM 2
+pag-asa+A+NCOM 2
+pag-asam+A+NCOM 2
+pag-asang+C+NCOM 2
+pagaspas+A+NCOM 2
+pagawaan+A+NCOM 2
+pag-ayon+A+NA
+pagbaba+A+NCOM 2
+pagbabago+A+NCOM 2
+pagbabagong+C+NCOM 2
+pagbabagu-bago+A+NCOM 2
+pagbabakasakaling+C+NCOM 2
+pagbabalik+A+NCOM 2
+pagbabalita+A+NCOM 2
+pagbabalitaan+A+NCOM 2
+pagbabanta+A+NCOM 2
+pagbabasa+A+NCOM 2
+pagbabatayang+B+NCOM 2
+pagbabatian+A+NCOM 2
+pagbabawas+A+NCOM 2
+pagbabayad+A+NCOM 2
+pagbasa+A+NCOM 2
+pagbibigay+A+NCOM 2
+pagbibilang+A+NCOM 2
+pagbibinata+A+NCOM 2
+pagbibintang+A+NCOM 2
+pagbibintangan+A+NCOM 2
+pagbibirong+C+NCOM 2
+pagbibitiw+A+NCOM 2
+pagbili+A+NCOM 2
+pagbubukas+A+NCOM 2
+pagbubulaan+A+NCOM 2
+pagbubungkal+A+NCOM 2
+pagbuhusan+A+NCOM 2
+pagbukang-liwayway+A+NCOM 2
+pagbunghalit+A+NCOM 2
+pagdaan+A+NCOM 2
+pagdadahilan+A+NCOM 2
+pagdadalaga+A+NCOM 2
+pagdadalamhati+A+NCOM 2
+pagdagsa+A+NCOM 2
+pagdalaw+A+NCOM 2
+pagdalo+A+NCOM 2
+pagdami+A+NCOM 2
+pagdanas+A+NCOM 2
+pagdaramdam+A+NCOM 2
+pagdaraos+A+NCOM 2
+pagdarasal+A+NCOM 2
+pagdating+A+NA
+pagdating+A+NCOM 2
+pagdayo+A+NCOM 2
+pagdiriwang+A+NCOM 2
+pagdududahan+A+NCOM 2
+pagdudulot+A+NCOM 2
+pagdulog+A+NCOM 2
+pagdurugo+A+NCOM 2
+paggalang+A+NCOM 2
+paggalaw+A+NCOM 2
+paggaling+A+NCOM 2
+paggambala+A+NCOM 2
+paggawa+A+NCOM 2
+paggunita+A+NCOM 2
+paghabol+A+NCOM 2
+paghahalal+A+NCOM 2
+paghahambing+A+NCOM 2
+paghahambog+A+NCOM 2
+paghahanap+A+NCOM 2
+paghahanda+A+NCOM 2
+paghakbang+A+NCOM 2
+paghamak+A+NCOM 2
+paghandaan+A+NCOM 2
+paghanga+A+NCOM 2
+paghango+A+NCOM 2
+paghihiganti+A+NCOM 2
+paghihigantihan+A+NCOM 2
+paghihikab+A+NCOM 2
+paghihikahos+A+NCOM 2
+paghihimagsik+A+NCOM 2
+paghihinala+A+NCOM 2
+paghihintay+A+NCOM 2
+paghihirap+A+NCOM 2
+paghihitit+A+NCOM 2
+paghihiwalay+A+NCOM 2
+paghimas+A+NCOM 2
+paghitit+A+NCOM 2
+paghuhukay+A+NCOM 2
+paghuhukom+A+NCOM 2
+paghupa+A+NCOM 2
+pag-ibig+A+NCOM 2
+pagiging+A+NA
+pag-iibigan+A+NCOM 2
+pag-iihaw+A+NCOM 2
+pag-iingat+A+NCOM 2
+pag-iisa+A+NCOM 2
+pag-iisang+C+NCOM 2
+pag-iisip+A+NCOM 2
+pag-ingatan+A+NA
+pag-inom+A+NCOM 2
+pag-isipan+A+NCOM 2
+pag-iyak+A+NCOM 2
+pagkaabala+A+NCOM 2
+pagkaagnas+A+NCOM 2
+pagkaalam+A+NCOM 2
+pagkaalipin+A+NCOM 2
+pagkabalisa+A+NCOM 2
+pagkabasa+A+NCOM 2
+pagkabasag+A+NCOM 2
+pagkabata+A+NCOM 2
+pagkabilanggo+A+NCOM 2
+pagkabulok+A+NCOM 2
+pagkagastusan+A+NCOM 2
+pagkagawa+A+NCOM 2
+pagkagunita+A+NCOM 2
+pagkaguro+A+NCOM 2
+pagkain+A+NCOM 2
+pagkakaalam+A+NCOM 2
+pagkakabilanggo+A+NCOM 2
+pagkakadakip+A+NCOM 2
+pagkakagala+A+NCOM 2
+pagkakagalit+A+NCOM 2
+pagkakagawa+A+NCOM 2
+pagkakagulo+A+NCOM 2
+pagkakahawak+A+NCOM 2
+pagkakahawig+A+NCOM 2
+pagkakahimbing+A+NCOM 2
+pagkakaligtas+A+NCOM 2
+pagkakalipat+A+NCOM 2
+pagkakamali+A+NCOM 2
+pagkakapili+A+NCOM 2
+pagkakapusod+A+NCOM 2
+pagkakaroon+A+NCOM 2
+pagkakasakit+A+NCOM 2
+pagkakasala+A+NCOM 2
+pagkakasangkot+A+NCOM 2
+pagkakatali+A+NCOM 2
+pagkakataon+A+NCOM 2
+pagkakataong+C+NCOM 2
+pagkakatayo+A+NCOM 2
+pagkakatitig+A+NCOM 2
+pagkakaugnay+A+NCOM 2
+pagkakaunawaan+A+NCOM 2
+pagkakaupo+A+NCOM 2
+pagkakautang+A+NCOM 2
+pagkakilala+A+NCOM 2
+pagkakilanlan+A+NCOM 2
+pagkakita+A+NCOM 2
+pagkaladkad+A+NCOM 2
+pagkalampas+A+ADOT
+pagkalipas+A+NCOM 2
+pagkamaginoo+A+NCOM 2
+pagkamatay+A+NCOM 2
+pagkamestisa+A+NCOM 2
+pagkapahiya+A+NCOM 2
+pagkapuksa+A+NCOM 2
+pagkarinig+A+NCOM 2
+pagkasalawahan+A+NCOM 2
+pagkasingkit+A+ADOT
+pagkasuklam+A+NCOM 2
+pagkat+A+NA
+pagkatalo+A+NCOM 2
+pagkatao+A+NCOM 2
+pagkatulog+A+NCOM 2
+pagkatuto+A+NCOM 2
+pagkawala+A+NCOM 2
+pagkayamot+A+NCOM 2
+pagkibot+A+NCOM 2
+pagkilos+A+NCOM 2
+pagkukurus+A+NCOM 2
+pagkukuwento+A+NCOM 2
+pagkukuwentuhang+B+NCOM 2
+pagkutsara+A+NCOM 2
+paglabas+A+NCOM 2
+paglait+A+NCOM 2
+paglakad+A+NCOM 2
+paglaki+A+NCOM 2
+paglalaban+A+NCOM 2
+paglalahad+A+NCOM 2
+paglalakad+A+NCOM 2
+paglalakbay+A+NCOM 2
+paglalakuwatsa+A+NCOM 2
+paglalampasuhin+A+NA
+paglalapat+A+NCOM 2
+paglalapit+A+NCOM 2
+paglalarawan+A+NCOM 2
+paglalaro+A+NCOM 2
+paglapit+A+ADOT
+paglapit+A+NCOM 2
+paglilibingan+A+NCOM 2
+paglilihi+A+NCOM 2
+paglilingkod+A+NCOM 2
+paglinisin+A+NCOM 2
+paglipas+A+NCOM 2
+paglipat+A+NCOM 2
+paglisan+A+NCOM 2
+pagluha+A+NCOM 2
+pagmamahal+A+NCOM 2
+pagmamakaawa+A+NA
+pagmamalabis+A+NCOM 2
+pagmamalaki+A+NCOM 2
+pagmamalasakit+A+NCOM 2
+pagmamanman+A+NCOM 2
+pagmamartsa+A+NCOM 2
+pagmamasid+A+NCOM 2
+pagmasdan+A+NCOM 2
+pagmomongha+A+NCOM 2
+pagnanais+A+NCOM 2
+pagnanakaw+A+NCOM 2
+pagngingitngit+A+NCOM 2
+pagnonobena+A+NCOM 2
+pagod+A+ADOT
+pagong+A+NCOM 2
+pagpansin+A+NCOM 2
+pagpapaalam+A+NCOM 2
+pagpapadala+A+NCOM 2
+pagpapahalaga+A+NCOM 2
+pagpapahayag+A+NCOM 2
+pagpapahirap+A+NCOM 2
+pagpapakasal+A+NCOM 2
+pagpapakilala+A+NCOM 2
+pagpapalagay+A+NCOM 2
+pagpapalakad+A+NCOM 2
+pagpapaligsahan+A+NCOM 2
+pagpapanggap+A+NCOM 2
+pagpaparusa+A+NCOM 2
+pagpapatakbo+A+NCOM 2
+pagpapataw+A+NCOM 2
+pagpapatuloy+A+NCOM 2
+pagpapaubaya+A+NCOM 2
+pagpapaunlad+A+NCOM 2
+pagpapayaman+A+NCOM 2
+pagparito+A+NCOM 2
+pagpasok+A+NCOM 2
+pagpatay+A+NCOM 2
+pagpulungan+A+NCOM 2
+pagpuna+A+NCOM 2
+pagpupumilit+A+NCOM 2
+pagpuri+A+NCOM 2
+pagpusta+A+NCOM 2
+pagsabihang+B+NCOM 2
+pagsabog+A+NCOM 2
+pagsagwan+A+NCOM 2
+pagsakop+A+NCOM 2
+pagsalakay+A+NCOM 2
+pagsamantalahan+A+NA
+pagsamantalahan+A+NCOM 2
+pagsang-ayon+A+NCOM 2
+pagsang-ayong+B+NCOM 2
+pagsapit+A+NCOM 2
+pagsasabi+A+NCOM 2
+pagsasabing+C+NCOM 2
+pagsasabong+A+NCOM 2
+pagsasagawa+A+NCOM 2
+pagsasagutan+A+NCOM 2
+pagsasaing+A+NCOM 2
+pagsasaka+A+NCOM 2
+pagsasalaysay+A+NCOM 2
+pagsasalimbayan+A+NCOM 2
+pagsasalita+A+NCOM 2
+pagsasama+A+NCOM 2
+pagsasamantak+A+NCOM 2
+pagsasara+A+NCOM 2
+pagsasaway+A+NCOM 2
+pagsasaya+A+NCOM 2
+pagsikat+A+NCOM 2
+pagsilungan+A+NCOM 2
+pagsipsip+A+NCOM 2
+pagsisikap+A+NCOM 2
+pagsisiklabin+A+NCOM 2
+pagsisilbi+A+NCOM 2
+pagsisimba+A+NCOM 2
+pagsisimula+A+NCOM 2
+pagsisinungaling+A+NCOM 2
+pagsisiyasat+A+NCOM 2
+pagsulat+A+NCOM 2
+pagsulong+A+NCOM 2
+pagsunod+A+NCOM 2
+pagsusugal+A+NCOM 2
+pagsusugalan+A+NCOM 2
+pagsusulit+A+NCOM 2
+pagsusumakit+A+NCOM 2
+pagsusumikap+A+NCOM 2
+pagtaas+A+NCOM 2
+pagtahimik+A+NCOM 2
+pagtakbo+A+NCOM 2
+pagtakpan+A+NCOM 2
+pagtalunan+A+NCOM 2
+pagtanggi+A+NCOM 2
+pagtataglay+A+NCOM 2
+pagtataka+A+NCOM 2
+pagtatakang+C+ADOT
+pagtatakang+C+NCOM 2
+pagtataksil+A+NCOM 2
+pagtatalo+A+NCOM 2
+pagtatampo+A+NCOM 2
+pagtatanggol+A+NCOM 2
+pagtatangkilikan+A+NCOM 2
+pagtatanong+A+NCOM 2
+pagtatawanan+A+NCOM 2
+pagtawa+A+NCOM 2
+pagtawag+A+NCOM 2
+pagtawanan+A+NCOM 2
+pagtingin+A+NCOM 2
+pagtitibayin+A+NA
+pagtitiis+A+NCOM 2
+pagtitimpi+A+NCOM 2
+pagtitinginan+A+NCOM 2
+pagtitipon+A+NCOM 2
+pagtitiwala+A+NCOM 2
+pagtiwalaan+A+NA
+pagtugtog+A+NCOM 2
+pagtulog+A+NCOM 2
+pagtulong+A+NCOM 2
+pagtulungan+A+NA
+pagtunog+A+NCOM 2
+pagtutol+A+NCOM 2
+pagtuturo+A+NCOM 2
+pagtutuwid+A+NCOM 2
+pag-unlad+A+NCOM 2
+pag-usapan+A+NCOM 2
+pag-uukol+A+NCOM 2
+pag-uulayaw+A+NCOM 2
+pag-uusap+A+NCOM 2
+pag-uusapan+A+NCOM 2
+pag-uwi+A+NCOM 2
+pagyaman+A+NCOM 2
+pagyamanin+A+NCOM 2
+pagyaya+A+NA
+pagyayaya+A+NCOM 2
+pagyukod+A+NCOM 2
+pahalagahan+A+VOBF NE B
+pahayag+A+NCOM 2
+pahayagan+A+NCOM 2
+pahayagang+B+NCOM 2
+pahihinain+A+NA
+pahina+A+NCOM 2
+pahinang+C+NCOM 2
+pahintulot+A+NCOM 2
+pahintulutan+A+VOBF NE B
+pahiramin+A+NA
+pahuhuli+A+ADOT
+paikut-ikot+A+ADOT
+pailaw+A+NCOM 2
+painsulto+A+ADOT
+paisano+A+NCOM 2
+pait+A+NCOM 2
+paiwas+A+ADOT
+pakakainin+A+NA
+pakakasal+A+NA
+pakaliwat-pakanan+A+NCOM 2
+pakana+A+NCOM 2
+pakana+A+VOTF OT B
+pakatandaan+A+VOBF NE B
+pakay+A+NCOM 2
+pakialam+A+ADOT
+pakialam+A+NCOM 2
+pakialaman+A+NCOM 2
+pakialaman+A+VOBF NE B
+pakiharap+A+ADOT
+pakikilaban+A+NCOM 2
+pakikinig+A+NCOM 2
+pakikipag-ayos+A+NCOM 2
+pakikipagkaibigan+A+NCOM 2
+pakikipagkaisa+A+NCOM 2
+pakikipagkalakalan+A+NCOM 2
+pakikipagkapwa+A+NCOM 2
+pakikipaglaro+A+NCOM 2
+pakikipagsabong+A+NCOM 2
+pakikipagsugal+A+NCOM 2
+pakikipagtalo+A+NCOM 2
+pakikipag-ugnayan+A+NCOM 2
+pakikitungo+A+NCOM 2
+Pakil+A+NPRO
+pakinggan+A+VOBF NE B
+pakiramdam+A+NCOM 2
+pakisabi+A+NA
+pakiusap+A+NA
+pakiusap+A+NCOM 2
+pakli+A+VOTF OT B
+pako+A+NCOM 2
+pakpak+A+NCOM 2
+paksa+A+NCOM 2
+paksang+C+NCOM 2
+pakuluin+A+VOBF NE B
+pakunwaring+C+ADOT
+pala+A+ENCL
+pala+A+INTR
+palad+A+ADOT
+palad+A+NCOM 2
+Palad+A+NPRO
+palagay+A+NCOM 2
+palahaw+A+NCOM 2
+palaimik+A+ADOT
+palaisip+A+ADOT
+palaka+A+NCOM 2
+palakad-lakad+A+ADOT
+palakasin+A+VOBF NE B
+palakibo+A+ADOT
+palakol+A+NCOM 2
+palakpakan+A+NCOM 2
+palalaguin+A+NA
+palalayain+A+NA
+palamanan+A+VOBF NE B
+palamuti+A+NCOM 2
+palamuting+C+NCOM 2
+palang+A+ENCL
+palangganang+C+NCOM 2
+palapag+A+NCOM 2
+pala-palagay+A+NCOM 2
+palasalita+A+ADOT
+palaspas+A+NCOM 2
+palasyo+A+NCOM 2
+palatuntunanan+A+NCOM 2
+palawit+A+NCOM 2
+palay+A+NCOM 2
+palayain+A+VOBF NE B
+palayan+A+NCOM 2
+palayong+C+ADOT
+palibhasa+A+NA
+palibhasa’y+A+NA
+paligid+A+NCOM 2
+paligong+C+NCOM 2
+paliguan+A+NCOM 2
+palikong+C+ADOT
+paliligayahin+A+NA
+paliligo+A+NCOM 2
+palinga-linga+A+ADOT
+palingun-lingon+A+ADOT
+paliwanag+A+NCOM 2
+palo+A+NCOM 2
+palong+A+NCOM 2
+palugit+A+NCOM 2
+pamagat+A+NCOM 2
+pamahalaan+A+NCOM 2
+Pamahalaan+A+NPRO
+pamahalaang+B+NCOM 2
+pamahiin+A+NCOM 2
+pamalo+A+NCOM 2
+pamalong+C+NCOM 2
+pamamaalam+A+NCOM 2
+pamamagitan+A+NA
+pamamagitan+A+NCOM 2
+pamamagitan+A+PRME
+pamamahala+A+NCOM 2
+pamamahayag+A+NCOM 2
+pamamahinga+A+NCOM 2
+pamamalagi+A+ADOT
+pamamalagi+A+NCOM 2
+pamamalagiin+A+NCOM 2
+pamamalo+A+NCOM 2
+pamamangka+A+NCOM 2
+pamamaraan+A+NCOM 2
+pamamaraang+B+NCOM 2
+pamamasyal+A+NCOM 2
+pamangkin+A+NCOM 2
+pamangking+B+NCOM 2
+pamantayan+A+NCOM 2
+pamaraan+A+NCOM 2
+pamasko+A+NCOM 2
+pamatrulya+A+NCOM 2
+pamaypay+A+NCOM 2
+pambayan+A+NCOM 2
+pambili+A+NCOM 2
+pamilya+A+NCOM 2
+pamilyang+C+NCOM 2
+pamimili+A+NCOM 2
+pamisa+A+NCOM 2
+pampaligong+C+NCOM 2
+pampang+A+NCOM 2
+Pampanga+A+NPRO
+pampataba+A+NCOM 2
+pampulitika+A+NCOM 2
+pamumuhay+A+NCOM 2
+pamumulot+A+NCOM 2
+pamumuna+A+NCOM 2
+pamumuno+A+NCOM 2
+pamumunuan+A+NCOM 2
+pamumutla+A+NCOM 2
+pamunuan+A+NCOM 2
+pamunuan+A+VOBF NE B
+Pan+A+NPRO
+panaghoy+A+NCOM 2
+panaginip+A+NCOM 2
+panaho+A+NCOM 2
+panahon+A+NCOM 2
+panahong+B+NCOM 2
+panaksak+A+NCOM 2
+panalangin+A+NCOM 2
+panalanging+B+NCOM 2
+panalo+A+ADUN
+panalo+A+NCOM 2
+pananabako+A+NCOM 2
+pananabik+A+NCOM 2
+pananagutan+A+NCOM 2
+pananahi+A+NCOM 2
+pananakot+A+NA
+pananakot+A+NCOM 2
+pananalig+A+NCOM 2
+pananalita+A+NCOM 2
+pananampalataya+A+NCOM 2
+pananampalatayang+C+NCOM 2
+pananaw+A+NCOM 2
+pananghalian+A+NCOM 2
+panangis+A+NA
+panangis+A+NCOM 2
+pananglaw+A+NCOM 2
+pananim+A+NCOM 2
+panatag+A+ADUN
+panatag+A+NCOM 2
+panauhin+A+NCOM 2
+panauhing+B+NCOM 2
+panay+A+ADUN
+pandaigdig+A+NCOM 2
+pandak+A+NCOM 1
+pandawin+A+VOBF NE B
+pandilig+A+NCOM 2
+pandinig+A+NCOM 2
+pang+A+ENCL
+pang-aalipin+A+NCOM 2
+pangahas+A+NCOM 2
+pang-akit+A+NCOM 2
+pangako+A+NCOM 2
+pangalagaan+A+VOBF NE B
+pangalan+A+NCOM 2
+pangalang+B+NCOM 2
+pangalawa+A+ADNU
+pangamba+A+NCOM 2
+pangambang+C+NCOM 2
+panganay+A+NCOM 1
+pangangailangan+A+NCOM 2
+pangangalaga+A+NCOM 2
+pangangalakal+A+NCOM 2
+pangangaso+A+NCOM 2
+pangangatawan+A+NCOM 2
+pangangatwiran+A+NCOM 2
+panganib+A+NCOM 2
+panganngalakal+A+NCOM 2
+pangarap+A+NCOM 2
+pang-araw-araw+A+NCOM 2
+pangatlo+A+ADNU
+panggagamot+A+NCOM 2
+panggatong+A+NCOM 2
+panghakot+A+NCOM 2
+panghihilakbot+A+NA
+panghihimasok+A+NCOM 2
+panghukbo+A+NCOM 2
+panghuli+A+NCOM 2
+panginginig+A+NCOM 2
+pangingisda+A+NCOM 2
+Panginoon+A+NPRO
+Panginoong+B+NPRO
+pang-intermisyon+A+ADOT
+pangit+A+ADUN
+pangiti-ngiti+A+ADUN
+pangkaisipan+A+NCOM 2
+pangkaraniwan+A+ADOT
+pangkaraniwang+B+ADOT
+pangkat+A+NCOM 2
+pang-katoliko+A+ADOT
+pang-kura+A+NCOM 2
+pangkurang+C+ADOT
+pangolin+A+NCOM 2
+pang-skit+A+NCOM 2
+pangumpisalin+A+NA
+pang-unawa+A+NCOM 2
+pangungumpisal+A+NCOM 2
+pangungumunyon+A+NCOM 2
+pangungunot+A+NCOM 2
+pangungusap+A+NCOM 2
+pangyayari+A+NCOM 2
+pangyayaring+C+NCOM 2
+panibugho+A+NCOM 2
+panig+A+NCOM 2
+panimbang+A+NCOM 2
+panindang+C+NCOM 2
+paningin+A+NCOM 2
+paninibugho+A+NCOM 2
+paninindigan+A+NCOM 2
+paninindigang+B+NCOM 2
+paninira+A+NCOM 2
+paninisi+A+NCOM 2
+paniniwala+A+NCOM 2
+paniniwalaan+A+VOBF CM B
+paniniwalaan+A+VOBF CN B
+paniniwalang+C+NCOM 2
+paniniyak+A+NA
+paniwala+A+NCOM 2
+panlabang+B+NCOM 2
+panlabas+A+NCOM 2
+panlalamig+A+NCOM 2
+panlilibak+A+NCOM 2
+panoorin+A+NCOM 2
+panoorin+A+VOBF NE B
+panrelihiyon+A+NCOM 2
+pansariling+C+NCOM 2
+pansin+A+NCOM 2
+pansin+A+VOBF NE B
+pansinin+A+VOBF CM B
+pansinin+A+VOBF NE B
+pansit+A+NCOM 2
+pansiterya+A+NCOM 2
+Pansiterya+A+NPRO
+pansit-lanlang+A+NCOM 2
+pansugal+A+NCOM 2
+pantalon+A+NCOM 2
+pantalong+B+NCOM 2
+pantaloon+A+NCOM 2
+pantas+A+NCOM 2
+pantay+A+ADUN
+pantig+A+NCOM 2
+pantubig+A+NCOM 2
+panugis+A+NCOM 2
+panukala+A+NCOM 2
+panukalang+C+NCOM 2
+panukat+A+NCOM 2
+panulukang-bato+A+NCOM 2
+panunubok+A+NCOM 2
+panunumbat+A+NA
+panunumbat+A+NCOM 2
+panunungkulan+A+NCOM 2
+panunuya+A+NCOM 2
+paoopera+A+NA
+Papa+A+NPRO
+papaano’y+A+PINP NU S
+papaanong+C+PINP NU S
+papag+A+NCOM 2
+papagitnaan+A+VOBF CN B
+papalapit+A+ADOT
+papalayo+A+ADOT
+papalibutan+A+ADOT
+papaluin+A+VOBF CN B
+papanig+A+VACF CN B
+papanigan+A+VOBF CN B
+papaniwalain+A+VOBF CN B
+papapasukin+A+VOBF CN B
+papasanin+A+VOBF CN B
+papasok+A+VACF CN B
+papasukin+A+VOBF CN B
+papatay+A+VACF CN B
+papatayin+A+VOBF CN B
+papauwi+A+ADOT
+papaya+A+NCOM 2
+papayag+A+VACF CN B
+papayagan+A+VOBF CN B
+papel+A+NCOM 2
+papeles+A+NCOM 2
+papuri+A+NCOM 2
+paputok+A+NCOM 2
+para+A+CONP
+para+A+NA
+para+A+PRTA
+paraan+A+NCOM 2
+paraanin+A+VOBF NE B
+parang+A+NA
+parangal+A+NCOM 2
+pararayos+A+NCOM 2
+paratang+A+NCOM 2
+parehas+A+AVEO AL
+pareho+A+NA
+parehong+C+NA
+pari+A+NCOM 1
+pari+A+NPRO
+paring+C+NCOM 1
+parirala+A+NCOM 2
+parisan+A+VOBF NE B
+paroko+A+NCOM 1
+partido+A+NCOM 1
+parusa+A+NCOM 2
+pasa+A+NCOM 2
+pasahe+A+NCOM 2
+pasahero+A+NCOM 2
+pasak+A+NCOM 2
+pasalamatan+A+VOBF NE B
+pasan+A+NCOM 2
+pasang+B+ADUN
+pasang+B+NCOM 2
+pasasalamat+A+NCOM 2
+Pascual+A+NPRO
+pasekreto+A+ADUN
+Pasig+A+NPRO
+pasigaw+A+NCOM 2
+pasimula+A+NCOM 2
+pasiya+A+NCOM 2
+paskin+A+NCOM 2
+Pasko+A+NPRO
+passport+A+NCOM 2
+pastol+A+NCOM 1
+pasukin+A+VOBF NE B
+pasunud-sunod+A+ADUN
+pasyalang+B+NCOM 2
+pasyang+C+NCOM 2
+pasyente+A+NCOM 1
+pasyenteng+C+NCOM 1
+patabihin+A+VOBF NE B
+patak+A+ADUN
+patak+A+NCOM 2
+patakaran+A+NCOM 2
+patalim+A+NCOM 2
+patanaw-tanaw+A+ADUN
+patawarin+A+VOBF NE B
+patay+A+ADUN
+patay+A+NCOM 1
+Patay+A+NPRO
+patay+A+VOTF OT B
+patayang+B+NCOM 2
+patayin+A+VOBF NE B
+pati+A+CONM
+pati+A+NA
+patinig+A+NCOM 2
+patnubayan+A+VOBF NE B
+pato+A+NCOM 1
+patola+A+NCOM 1
+patong+A+NCOM 2
+patpat+A+NCOM 2
+patron+A+NCOM 2
+Patrono+A+NPRO
+patrulya+A+NCOM 2
+patuloy+A+ENCL
+patuloy+A+NCOM 2
+patuloy+A+VOTF OT B
+patuluyin+A+VLOF NE B
+patunayan+A+VOBF NE B
+patunayang+B+VOBF NE B
+patungkol+A+PRRE
+patutsadang+C+NCOM 2
+patutunguhan+A+NCOM 2
+Paulita+A+NPRO
+paumanhin+A+NCOM 2
+paunang+C+ADUN
+paupahan+A+NCOM 2
+paupahang+B+ADUN
+pauwi+A+ADUN
+pauwing+C+ADUN
+pawang+C+ADUN
+pawid+A+NCOM 2
+pawis+A+NCOM 2
+pawisan+A+ADUN
+payag+A+ADUN
+payag+A+PRAG
+payag+A+VOTF OT B
+payagan+A+VOBF NE B
+payak+A+ADUN
+payapa+A+ADUN
+payapain+A+VOBF NE B
+payat+A+ADUN
+payo+A+NCOM 2
+payo+A+VOTF OT B
+payong+A+NCOM 2
+Paz+A+NPRO
+Pecson+A+NPRO
+Pedro+A+NPRO
+Pelaez+A+NPRO
+pensamyento+A+NCOM 2
+pera+A+NCOM 2
+perang+C+NCOM 2
+Perez+A+NPRO
+perhuwisyo+A+NCOM 2
+perlas+A+NCOM 2
+pero+A+NA
+Pia+A+NPRO
+Pidgin+A+NPRO
+pigil+A+ADUN
+pigilin+A+VOBF NE B
+piging+A+NCOM 2
+piita+A+NCOM 2
+piknik+A+NCOM 2
+pilak+A+ADUN
+pilak+A+NCOM 2
+Pilar+A+NPRO
+pilat+A+NCOM 2
+Pilato+A+NPRO
+pilay+A+ADUN
+pilay+A+NCOM 2
+pildoras+A+NCOM 2
+pili+A+ADUN
+pilibustero+A+NCOM 2
+pilik+A+NCOM 2
+piling+A+NCOM 2
+Pilipina+A+NPRO
+Pilipinas+A+NPRO
+Pilipino+A+NPRO
+Pilipinong+C+NPRO
+pilit+A+ADUN
+pilitin+A+VOBF NE B
+pilosopiya+A+NCOM 2
+Pilosopiya+A+NPRO
+pilosopiyang+C+NCOM 2
+pilosopo+A+NCOM 1
+Pilosopo+A+NPRO
+piloto+A+NCOM 1
+pilotong+C+NCOM 1
+pinaaalis+A+VOBF IN B
+pinaalis+A+VOBF CM B
+pinababa+A+VLOF CM B
+pinabaunan+A+VLOF CM B
+pinabayaan+A+VLOF CM B
+pinabilis+A+VLOF CM B
+pinadadalhan+A+VLOF IN B
+pinag-aaralan+A+VLOF IN B
+pinag-aawayan+A+VLOF IN B
+pinag-aralan+A+VLOF CM B
+pinagbabato+A+VOBF IN B
+pinagbatayan+A+VLOF CM B
+pinagbigyan+A+VLOF CM B
+pinagbiling-biling+A+VOBF CM B
+pinagbintangan+A+VLOF CM B
+pinagbubuhatan+A+VLOF IN B
+pinagbubulungan+A+VLOF IN B
+pinagbuhusan+A+VLOF CM B
+pinagdadala+A+VOBF IN B
+pinagdadalhan+A+VLOF IN B
+pinagdarausan+A+VLOF IN B
+pinagdidiinan+A+VLOF IN B
+pinagdududahan+A+VLOF IN B
+pinagdugtong+A+VOBF CM B
+pinaghalu-halo+A+VOBF CM B
+pinaghampasan+A+VLOF CM B
+pinaghintay+A+VOBF CM B
+pinag-iigihan+A+VLOF IN B
+pinagkagastahan+A+VLOF CM B
+pinagkakaabalahan+A+VLOF IN B
+pinagkakaabalahang+B+VLOF IN B
+pinagkakautangan+A+VLOF IN B
+pinaglalampaso+A+VOBF IN B
+pinaglalaruan+A+VLOF IN B
+pinaglipatan+A+VLOF CM B
+pinagmamasdan+A+VLOF IN B
+pinagmasdan+A+VLOF CM B
+pinagmimithian+A+VLOF IN B
+pinagmulan+A+VLOF CM B
+pinagmulta+A+VOBF CM B
+pinagpapawisan+A+VLOF IN B
+pinagpawisan+A+VLOF CM B
+pinagpilitan+A+VLOF CM B
+pinagpupunit-punit+A+VOBF IN B
+pinagsabihan+A+VLOF CM B
+pinagsakluban+A+VLOF CM B
+pinagsasabi+A+VOBF IN B
+pinagsasayawan+A+VLOF IN B
+pinagsilbihan+A+VLOF CM B
+pinagsisipa+A+VOBF IN B
+pinagtataasan+A+VLOF IN B
+pinagtataguang+B+VLOF IN B
+pinagtatawanan+A+VLOF IN B
+pinagtawanan+A+VLOF CM B
+pinagtitiis+A+VOBF IN B
+pinagtitinginan+A+VLOF IN B
+pinagtiyagaan+A+VLOF CM B
+pinagtiyap+A+VOBF CM B
+pinagtulungan+A+VLOF CM B
+pinagtuturuan+A+VLOF IN B
+pinagtutuunan+A+VLOF IN B
+pinag-usapan+A+VLOF CM B
+pinag-usig+A+VOBF CM B
+pinag-uusapan+A+VLOF IN B
+pinag-uusapang+B+NCOM 1
+pinag-uusig+A+NCOM 1
+pinahawakan+A+VLOF CM B
+pinahihina+A+VOBF IN B
+pinahihirapan+A+VLOF IN B
+pinahinto+A+VLOF CM B
+pinahintulutan+A+VLOF CM B
+pinahirapan+A+VLOF CM B
+pinaikli+A+VOBF CM B
+pinakaiingatan+A+ADSU
+pinakakalansing+A+VOBF IN B
+pinakamababang+C+ADSU
+pinakamabilis+A+ADSU
+pinakamabisang+C+ADSU
+pinakamabuting+C+ADSU
+pinakamagandang+C+ADSU
+pinakamahalaga+A+ADSU
+pinakamahalagang+C+ADSU
+pinakamahusay+A+ADSU
+pinakamainam+A+ADSU
+pinakamamahal+A+ADSU
+pinakamaputing+C+ADSU
+pinakamarunong+C+ADSU
+pinakamasamang+C+ADSU
+pinakamataas+A+ADSU
+pinakamayaman+A+ADSU
+pinakamayamang+B+ADSU
+pinakasalan+A+VLOF CM B
+pinakasariwang+C+ADSU
+pinakikinggan+A+VLOF IN B
+pinakinggan+A+VLOF CM B
+pinakiusapan+A+VLOF CM B
+pinakukuluan+A+ADUN
+pinalabas+A+VLOF CM B
+pinalakad+A+VLOF CM B
+pinalaya+A+VLOF CM B
+pinalayaw+A+VLOF CM B
+pinaliliguan+A+VLOF IN B
+pinalitan+A+VLOF CM B
+pinalitaw+A+VLOF CM B
+pinalo+A+VLOF CM B
+pinamahalaan+A+VLOF CM B
+pinamulahan+A+VLOF CM B
+pinamulahanan+A+VLOF CM B
+pinamumunuan+A+VLOF IN B
+pinanabikan+A+VLOF IN B
+pinanagot+A+VOBF IN B
+pinananatili+A+VOBF IN B
+pinandaw+A+VLOF CM B
+pinandilatan+A+VLOF CM B
+pinangakuan+A+VLOF CM B
+pinangalanan+A+VLOF CM B
+pinangangakuan+A+VLOF IN B
+pinangangalagaan+A+VLOF IN B
+pinangarap+A+VLOF CM B
+pinanghahawakan+A+VLOF IN B
+pinanghihinaan+A+VLOF IN B
+pinangyarihan+A+VLOF CM B
+pinanhik+A+VLOF CM B
+pinaniniwalaan+A+VLOF IN B
+pinaniwalaan+A+VLOF IN B
+pinanood+A+VLOF CM B
+pinansin+A+VLOF CM B
+pinanunuyuan+A+VLOF IN B
+pinapalis+A+VOBF IN B
+pinapalo+A+VOBF IN B
+pinapangarap+A+VOBF IN B
+pinapansin+A+VOBF IN B
+pinapatay+A+VOBF IN B
+pinapayagan+A+VACF IN B
+pinapili+A+VLOF CM B
+pinapupunta+A+NA
+pinaputukan+A+VLOF CM B
+pinara+A+VOBF CM B
+pinaratangan+A+VLOF CM B
+pinaratangang+B+VLOF CM B
+pinarurusahan+A+VLOF IN B
+pinarusahan+A+VLOF CM B
+pinasalamatan+A+VLOF CM B
+pinasasalamatan+A+VLOF IN B
+pinasigla+A+VOBF CM B
+pinaspasan+A+VLOF CM B
+pinatataba+A+VOBF IN B
+pinatatawad+A+VOBF IN B
+pinatawad+A+VLOF CM B
+pinatay+A+VLOF CM B
+pinatuloy+A+VLOF CM B
+pinaturuan+A+VLOF CM B
+pinatutunayan+A+VLOF IN B
+pinatutungkulan+A+VLOF IN B
+pinautang+A+VOBF CM B
+pinawawalang-saysay+A+VOBF IN B
+pinayagan+A+VLOF CM B
+pinayuhan+A+VLOF CM B
+pinayuhan+A+VOBF CM B
+pinggan+A+NCOM 2
+pinigil+A+VOBF CM B
+pinigilan+A+VOBF CM B
+pinili+A+VOBF CM B
+pinilit+A+VOBF CM B
+pinipilit+A+VOBF IN B
+pinisil+A+VOBF CM B
+pinsala+A+NCOM 2
+pinsan+A+NCOM 1
+pintakasi+A+NCOM 2
+pintang+C+NCOM 2
+pintas+A+NCOM 2
+pinto+A+NCOM 2
+pintong+C+NCOM 2
+pintuan+A+NCOM 2
+pintuang+B+NCOM 2
+pinukol+A+VOBF CM B
+pinulong+A+VOBF CM B
+pinulsuhan+A+VOBF CM B
+pinunit+A+VOBF CM B
+pinuno+A+NCOM 1
+pinunong+C+NCOM 2
+pinuntahan+A+VOBF CM B
+pinupuna+A+VOBF IN B
+pinupuntahan+A+VOBF IN B
+pinupuri+A+VOBF IN B
+pinuri+A+VOBF CM B
+pinutul-putol+A+VOBF IN B
+pinya+A+NCOM 2
+pipi+A+NCOM 2
+pipigilin+A+VOBF CN B
+pipiliin+A+VOBF CN B
+pipituhing+B+ADUN
+pisi+A+NCOM 2
+pisika+A+NCOM 2
+pisikal+A+NCOM 2
+piskal+A+NCOM 2
+pisngi+A+NCOM 2
+piso+A+NCOM 2
+pisong+C+NCOM 2
+pista+A+NCOM 2
+pistang+C+NCOM 2
+pitaka+A+NCOM 2
+pito+A+ADNU
+pitong+C+ADNU
+pitso+A+NCOM 2
+piyano+A+NCOM 2
+piyer+A+NCOM 2
+piyesa+A+NCOM 2
+planong+C+NCOM 2
+plataporma+A+NCOM 2
+plato+A+NCOM 2
+plawta+A+NCOM 2
+plenaria+A+NCOM 2
+po+A+MAHM
+Polakong+A+NPRO
+Polanya+A+NPRO
+polyetong+C+NCOM 2
+Poncio+A+NPRO
+pondo+A+NCOM 2
+pook+A+NCOM 2
+pook-paaralan+A+NCOM 2
+poot+A+ADUN
+poot+A+NCOM 2
+poposasan+A+VOBF CN B
+porselana+A+NCOM 2
+porselanang+C+NCOM 2
+posasan+A+VOBF NE B
+posporo+A+NCOM 2
+poste+A+NCOM 2
+posteng+C+NCOM 2
+praktikal+A+NCOM 2
+Pranses+A+NPRO
+Pransiskano+A+NPRO
+Pransiskanong+C+NPRO
+prayle+A+NA
+prayle+A+NCOM 1
+prayleng+C+NCOM 1
+predikador+A+NCOM 1
+pribadong+C+ADUN
+pribilehiyo+A+NCOM 2
+prinsesa+A+NCOM 1
+prinsipyo+A+NCOM 2
+prinsipyong+C+NCOM 2
+pritong+C+NCOM 2
+probinsiyana+A+NCOM 2
+probinsiyano+A+NCOM 2
+propesor+A+NCOM 1
+propesyon+A+NCOM 2
+proteksyon+A+NCOM 2
+Protestante+A+NPRO
+proyektong+C+NCOM 2
+prusisyon+A+NCOM 2
+prutas+A+NCOM 2
+pugad+A+NCOM 2
+pugot+A+ADUN
+puhunan+A+NCOM 2
+puksaing+B+VOBF NE B
+pula+A+ADUN
+pulbura+A+NCOM 2
+pulis+A+NCOM 1
+pulis-munisipal+A+NCOM 1
+pulis-munisipyo+A+NCOM 1
+pulis-munisipyong+C+NCOM 1
+pulisya+A+NCOM 1
+pulitika+A+NCOM 2
+pulong+A+NCOM 2
+pulos+A+ADUN
+pulpito+A+NCOM 2
+pulubi+A+NCOM 1
+pulubing+C+NCOM 2
+pulungan+A+NCOM 2
+pumagitna+A+VACF CM B
+pumalahaw+A+VACF CM B
+pumaligid+A+VACF CM B
+pumalit+A+VACF CM B
+pumanatag+A+VACF CM B
+pumanaw+A+VACF CM B
+pumanhik+A+VACF CM B
+pumapailanlang+B+VACF IN B
+pumapaitaas+A+VACF IN B
+pumapanhik+A+VACF IN B
+pumapasag+A+VACF IN B
+pumapasok+A+VACF IN B
+pumapayag+A+VACF IN B
+pumarito+A+VACF CM B
+pumasok+A+VACF CM B
+pumatak+A+VACF CM B
+pumatay+A+VACF CM B
+pumatong+A+VACF CM B
+pumayag+A+VACF CM B
+pumigil+A+VACF CM B
+pumipiyok+A+VACF IN B
+pumula+A+VACF CM B
+pumunta+A+VACF CM B
+pumupunta+A+VACF IN B
+pumupusta+A+VACF IN B
+pumuri+A+VACF CM B
+pumusta+A+VACF CM B
+pumutol+A+VACF CM B
+puna+A+VOTF OT B
+punit-punit+A+ADUN
+puno+A+ADUN
+puno+A+NCOM 1
+punong+A+NCOM 2
+punong-kahoy+A+NCOM 1
+punta+A+VOBF CN B
+puntahan+A+VOBF NE B
+puntod+A+NCOM 2
+punungkahoy+A+NCOM 1
+punyal+A+NCOM 2
+punyeta+A+INTR
+pupunta+A+VACF CN B
+pupuntahan+A+VOBF CN B
+pupuri+A+VACF CN B
+pupusta+A+VACF CN B
+purgatoryo+A+NCOM 2
+purgatoryong+C+NCOM 2
+puri+A+NCOM 2
+puro+A+ADUN
+purong+C+ADUN
+puso+A+NCOM 2
+pusok+A+NCOM 2
+pusong+C+NCOM 2
+pustiso+A+NCOM 2
+puta+A+NCOM 2
+putahe+A+NCOM 2
+Pute+A+NPRO
+puti+A+ADUN
+puti+A+NCOM 2
+putik+A+NCOM 2
+putikan+A+NCOM 2
+puting+C+ADUN
+puting-puting+C+ADUN
+putlain+A+ADUN
+putlang-putla+A+ADUN
+puto+A+NCOM 2
+putok+A+NCOM 2
+putol+A+NCOM 2
+putong+A+NCOM 2
+putukan+A+NCOM 2
+putukang+B+NCOM 2
+puwede+A+AUPO
+puwesto+A+NCOM 2
+puwit+A+NCOM 2
+pwe+A+INTR
+pwede+A+AUPO
+quien+A+PINP NU S
+quieng+B+PINP NU S
+Quirinale+A+NPRO
+Rafael+A+NPRO
+ramaragasang+C+ADUN
+raw+A+ENCL
+reaksyon+A+NCOM 2
+rebelyon+A+NCOM 2
+Reberendo+A+NPRO
+rebolusyon+A+NCOM 2
+regalo+A+NCOM 2
+regalong+C+NCOM 2
+rehas+A+NCOM 2
+reklamo+A+NCOM 2
+rekomendasyon+A+NCOM 2
+relihiyon+A+NCOM 2
+relihiyong+B+NCOM 2
+relihiyosa+A+NCOM 1
+relihiyoso+A+NCOM 1
+relihiyosong+C+ADUN
+relyenong+C+NCOM 2
+repekehin+A+VOBF NE B
+reporma+A+NCOM 2
+requiemeternam+A+NCOM 2
+restawran+A+NCOM 2
+Reverencia+A+NPRO
+Reyes+A+NPRO
+reyna+A+NCOM 1
+rin+A+ENCL
+ring+B+ENCL
+riple+A+NCOM 2
+ripleng+C+NCOM 2
+rito+A+PSAD ST B
+rito’t+A+PSAD ST B
+ritong+C+PSAD ST B
+ritwal+A+NCOM 2
+riyan+A+PSAD ND B
+riyang+B+PSAD ND B
+rnakasama+Jmakasama+VACF NE B
+Roma+A+NPRO
+roon+A+PSAD RD B
+roong+B+PSAD RD B
+Roque+A+NPRO
+Rosario+A+NPRO
+rosaryo+A+NCOM 2
+Rosaryo+A+NPRO
+rosaryong+C+NCOM 2
+rosas+A+NCOM 2
+Rufa+A+NPRO
+rumaragasang+C+ADUN
+Rusa+A+NPRO
+ruweda+A+NCOM 2
+sa+A+DECN DAT
+sa+A+NA
+sa+A+NCOM 2
+saan+A+PINP NU S
+saang+B+PINP NU S
+sabad+A+VOTF OT B
+sabagay+A+NA
+sabaw+A+NCOM 2
+sabaw-sinaing+A+NCOM 2
+sabay+A+ADUN
+sabayan+A+VOBF NE B
+sabay-sabay+A+ADUN
+sabi+A+NCOM 2
+sabi+A+VOTF OT B
+sabi’y+A+NCOM 2
+sabihin+A+VOBF NE B
+sabihing+B+VOBF NE B
+sabi-sabi+A+NCOM 2
+sableng+C+NCOM 2
+sabong+A+NCOM 2
+sabugan+A+NCOM 2
+sabungan+A+NCOM 2
+sabungang+B+NCOM 2
+sabungero+A+NCOM 2
+sabungerong+C+NCOM 2
+sabwatan+A+NCOM 2
+sabwatang+B+NCOM 2
+sacristan+A+NCOM 1
+Sacristia+A+NPRO
+sadya+A+ADUN
+sadya+A+AVAY AL
+sadyang+C+ADUN
+sagana+A+ADUN
+saging+A+NCOM 2
+sagot+A+NCOM 2
+sagot+A+VOTF OT B
+Sagrado+A+NPRO
+sagupain+A+VOBF NE B
+sagutin+A+VOBF NE B
+sagwan+A+NCOM 2
+sahig+A+NCOM 2
+sahod+A+NCOM 2
+sahog+A+NCOM 2
+saka+A+CONM
+saka+A+NA
+sakahan+A+NCOM 2
+sakali+A+CONU
+sakay+A+ADUN
+sakay+A+NCOM 2
+sakdal+A+AVST AL
+sakim+A+ADUN
+sakit+A+NCOM 2
+sako+A+NCOM 2
+sakristan+A+NCOM 1
+sakristang+B+NCOM 1
+sakristiya+A+NCOM 2
+saksak+A+ADUN
+saksi+A+NCOM 1
+sakuna+A+NCOM 2
+sala+A+NCOM 2
+salabat+A+NCOM 2
+salakot+A+NCOM 2
+Salambao+A+NPRO
+salamin+A+NCOM 2
+salaming+B+NCOM 2
+salansan+A+NCOM 2
+salapi+A+NCOM 2
+salaping+C+NCOM 2
+salarin+A+NCOM 2
+salaring+B+NCOM 2
+salas+A+NCOM 2
+salaysay+A+NCOM 2
+salaysayin+A+VOBF NE B
+salin-lahing+C+NCOM 2
+salita+A+NCOM 2
+salitang+C+NCOM 2
+saliw+A+NCOM 2
+salok+A+NCOM 2
+Salome+A+NPRO
+salta+A+NCOM 2
+saluduhan+A+VOBF NE B
+salukan+A+VOBF NE B
+Salvadora+A+NPRO
+Salvi+A+NPRO
+sama+A+NCOM 2
+samaan+A+NCOM 2
+samahan+A+NCOM 1
+samahan+A+VOBF NE B
+samahang+B+NCOM 2
+samakatuwid+A+NA
+samantala+A+CONI
+samantala+A+NA
+samantalahin+A+VOBF NE B
+samantalang+C+NA
+sambong+A+NCOM 2
+sampaga+A+NCOM 2
+sampagita+A+NCOM 2
+sampal+A+NCOM 2
+sampung+C+ADNU
+San+A+NPRO
+sana+A+ENCL
+sana+A+VOTF OT B
+sana’y+A+VOTF OT B
+sanang+C+VOTF OT B
+sanay+A+ADUN
+sandaa’t+A+ADNU
+sandaan+A+ADNU
+sandali+A+ADUN
+sandali+A+NA
+sandali+A+NCOM 2
+sandali’y+A+NCOM 2
+sandaling+C+ADUN
+sandalyas+A+NCOM 2
+sandata+A+NCOM 2
+sandatahan+A+NCOM 2
+sandatahang+B+NCOM 2
+sanga+A+NCOM 2
+sangang+C+NCOM 2
+sang-ayon+A+PRAG
+sang-ayon+A+VOTF NE B
+sang-ayunan+A+VOBF NE B
+sanggol+A+NCOM 2
+sangkatauhan+A+NCOM 2
+sangkatauhan+A+PIDP NU B
+sangkatauhang+B+PIDP NU B
+sanhi+A+NCOM 2
+sanlibong+C+ADNU
+sanlibutan+A+NCOM 2
+santa+A+NCOM 2
+Santa+A+NPRO
+Santiago+A+NPRO
+santisima+A+INTR
+Santisima+A+NPRO
+santo+A+ADUN
+santo+A+NCOM 2
+Santo+A+NPRO
+santol+A+NCOM 2
+Santos+A+NPRO
+sapagkat+A+CONA
+sapagkat+A+NA
+sapat+A+ADUN
+sapatos+A+NCOM 2
+sapo+A+ADUN
+sapo+A+NCOM 2
+sarado+A+ADUN
+sarhan+A+VOBF NE B
+sarhento+A+NCOM 2
+sarili+A+NCOM 2
+sariling+C+NCOM 2
+sariwa+A+ADUN
+sariwang+C+ADUN
+sarsalida+A+NCOM 2
+sasa+A+NCOM 2
+sasabay+A+VACF CN B
+sasabihin+A+VOBF CN B
+sasabungin+A+VOBF CN B
+sasabunging+B+VOBF CN B
+sasadyain+A+VOBF CN B
+sasagutin+A+VOBF CN B
+sasailalim+A+VACF CN B
+sasakyan+A+NCOM 2
+sasakyang+B+NCOM 2
+sasalakay+A+VACF CN B
+sasalakayin+A+VOBF CN B
+sasama+A+ADUN
+sasama+A+VACF CN B
+sasampuin+A+ADUN
+sasang-ayon+A+VACF CN B
+sasang-ayunan+A+VOBF CN B
+sasangguni+A+VACF CN B
+sasapat+A+ADUN
+Saturnino+A+NPRO
+sawa+A+ADUN
+sawatain+A+VOBF NE B
+sawimpalad+A+ADUN
+sawimpalad+A+NCOM 2
+sawing+A+ADUN
+saya+A+NCOM 2
+sayang+C+ADUN
+sayangin+A+VOBF NE B
+saysay+A+NCOM 2
+seda+A+NCOM 2
+sedisyon+A+NCOM 2
+sedula+A+NCOM 2
+seguridad+A+NCOM 2
+sekretaryo+A+NCOM 1
+sementadong+C+ADUN
+sementeryo+A+NCOM 2
+sementeryong+C+NCOM 2
+seminarista+A+NCOM 1
+sendang+A+NCOM 2
+Senor+A+NPRO
+Señor+A+NPRO
+Senora+A+NPRO
+Señora+A+NPRO
+sentensyador+A+NCOM 1
+sentimos+A+NCOM 2
+Senyor+A+NPRO
+senyora+A+NCOM 1
+Senyora+A+NPRO
+senyorang+C+NCOM 1
+senyorito+A+NCOM 1
+serbisyo+A+NCOM 2
+sermon+A+NCOM 2
+Shakespeare+A+NPRO
+shhh+A+INTR
+si+A+DEPS NOM
+si+A+INTR
+si+A+NA
+sibil+A+NCOM 1
+sibilisadong+C+ADUN
+Sibilya+A+NPRO
+sibuyas+A+NCOM 2
+Sibyla+A+NPRO
+sigarilyo+A+NCOM 2
+sigaw+A+NCOM 2
+sigaw+A+VOTF OT B
+sigawan+A+NCOM 2
+sigawan+A+VOBF NE B
+sigay+A+NCOM 2
+sigla+A+NCOM 2
+siglo+A+NCOM 2
+siguro+A+AVAG AL
+sigwa+A+NCOM 2
+sikat+A+ADUN
+sikat+A+NCOM 2
+siklot+A+NCOM 2
+sikmura+A+NCOM 2
+sikreto+A+NCOM 2
+siksik+A+ADUN
+sikulate+A+NCOM 2
+sila+A+PANP RD P
+silakbo+A+NCOM 2
+silang+C+PANP RD P
+silangan+A+NCOM 2
+silbi+A+ADUN
+silid+A+NCOM 2
+silid-dalanginan+A+NCOM 2
+silid-kainan+A+NCOM 2
+silid-tulugan+A+NCOM 2
+silya+A+NCOM 2
+silyang+C+NCOM 2
+silyon+A+NCOM 2
+simabahan+A+NCOM 2
+simangot+A+NCOM 2
+simbahan+A+NCOM 2
+Simbahan+A+NPRO
+Simbahang+B+NPRO
+simbolo+A+NCOM 2
+simbolong+A+NCOM 2
+simboryo+A+NCOM 2
+simoy+A+NCOM 2
+simpleng+C+ADUN
+simula+A+ADUN
+simula+A+NCOM 2
+simulan+A+VOBF NE B
+sina+A+DEPP NOM
+sina+A+NA
+sinabayan+A+VOBF CM B
+sinabi+A+VOBF CM B
+sinabing+C+VOBF CM B
+sinabitan+A+VOBF CM B
+sinadya+A+VOBF CM B
+sinagot+A+VOBF CM B
+sinakop+A+VOBF CM B
+sinaktan+A+VOBF CM B
+sinalubong+A+VOBF CM B
+sinamahan+A+VOBF CM B
+sinampal+A+VOBF CM B
+Sinang+A+NPRO
+sinapit+A+VOBF CM B
+sinasabayan+A+VOBF IN B
+sinasabi+A+VOBF IN B
+sinasabing+C+VOBF IN B
+sinasadya+A+VOBF IN B
+sinasagot+A+VOBF IN B
+sinasakyan+A+VOBF IN B
+sinasalita+A+VOBF IN B
+sinasalubong+A+VOBF IN B
+sinasamahan+A+VOBF IN B
+sinasamba+A+VOBF IN B
+sinasariwa+A+VOBF IN B
+singil+A+NCOM 2
+singko+A+NCOM 2
+singkwenta+A+ADNU
+sinigang+A+NCOM 2
+sinigawan+A+VOBF CM B
+sinikap+A+VOBF CM B
+sinikil+A+VOBF CM B
+siniko+A+VOBF CM B
+sinilangan+A+VOBF CM B
+sinilip+A+VOBF CM B
+sinilungan+A+VOBF CM B
+sinimulan+A+VOBF CM B
+sinindihan+A+VOBF CM B
+sinipa+A+VOBF CM B
+sinipagan+A+VOBF CM B
+sinipat+A+VOBF CM B
+sinipat-sipat+A+VOBF IN B
+sinira+A+VOBF CM B
+siniraan+A+VOBF CM B
+sinisi+A+VOBF CM B
+sinisikap+A+VOBF IN B
+sinisikil+A+VOBF IN B
+sinisipat+A+VOBF IN B
+sinisisi+A+VOBF IN B
+sinita+A+VOBF CM B
+sino+A+PINP NU S
+sino’ng+D+PINP NU S
+sinong+C+PINP NU S
+sintak+A+NCOM 2
+sintas+A+NCOM 2
+sinturon+A+NCOM 2
+sinubukan+A+VOBF CM B
+sinugod+A+VOBF CM B
+sinulyapan+A+VOBF CM B
+sinuman+A+PIDP NU B
+sinumang+B+PIDP NU B
+sinundan+A+VOBF CM B
+sinundan-sundan+A+VOBF IN B
+sinundo+A+VOBF CM B
+sinungaling+A+ADUN
+sinunggaban+A+VOBF CM B
+sinunod+A+VOBF CM B
+sinunog+A+VOBF CM B
+sinuri+A+VOBF CM B
+sinu-sino+A+PINP NU P
+sinu-sinong+C+PINP NU P
+sinusundan+A+VOBF IN B
+sinusuri+A+VOBF IN B
+sipa+A+NCOM 2
+Sipa+A+NPRO
+sipag+A+NCOM 2
+sipatin+A+VOBF NE B
+sipat-sipatin+A+VOBF IN B
+sipol+A+NCOM 2
+sipunin+A+VOBF NE B
+sira+A+ADUN
+sirain+A+VOBF NE B
+sira-sira+A+ADUN
+Sisa+A+NPRO
+Sisang+A+NPRO
+sisibol+A+VACF CN B
+sisigawan+A+VOBF CN B
+sisihin+A+VOBF NE B
+sisikapin+A+VOBF CN B
+sisilbihan+A+VOBF CN B
+sisipagin+A+VOBF CN B
+sisisihin+A+VOBF CN B
+sisiw+A+NCOM 2
+sitwasyon+A+NCOM 2
+siwang+A+NCOM 2
+siya+A+PANP RD S
+siyam+A+ADNU
+siyang+C+PANP RD S
+siyanga+A+IRIA
+siyang-siya+A+ADUN
+siyensiyang+C+NCOM 2
+sobra+A+AVSO AL
+sobrang+C+ADUN
+sombrero+A+NCOM 2
+sosyedad+A+NCOM 2
+ssssshhh+A+INTR
+Stadnitzki+A+NPRO
+subalit+A+CONI
+subalit+A+NA
+subastahan+A+NCOM 2
+subersibo+A+NCOM 2
+subukan+A+VOBF NE B
+sugal+A+NCOM 2
+sugarol+A+NCOM 2
+sugat+A+NCOM 2
+sugatang+B+ADUN
+sugpuin+A+VOBF NE B
+suha+A+NCOM 2
+suka+A+NCOM 2
+suklay+A+NCOM 2
+sulat+A+NCOM 2
+sulat-kamay+A+NCOM 2
+suliranin+A+NCOM 2
+suliraning+B+NCOM 2
+Sulla+A+NPRO
+sulo+A+NCOM 2
+sulok+A+NCOM 2
+sulong+A+NCOM 2
+sultador+A+NCOM 1
+sulyap+A+NCOM 2
+sumabad+A+VACF CM B
+sumagi+A+VACF CM B
+sumagot+A+VACF CM B
+sumakay+A+VACF CM B
+sumakit+A+VACF CM B
+sumalampak+A+VACF CM B
+sumalubong+A+VACF CM B
+sumama+A+VACF CM B
+sumampa+A+VACF CM B
+sumandal+A+VACF CM B
+sumang-ayon+A+VACF CM B
+sumangguni+A+VACF CM B
+sumapit+A+VACF CM B
+sumasagisag+A+VACF IN B
+sumasakay+A+VACF IN B
+sumasakmal+A+VACF IN B
+sumasama+A+VACF IN B
+sumasang-ayon+A+VACF IN B
+sumasayad+A+VACF IN B
+sumayaw+A+VACF CM B
+sumbat+A+VOTF OT B
+sumbrero+A+NCOM 2
+sumbrerong+C+NCOM 2
+sumigaw+A+VACF CM B
+sumigaw+A+VOBF CM B
+sumigla+A+VACF CM B
+sumikat+A+VACF CM B
+sumiklab+A+VACF CM B
+sumilip+A+VACF CM B
+sumisigaw+A+VACF IN B
+sumisikat+A+VACF IN B
+sumisilip+A+VACF IN B
+sumisinag+A+VACF IN B
+sumisipol+A+VACF IN B
+sumisisi+A+VACF IN B
+sumpang+C+NCOM 2
+sumulat+A+VACF CM B
+sumulong+A+VACF CM B
+sumulpot+A+VACF CM B
+sumulyap+A+VACF CM B
+sumungaw+A+VACF CM B
+sumunod+A+VACF CM B
+sumuot+A+VACF CM B
+sumusulat+A+VACF IN B
+sumusunod+A+VACF IN B
+sumusuntok+A+VACF IN B
+sundalo+A+NCOM 1
+sundalong+C+NCOM 2
+sundan+A+VOBF NE B
+sundin+A+VOBF NE B
+sunduin+A+VOBF NE B
+sungka+A+NCOM 2
+sungking+C+NCOM 2
+sunog+A+NCOM 2
+sunong+A+ADUN
+sunud-sunod+A+ADUN
+sunud-sunuran+A+ADUN
+sunugin+A+VOBF NE B
+suot+A+ADUN
+suot+A+NCOM 2
+suporta+A+NCOM 2
+suportahan+A+VOBF NE B
+supot+A+NCOM 2
+Suprema+A+NPRO
+suriin+A+VOBF NE B
+susian+A+NCOM 2
+susmaryosep+A+INTR
+susugurin+A+VOBF CN B
+susulat+A+VACF CN B
+susundan+A+VOBF CN B
+susundin+A+VOBF CN B
+susunggaban+A+VOBF CN B
+susunod+A+ADUN
+susunod+A+NCOM 2
+susunog+A+VACF CN B
+susunud-sunod+A+ADUN
+susunugin+A+VOBF CN B
+susupling+C+VACF CN B
+suweldo+A+NCOM 2
+suweldong+C+NCOM 2
+suwerte+A+NCOM 2
+suyuan+A+NCOM 2
+Switzerland+A+NPRO
+Taal+A+NPRO
+taas+A+NCOM 2
+taas+A+PRPL
+taasan+A+VOBF NE B
+tabako+A+NCOM 2
+tabi+A+ADUN
+tabi+A+NCOM 2
+tabing+C+NCOM 2
+tabla+A+ADUN
+tagahanga+A+NCOM 2
+tagahubog+A+ADOT
+tagahukay+A+NCOM 2
+tagak+A+NCOM 2
+tagal+A+ADUN
+tagalog+A+NCOM 2
+Tagalog+A+NPRO
+tagapag-alaga+A+NCOM 1
+tagapagbalita+A+NCOM 1
+tagapaghasik+A+NCOM 1
+tagapaghatid+A+ADOT
+tagapaglibing+A+NCOM 1
+tagapagtanggol+A+NCOM 1
+tagapamahala+A+NCOM 1
+tagapayo+A+NCOM 1
+tag-araw+A+NCOM 2
+tagatanggap+A+ADOT
+taglagas+A+NCOM 2
+taglay+A+ADUN
+taglay+A+NCOM 2
+tagpi-tagpi+A+ADUN
+tagsibol+A+NCOM 2
+taguan+A+NCOM 2
+tag-ulan+A+NCOM 2
+tagumpay+A+NCOM 2
+tahanan+A+NCOM 2
+tahimik+A+ADUN
+tainga+A+NCOM 2
+takbo+A+NCOM 2
+takot+A+ADUN
+takot+A+NCOM 2
+taksil+A+ADUN
+talaan+A+NCOM 2
+talaga+A+AVAY AL
+talaga+A+IRIA
+talahiban+A+NCOM 2
+talbos+A+NCOM 2
+tali+A+ADUN
+talikuran+A+NCOM 2
+talikuran+A+VOBF NE B
+taling+C+NCOM 2
+talinghaga+A+NCOM 2
+talino+A+NCOM 2
+talisain+A+NCOM 2
+talisay+A+NCOM 2
+talong+A+NCOM 2
+talop+A+NCOM 2
+talos+A+VOTF OT B
+talumpati+A+NCOM 2
+tama+A+ADUN
+tama+A+IRIA
+tamad+A+ADUN
+tambuli+A+NCOM 2
+tamis+A+NCOM 2
+tanaw+A+NCOM 2
+tanaw+A+VOTF OT B
+tanawin+A+NCOM 2
+tanawing+B+NCOM 2
+tanawing+B+VOBF NE B
+tanda+A+NCOM 2
+tandaan+A+VOBF NE B
+Tandang+A+NPRO
+tangay+A+NCOM 2
+tanggal+A+ADUN
+tanggapan+A+NCOM 2
+tanggapin+A+VOBF NE B
+tanghalan+A+NCOM 2
+tanghalian+A+NCOM 2
+tangi+A+ADUN
+tanging+C+ADUN
+tangkay+A+NCOM 2
+tangkeng+C+NCOM 2
+tangos+A+NCOM 2
+tanim+A+NCOM 2
+taniman+A+NCOM 2
+tanong+A+NCOM 2
+tanong+A+PRRE
+tanong+A+VOTF OT B
+tanungin+A+VOBF NE B
+tanyag+A+ADUN
+tao+A+NCOM 1
+taon+A+NCOM 2
+taong+C+NCOM 1
+taong-bayan+A+NCOM 1
+tapa+A+NCOM 1
+tapakan+A+VOBF NE B
+tapat+A+ADUN
+tapos+A+ADUN
+tapusin+A+VOBF NE B
+tarak+A+NCOM 2
+tari+A+NCOM 2
+Tarsilo+A+NPRO
+tasang+C+NCOM 2
+Tasyo+A+NPRO
+Tasyong+C+NPRO
+tatagal+A+ADUN
+tatahimik+A+VACF CN B
+tatakas+A+VACF CN B
+tatakbo+A+VACF CN B
+tatalakayin+A+VOBF CN B
+tatamaan+A+VOBF CN B
+tatanggalin+A+VOBF CN B
+tatanggapin+A+VOBF CN B
+tatanungin+A+VOBF CN B
+tatapusin+A+VOBF CN B
+Tatay+A+NPRO
+tatlo+A+ADNU
+tatlong+C+ADNU
+tatlumpu+A+ADNU
+tatlumpu’t+A+ADNU
+tatlumpu’t-walo+A+ADNU
+tatlumpung+C+ADNU
+tatlumput+A+ADNU
+tauhan+A+NCOM 1
+tauhang+B+NCOM 1
+taun-taong+B+ADUN
+tawa+A+NCOM 2
+tawad+A+NCOM 2
+tawag+A+NCOM 2
+tawagin+A+VOBF NE B
+tawaging+B+ADUN
+tawanan+A+NCOM 2
+tawilis+A+NCOM 2
+Tayabas+A+NPRO
+tayo+A+PANP ST P
+tayong+C+PANP ST P
+tela+A+NCOM 2
+telegrama+A+NCOM 2
+Teo+A+NPRO
+Teodora+A+NPRO
+tercero+A+NCOM 2
+terorismo+A+NCOM 2
+terorismong+C+NCOM 2
+tersyaryo+A+NCOM 2
+testigo+A+NCOM 2
+tibok+A+NCOM 2
+Tiburcio+A+NPRO
+Tiburciong+A+NPRO
+tigas+A+NCOM 2
+tig-dadalawandaang+B+ADNU
+tig-iisandaang+B+ADNU
+tigil+A+NCOM 2
+tig-isa+A+ADNU
+tigmak+A+ADUN
+tig-sasampung+C+ADNU
+tigtatatlumpung+C+ADNU
+Tika+A+NPRO
+tila+A+AVAG AL
+timba-timbang+C+NCOM 2
+tinabunan+A+VOBF CM B
+tinadyakan+A+VOBF CM B
+tinagpas+A+VOBF CM B
+tinaguriang+B+VOBF CM B
+tinahak+A+VOBF CM B
+tinakbo+A+VOBF CM B
+tinakpan+A+VOBF CM B
+tinali+A+NCOM 2
+tinalikuran+A+VOBF CM B
+tinamaan+A+VOBF CM B
+tinamnan+A+VOBF CM B
+tinampalasan+A+VOBF CM B
+tinanggap+A+VOBF CM B
+tinangka+A+VOBF CM B
+tinanong+A+VOBF CM B
+tinapak-tapakan+A+ADUN
+tinapay+A+NCOM 2
+tinapik-tapik+A+ADUN
+tinapos+A+VOBF CM B
+tinatagalog+A+VOBF IN B
+tinatagurian+A+VOBF IN B
+tinatahi+A+VOBF IN B
+tinatakbuhang+B+VOBF IN B
+tinatanong+A+VOBF IN B
+tinatawag+A+VOBF IN B
+tinawag+A+VOBF CM B
+tindahan+A+NCOM 2
+tindera+A+NCOM 1
+tingin+A+NCOM 2
+tinging+B+NCOM 2
+tingnan+A+VOBF CM B
+tingnan+A+VOBF NE B
+tinidor+A+NCOM 2
+tinig+A+NCOM 2
+tiniis+A+VOBF CM B
+tiningala+A+VOBF CM B
+tiningnan+A+VOBF CM B
+tinirhan+A+VOBF CM B
+tinitigan+A+VOBF CM B
+tinitigan+A+VOBF IN B
+tinitiis+A+VOBF IN B
+tinitimbang+A+VOBF IN B
+tinitingala+A+VOBF IN B
+tinitingalang+C+VOBF IN B
+tinitingnan+A+VOBF IN B
+tinitingnang+B+VOBF IN B
+tinititigan+A+VOBF IN B
+tinola+A+NCOM 2
+Tinong+A+NPRO
+tinubuan+A+VLOF CM B
+tinugon+A+VOBF CM B
+tinugtog+A+VOBF CM B
+tinukuran+A+VOBF CM B
+tinulinan+A+VOBF CM B
+tinulungan+A+VOBF CM B
+tinulutan+A+VOBF CM B
+tinungga+A+VOBF CM B
+tinuran+A+VOBF CM B
+tinuruan+A+VOBF CM B
+tinutukoy+A+VOBF IN B
+tinutuligsa+A+VOBF IN B
+tinutulugan+A+VOBF IN B
+tinutulungan+A+VOBF IN B
+tinutuluyan+A+VOBF IN B
+tinuturuan+A+VOBF IN B
+tinyente+A+NCOM 1
+Tinyente+A+NPRO
+tinyente-mayor+A+NCOM 1
+tinyenteng+C+NCOM 1
+tipak+A+NCOM 2
+tipunin+A+VOBF NE B
+tirahan+A+NCOM 2
+tira-tirahan+A+NCOM 2
+tisa+A+NCOM 2
+titig+A+NCOM 2
+titik+A+NCOM 2
+tititigan+A+VOBF CN B
+tiwala+A+NCOM 2
+tiya+A+NCOM 2
+Tiya+A+NPRO
+tiyaga+A+NCOM 2
+Tiyago+A+NPRO
+Tiyagong+C+NPRO
+tiyahin+A+NCOM 2
+tiyan+A+NCOM 2
+tiyuhin+A+NCOM 2
+Tomas+A+NPRO
+Tondo+A+NPRO
+tono+A+NCOM 2
+totoo+A+AVAY AL
+Tower+A+NPRO
+trabaho+A+NCOM 2
+trenta’y+A+ADNU
+tribunal+A+NCOM 2
+Trisagio+A+NPRO
+trono+A+NCOM 2
+tsaa+A+NCOM 2
+Tsina+A+NPRO
+tsino+A+NCOM 1
+tsokolate+A+NCOM 2
+tsokolateng+C+NCOM 2
+tubig+A+NCOM 2
+tubo+A+NCOM 2
+tubong+C+NCOM 2
+tugon+A+VOTF OT B
+tugtugin+A+NCOM 2
+tugtugin+A+VOBF NE B
+tuhod+A+NCOM 2
+tukuyin+A+VOBF NE B
+tula+A+NCOM 2
+tulad+A+AVET AL
+tulad+A+NA
+tulala+A+ADUN
+tularan+A+VOBF NE B
+tulay+A+NCOM 2
+tuligsain+A+VOBF NE B
+tuliro+A+ADUN
+tulisan+A+NCOM 2
+tulog+A+ADUN
+tulong+A+NCOM 2
+tulong+A+PRME
+tulos+A+NCOM 2
+tuloy+A+ENCL
+tuloy+A+VOTF OT B
+tulungan+A+VOBF NE B
+tuluy-tuloy+A+ADUN
+tumabi+A+VACF CM B
+tumahimik+A+VACF CM B
+tumakas+A+VACF CM B
+tumakbo+A+VACF CM B
+tumalikod+A+VACF CM B
+tumalon+A+VACF CM B
+tumama+A+VACF CM B
+tumanaw+A+VACF CM B
+tumanggap+A+VACF CM B
+tumanggi+A+VACF CM B
+tumango+A+VACF CM B
+tumango-tango+A+VACF IN B
+tumangu-tango+A+VACF IN B
+tumapat+A+VACF CM B
+tumatakbong+C+VACF IN B
+tumatanaw+A+VACF IN B
+tumatanggap+A+VACF IN B
+tumatanghali+A+VACF IN B
+tumatanglaw+A+VACF IN B
+tumatayo+A+VACF IN B
+tumawag+A+VACF CM B
+tumayo+A+VACF CM B
+tumba-tumba+A+NCOM 2
+tumigil+A+VACF CM B
+tuminag+A+VACF CM B
+tumindig+A+VACF CM B
+tumingin+A+VACF CM B
+tumitig+A+VACF CM B
+tumitimo+A+VACF IN B
+tumitinag+A+VACF IN B
+tumititig+A+VACF IN B
+tumpok+A+ADUN
+tumugon+A+VACF CM B
+tumugtog+A+VACF CM B
+tumulo+A+VACF CM B
+tumuloy+A+VACF CM B
+tumututol+A+VACF IN B
+Tunasan+A+NPRO
+tunay+A+AVAY AL
+tungayawan+A+NCOM 2
+tunggain+A+VOBF NE B
+tungkod+A+NCOM 2
+tungkol+A+PRRE
+tungkulin+A+NCOM 2
+tungkuling+B+NCOM 2
+tunog+A+NCOM 2
+tunton+A+NCOM 2
+tuntunin+A+NCOM 2
+tuparin+A+VOBF NE B
+turuan+A+VOBF NE B
+Turumba+A+NPRO
+tutol+A+VOTF OT B
+tutubing+C+NCOM 2
+tutugtugin+A+VOBF CN B
+tutuklas+A+VACF CN B
+tutulan+A+VOBF CN B
+tutulungan+A+VOBF CN B
+tuwa+A+NCOM 2
+tuwang-tuwa+A+ADUN
+tuwirang+B+ADUN
+tuyong+C+ADUN
+tuyong+C+NCOM 2
+ubo+A+NCOM 2
+ubod+A+AVST AL
+ubod+A+NA
+ugali+A+NCOM 2
+ugaling+C+NCOM 2
+ugat+A+NCOM 2
+uhay+A+NCOM 2
+ukol+A+PRRE
+ulam+A+NCOM 2
+ulan+A+NCOM 2
+ulap+A+NCOM 2
+ulat+A+NCOM 2
+ulo+A+AVST AL
+ulo+A+NCOM 2
+ulol+A+NCOM 2
+ulong+C+NCOM 2
+umaabot+A+VACF IN B
+umaabuso+A+VACF IN B
+umaalingasaw+A+VACF IN B
+umaasa+A+VACF IN B
+umaawit+A+VACF IN B
+umaayon+A+VACF IN B
+umaayong+B+VACF IN B
+umabot+A+VACF CM B
+umaga+A+NCOM 2
+umagang+C+NCOM 2
+umahon+A+VACF CM B
+umakyat+A+VACF CM B
+umalis+A+VACF CM B
+umani+A+VACF CM B
+umatras+A+VACF CM B
+umatungal+A+VACF CM B
+umawat+A+VACF CM B
+umawit+A+VACF CM B
+umayon+A+VACF CM B
+umiibig+A+VACF IN B
+umiilaw+A+VACF IN B
+umiiral+A+VACF IN B
+umiitim+A+VACF IN B
+umiiwas+A+VACF IN B
+umiiyak+A+VACF IN B
+umilag+A+VACF CM B
+uminom+A+VACF CM B
+umirap+A+VACF CM B
+umisip+A+VACF CM B
+umismid+A+VACF CM B
+umiwas+A+VACF CM B
+umiyak+A+VACF CM B
+umpukan+A+NCOM 2
+umubo+A+VACF CM B
+umubong+C+VACF CM B
+umunat+A+VACF CM B
+umunlad+A+VACF CM B
+umupo+A+VACF CM B
+umurong+A+VACF CM B
+umusal+A+VACF CM B
+umuugoy+A+VACF IN B
+umuulan+A+VACF IN B
+umuulan-ulan+A+VACF IN B
+umuungol+A+VACF IN B
+umuunlad+A+VACF IN B
+umuusbong+A+VACF IN B
+umuusig+A+VACF IN B
+umuwi+A+VACF CM B
+una+A+ADNU
+una’y+A+ADNU
+unahang+B+ADUN
+unan+A+NCOM 2
+unang+C+ADNU
+unawain+A+VOBF NE B
+ungkat+A+VOTF OT B
+Unibersidad+A+NPRO
+unos+A+NCOM 2
+upang+A+CONP
+upang+A+NA
+upo+A+NCOM 2
+upuan+A+NCOM 2
+upuang+B+NCOM 2
+Urbana+A+NPRO
+uri+A+ADUN
+uri+A+NCOM 2
+usa+A+NCOM 1
+usal+A+VOTF OT B
+usapan+A+NCOM 2
+usapin+A+NCOM 2
+usaping+B+NCOM 2
+usap-usapan+A+NCOM 2
+usigin+A+VOBF NE B
+usisa+A+VOTF OT B
+usok+A+NCOM 2
+utang+A+NCOM 2
+utos+A+NCOM 2
+utusan+A+NCOM 2
+utusan+A+VOBF NE B
+utusang+B+NCOM 2
+uulitin+A+VOBF CN B
+uupo+A+VACF CN B
+uutangin+A+VOBF CN B
+uuwi+A+VACF CN B
+Viaje+A+NPRO
+Vice-Real+A+NPRO
+Victoria+A+NPRO
+Victorina+A+NPRO
+Victorinang+C+NPRO
+Vina+A+NPRO
+vive+A+VOTF OT B
+wakas+A+NCOM 2
+wala+A+MANH
+walang-hiyang+C+ADUN
+walo+A+ADNU
+walong+C+ADNU
+wari+A+AVAG AL
+wawasakin+A+VOBF CN B
+wika+A+NCOM 2
+wika+A+PRRE
+wika+A+VOTF OT B
+wikang+C+NCOM 2
+winasak+A+VOBF CM B
+winika+A+VOBF CM B
+y+A+NA
+yabag+A+NCOM 2
+yakapin+A+VOBF NE B
+yaman+A+NCOM 2
+yamang+B+ENCL
+yamang+B+NCOM 2
+yantok+A+NCOM 2
+yari+A+VOTF OT B
+yata+A+AVAG AL
+yayakap+A+VACF CN B
+yero+A+NCOM 2
+yugto+A+NCOM 2
+yumaong+C+ADUN
+yumuko+A+VACF CM B
+yumukod+A+VACF CM B
+yumuyuko+A+VACF IN B
+yungib+A+NCOM 2
+yuyuko+A+VACF CN B
