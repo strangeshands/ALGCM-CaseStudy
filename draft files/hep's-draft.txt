@@ -72,6 +72,7 @@
             <token regexp="yes">
                 [mn]ag[aeiou][a-zA-Z]+
                 <exception postag="NAVRB"/>
+                <exception postag="MAVRB"/>
             </token>
         </pattern>
 
