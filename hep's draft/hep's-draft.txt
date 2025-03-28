@@ -11,15 +11,17 @@
     <rule id="Kaka_Prefix" name="Ka Prefix Verb Rule">
         <pattern case_sensitive="no" mark_from="0">
             <token regexp="yes">
-                ^kaka(?!ka).+ 
+                <!-- ^kaka(?!ka).+ -->
+                (?i)^kaka(?!ka)(.{2})(.*) <!-- Kelsey Fix -->
                 <exception postag="KAVRB"/>
                 <exception postag="KAVRBIN"/>
             </token>
         </pattern>
 
         <message>
-            Possible incorrect verb formation: "<match no="1" case_conversion="startlower"/>".
-            Use <suggestion>"ka-"</suggestion> as prefix and <suggestion>repeat the verb's first syllable</suggestion>.
+            Possible incorrect verb formation: "<match no="1" case_conversion="startlower"/>". 
+            Did you mean <suggestion><match no="1" case_conversion="startlower" regexp_match="(?i)^kaka(?!ka)(.{2})(.*)" regexp_replace="ka$1$1$2"/></suggestion>?
+            Use <suggestion>"ka-" </suggestion> as prefix and <suggestion>repeat the verb's first syllable</suggestion>.
         </message>
         <short>Wrong use of "ka-" prefix.</short>
 
