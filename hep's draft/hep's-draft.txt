@@ -11,8 +11,7 @@
     <rule id="Kaka_Prefix" name="Ka Prefix Verb Rule">
         <pattern case_sensitive="no" mark_from="0">
             <token regexp="yes">
-                <!-- ^kaka(?!ka).+ -->
-                (?i)^kaka(?!ka)(.{2})(.*) <!-- Kelsey Fix -->
+                (?i)^kaka(?!ka)(.{2})(.*)
                 <exception postag="KAVRB"/>
                 <exception postag="KAVRBIN"/>
             </token>
@@ -78,8 +77,11 @@
             </token>
         </pattern>
 
-        <message>The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".</message>
-        <suggestion>Add a "-" after the "nag" or "mag" prefix.</suggestion>
+        <message>
+            Did you mean <suggestion><match no="1" case_conversion="startlower" regexp_match="([mn]ag)([aeiou][a-zA-Z]+)" regexp_replace="$1-$2"/></suggestion>?
+            The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".
+            <suggestion>Add a "-" after the "nag" or "mag" prefix.</suggestion>
+        </message>
         <short>Missing hyphen after "nag-" or "mag-"</short>
 
         <example correction="Nag-ayos" type="incorrect"><marker>Nag yos</marker> ako ng gamit.</example>
@@ -103,6 +105,7 @@
         </pattern>
 
         <message>
+            Did you mean <suggestion><match no="1"/><match no="2"/></suggestion>?
             The prefix "<match no="1"/>" must NOT be followed by anything if the verb starts with a consonant.
         </message>
 
@@ -125,6 +128,7 @@
         </pattern>
 
         <message>
+            Did you mean <suggestion><match no="1" case_conversion="startlower" regexp_match="(?i)([mn]ag)-([^aeiou][a-zA-Z]+)" regexp_replace="$1$2"/></suggestion>?
             The <suggestion>hyphen</suggestion> in the word "<match no="1"/>" <suggestion>must be removed</suggestion> if the verb starts with a consonant.
         </message>
 
