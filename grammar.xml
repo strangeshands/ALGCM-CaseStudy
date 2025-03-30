@@ -11,5 +11,537 @@ title="Easy editing stylesheet" ?>
 		TOLENTINO, Hephzi	S19
 -->
 <rules lang="tl" xsi:noNamespaceSchemaLocation="../rules.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	
+	<!-- D to R / R to D Rules -->
+	<category name="Daw ↔ Raw / Din ↔ Rin Rules">
+
+		<!-- daw after vowel (should be raw) -->
+		<rule id="DAW_AFTER_VOWEL" name="Wrong daw after vowel (should be raw)" type="grammar">
+			<pattern mark_from="1">
+				<token regexp="yes">.*[aeiouwy]$<exception regexp="yes">.*(ri|ra|ray|raw)$</exception></token>
+				<token>daw</token>
+			</pattern>
+			<message>Do you mean <suggestion>raw</suggestion>? Use "raw" after words ending in a vowel or glide/semivowel (w/y), unless they end in -ri, -ra, -ray, or -raw.</message>
+			<short>Use "raw" after vowels or glides, except -ri/-ra/-ray/-raw</short>
+			
+			<example type="incorrect" correction="raw">
+				Pupunta <marker>daw</marker> siya sa Manila bukas.
+			</example>
+			<example type="incorrect" correction="raw">
+				Gusto <marker>daw</marker> niya bumili ng hotdog.
+			</example>
+			<example type="incorrect" correction="raw">
+				Magiging abala <marker>daw</marker> sila sa trabaho.
+			</example>
+			<example type="incorrect" correction="raw">
+				Maamo <marker>daw</marker> ang mga aso sa labas.
+			</example>
+			<example type="incorrect" correction="raw">
+				Masaya <marker>daw</marker> ang kaniyang mga kaibigan.
+			</example>
+			<example type="correct">
+				Isang buo raw ang kinain niya.
+			</example>
+			<example type="correct">
+				Maganda raw ang pinanuod niyang pelikula.
+			</example>
+			<example type="correct">
+				Matamlay raw ang mga hayop sa zoo.
+			</example>
+			<example type="correct">
+				Sige raw, pupunta na ako.
+			</example>
+			<example type="correct">
+				Naging abogado raw siya.
+			</example>
+		</rule>
+
+		<!-- din after vowel (should be rin) -->
+		<rule id="DIN_AFTER_VOWEL" name="Wrong din after vowel (should be rin)" type="grammar">
+			<pattern mark_from="1">
+				<token regexp="yes">.*[aeiouwy]$<exception regexp="yes">.*(ri|ra|ray|raw)$</exception></token>
+				<token>din</token>
+			</pattern>
+			<message>Do you mean <suggestion>rin</suggestion>? Use "rin" after words ending in a vowel or glide/semivowel (w/y), unless they end in -ri, -ra, -ray, or -raw.</message>
+			<short>Use "rin" after vowels or glides, except -ri/-ra/-ray/-raw</short>
+
+			<example type="incorrect" correction="rin">
+				Ako <marker>din</marker> ang nagsabi niyan.
+			</example>
+			<example type="incorrect" correction="rin">
+				Naligo na <marker>din</marker> siya kanina.
+			</example>
+			<example type="incorrect" correction="rin">
+				Gumawa <marker>din</marker> ako ng mensahe para sa iyo.
+			</example>
+			<example type="incorrect" correction="rin">
+				Sabaw <marker>din</marker> ang ulam mamayang hapon.
+			</example>
+			<example type="incorrect" correction="rin">
+				Nagbigay <marker>din</marker> siya ng regalo.
+			</example>
+			<example type="correct">
+				Mapakla rin ang lasa ng ampalaya.
+			</example>
+			<example type="correct">
+				Nahuli rin ang mga hayop sa bundok.
+			</example>
+			<example type="correct">
+				Madumi rin ang ilog doon.
+			</example>
+			<example type="correct">
+				Gumagalaw rin ang mga halaman sa paligid.
+			</example>
+			<example type="correct">
+				Baboy rin ang handa sa kaniyang kaarawan.
+			</example>
+		</rule>
+
+		<!-- raw after consonant (should be daw) -->
+		<rule id="RAW_AFTER_CONSONANT" name="Wrong raw after consonant (should be daw)" type="grammar">
+			<pattern mark_from="1">
+				<token regexp="yes">.*[bcdfghjklmnpqrstvxz]$|.*(ri|ra|ray|raw)$</token>
+				<token>raw</token>
+			</pattern>
+			<message>Do you mean <suggestion>daw</suggestion>? Use "daw" after words ending in a consonant, or those ending in -ri/-ra/-ray/-raw.</message>
+			<short>Use "daw" after consonants or -ri/-ra/-ray/-raw</short>
+			<example type="incorrect" correction="daw">
+				Sapatos <marker>raw</marker> ang dapat isuot.
+			</example>
+			<example type="incorrect" correction="daw">
+				Sa Palawan <marker>raw</marker> tayo pupunta.
+			</example>
+			<example type="incorrect" correction="daw">
+				Sa susunod na taon <marker>raw</marker> tayo magkikita.
+			</example>
+			<example type="incorrect" correction="daw">
+				Magandang araw <marker>raw</marker> ito para maglakad.
+			</example>
+			<example type="incorrect" correction="daw">
+				Kakain <marker>raw</marker> sila sa Jollibee.
+			</example>
+			<example type="correct">
+				Sasamahan daw namin si Reyes.
+			</example>
+			<example type="correct">
+				Pinalayas daw sila ng mga kapitbahay.
+			</example>
+			<example type="correct">
+				Malinis daw ang kaniyang kwarto.
+			</example>
+			<example type="correct">
+				Nangangamoy usok daw ang kalsada.
+			</example>
+			<example type="correct">
+				Maaari daw kayong sumama sa talipapa.
+			</example>
+		</rule>
+
+		<!-- rin after consonant (should be din) -->
+		<rule id="RIN_AFTER_CONSONANT" name="Wrong rin after consonant (should be din)" type="grammar">
+			<pattern mark_from="1">
+				<token regexp="yes">.*[bcdfghjklmnpqrstvxz]$|.*(ri|ra|ray|raw)$</token>
+				<token>rin</token>
+			</pattern>
+			<message>Do you mean <suggestion>din</suggestion>? Use "din" after words ending in a consonant, or those ending in -ri/-ra/-ray/-raw.</message>
+			<short>Use "din" after consonants or -ri/-ra/-ray/-raw</short>
+			<example type="incorrect" correction="din">
+				Aalis <marker>rin</marker> siya bukas.
+			</example>
+			<example type="incorrect" correction="din">
+				Papel <marker>rin</marker> ang ginamit niya.
+			</example>
+			<example type="incorrect" correction="din">
+				Sinalihan <marker>rin</marker> nila ang paligsahan.
+			</example>
+			<example type="incorrect" correction="din">
+				Napatalon <marker>rin</marker> kami.
+			</example>
+			<example type="correct">
+				Maalinsangan din ang panahon ngayong araw.
+			</example>
+			<example type="correct">
+				May sasakyan din ang asawa ko.
+			</example>
+			<example type="correct">
+				Mataray din ang kaniyang ate.
+			</example>
+			<example type="correct">
+				Maaraw din sa probinsya. 
+			</example>
+		</rule>
+
+	</category>
+
+	<!-- Sila vs. Sina -->
+	<category name="Sina vs. Sila">
+		<rule id="SILA_BEFORE_NAME" name="Sila before proper noun (should be sina)" type="grammar">
+			<!--
+				NOTE: Although mark_from="0" and mark_to="0" should only highlight the first token ("sila"),
+				the current LanguageTool GUI may still visually highlight both tokens ("sila" and the proper noun).
+				This may be a quirk in some LanguageTool interfaces and does not affect the correctness of the rule logic.
+			-->
+			<pattern case_sensitive="yes" mark_from="0" mark_to="0">
+				<token regexp="yes">sila|Sila</token>
+				<token regexp="yes">^[A-Z].*</token>
+			</pattern>
+			<message>Do you mean <suggestion>sina</suggestion>? Use "sina" before proper names.</message>
+			<short>Use "sina" before proper names</short>
+			<example correction="Sina" type="incorrect">
+				<marker>Sila</marker> Juan ay dumating.
+			</example>
+			<example correction="sina" type="incorrect">
+				Dumating na <marker>sila</marker> Maria at Jose.
+			</example>
+			<example correction="sina" type="incorrect">
+				<marker>Sila</marker> Toni ay nasa mamahaling kainan.
+			</example>
+			<example type="correct">
+				Sila ang mga estudyante ng ating paaralan.
+			</example>
+			<example type="correct">
+				Kinamusta namin sila.
+			</example>
+			<example type="correct">
+				Sina Reyes at Santos ang mga bisita.
+			</example>
+			<example type="correct">
+				Sina Rodrigo ay nakulong.
+			</example>
+		</rule>
+		
+	</category>
+
+	<category name="Kambal Patinig">
+		<rule id="FIRST-SYLLABLE_I" name="First Syllable - y (iy)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[^aeiou]*i[aeo][a-zA-Z]*</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="([^aeiou]*i)([aeo][a-zA-Z]*)" regexp_replace="$1y$2"/></suggestion>? <match no="2"/> should have 'y' in between the two consecutive vowels.</message>
+			<short>Kambal Patinig</short>
+			<example correction="tiyan" type="incorrect">Masakit ang <marker>tian</marker> ko!</example>
+			<example correction="siya" type="incorrect">Pumunta <marker>sia</marker> sa palengke.</example>
+			<example correction="biyahe" type="incorrect">Pagod na ako sa <marker>biahe</marker>.</example>
+			<example type="correct">May sinabi <marker>siya</marker> sa kapatid ko.</example>
+			<example type="correct">Ang layo <marker>niya</marker> sa akin.</example>
+			<example type="correct"><marker>Iyon</marker> ang gamit ko.</example>
+			
+		</rule>
+		<rule id="FIRST-SYLLABLE_U" name="First Syllable - w (uw)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[^aeiou]*u[aeo][a-zA-Z]*</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="([^aeiou]*u)([aeo][a-zA-Z]*)" regexp_replace="$1w$2"/></suggestion>? <match no="2"/> should have 'w' in between the two consecutive vowels.</message>
+			<short>Kambal Patinig</short>
+			<example correction="kuwento" type="incorrect">Mayroon akong <marker>kuento</marker> para sa iyo.</example>
+			<example correction="buwan" type="incorrect">Ang ganda ng <marker>buan</marker> ngayon.</example>
+			<example correction="tuwing" type="incorrect">Naglalaro siya <marker>tuing</marker> umaga.</example>
+			<example type="correct"><marker>Suwerte</marker> talaga siya.</example>
+			<example type="correct">Sa <marker>huwebes</marker> nalang ako aalis.</example>
+			<example type="correct">Paabot ako ng aking <marker>tuwalya</marker>.</example>
+		</rule>
+		<rule id="NOT-FIRST-SYLLABLE_I" name="Not in the First Syllable - i (y)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[a-zA-Z]*[aeiou][a-zA-Z]*i[y]*[aeo][a-zA-Z]*</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="([a-zA-Z]*[aeiou][a-zA-Z]*)i[y]*([aeo][a-zA-Z]*)" regexp_replace="$1y$2"/></suggestion>? The i in <match no="2"/> should be replaced with a y.</message>
+			<short>Kambal Patinig</short>
+			<example correction="benepisyo" type="incorrect">Ang laki ng <marker>benepisio</marker> ng trabaho mo.</example>
+			<example correction="tenyente" type="incorrect">Hindi pa nagbabayad ang <marker>teniente</marker>.</example>
+			<example correction="tilapya" type="incorrect">Kumain ako kaninang <marker>tilapia</marker>.</example>
+			<example type="correct">Hindi ako magaling sa <marker>komedya</marker>.</example>
+			<example type="correct">Malayo pa ang <marker>Disyembre</marker>.</example>
+			<example type="correct">Siya ay pumunta sa<marker>auditoryo</marker>.</example>
+			
+		</rule>
+		<rule id="NOT-FIRST-SYLLABLE_U" name="Not in the First Syllable - u (w)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[a-zA-Z]*[aeiou][a-zA-Z]*u[w]*[aeo][a-zA-Z]*</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="([a-zA-Z]*[aeiou][a-zA-Z]*)u[w]*([aeo][a-zA-Z]*)" regexp_replace="$1w$2"/></suggestion>? The u in <match no="2"/> should be replaced with a w.</message>
+			<short>Kambal Patinig</short>
+			<example correction="indibidwal" type="incorrect">Ang bawat <marker>indibidual</marker> ay mayroong sariling gagawin.</example>
+			<example correction="perwisyo" type="incorrect">Ang anak ko talaga ay <marker>peruwisyo</marker>.</example>
+			<example correction="aswang" type="incorrect">Natatakot ako sa <marker>asuang</marker>.</example>
+			<example type="correct">Siya ang <marker>kagawad</marker></example>
+			<example type="correct"><marker>Kawawa</marker> naman ang bata.</example>
+			<example type="correct">Ang <marker>bawat</marker> isa sa inyo ay espesyal.</example>
+		</rule>
+		<rule id="CONTRACTION" name="Contraction - y/w ('y/'w)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[^aeiou]*[yw][aeo][a-zA-Z]*</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="([^aeiou]*)([yw][aeo][a-zA-Z]*)" regexp_replace="$1'$2"/></suggestion>? An apostrophe should take the place of the missing vowel in <match no="2"/>.</message>
+			<short>Kambal Patinig</short>
+			<example correction="n'ya" type="incorrect">Sabi <marker>nya</marker> sa akin wala siya ngayon.</example>
+			<example correction="s'ya" type="incorrect"><marker>Sya</marker> ay tinamad nang mag-isip.</example>
+			<example correction="b'wan" type="incorrect">Ang layo ng <marker>bwan</marker> sa atin.</example>
+			<example type="correct">Wala na <marker>s'yang</marker> masabi.</example>
+			<example type="correct">Tinaas <marker>n'ya</marker> ang bandila.</example>
+			<example type="correct">Natutulog siya <marker>t'wing</marker> naglalaro kami.</example>
+		</rule>
+	</category>
+
+	<category name="E/I vs O/U">
+		<rule id="LINKING-WORDS_E" name="Linking Words - i (e)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[a-zA-Z]*ing</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="([a-zA-Z]*)i(ng)" regexp_replace="$1e$2"/></suggestion>? The i in <match no="2"/> should be replaced with an e.</message>
+			<short>E/I vs O/U</short>
+			<example correction="babaeng" type="incorrect">Siya ay isang <marker>babaing</marker> matalino.</example>
+			<example correction="maarteng" type="incorrect"><marker>Maarting</marker> bata iyan.</example>
+			<example correction="boteng" type="incorrect">Nabasag ang <marker>boting</marker> iyon.</example>
+			<example type="correct">Pumunta siya sa <marker>kalyeng</marker> madilim.</example>
+			<example type="correct">Sa kaniya ang <marker>kotseng</marker> itim.</example>
+			<example type="correct">Bumisista ako sa <marker>sineng</marker> malawak.</example>
+		</rule>
+		<rule id="LINKING-WORDS_O" name="Linking Words - u (o)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[a-zA-Z]*ung</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="([a-zA-Z]*)u(ng)" regexp_replace="$1o$2"/></suggestion>? The u in <match no="2"/> should be replaced with an o.</message>
+			<short>E/I vs O/U</short>
+			<example correction="larong" type="incorrect">Paborito ko ang <marker>larung</marker> ito.</example>
+			<example correction="itong" type="incorrect">Para saan ba <marker>itung</marker>bato?</example>
+			<example correction="anong" type="incorrect"><marker>Anung</marker> ginagawa niyo?</example>
+			<example type="correct">Lumiko siya sa <marker>kantong</marker> puno ng basura</example>
+			<example type="correct">Nilinis niya ang <marker>pasong</marker>nabasag</example>
+			<example type="correct">Mayroon kaming <marker>pitong</marker> aso.</example>
+		</rule>
+		<rule id="SUFFIX_I" name="Suffix - e (i)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[a-zA-Z]*e(an|han|in|hin)</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="([a-zA-Z]*)e((an|han|in|hin))" regexp_replace="$1i$2"/></suggestion>? The e in <match no="2"/> should be replaced with an i.</message>
+			<short>E/I vs O/U</short>
+			<example correction="nataihan" type="incorrect"><marker>Nataehan</marker> ako ng ibon.</example>
+			<example correction="artihan" type="incorrect">Huwag mo akong <marker>artehan</marker>.</example>
+			<example correction="atakihin" type="incorrect">Baka naman <marker>atakehin</marker> niya ako.</example>
+			<example type="correct">Onsihan ang taya sa perya.</example>
+			<example type="correct"><marker>Binasihan</marker> ko ang hula ko sa inaral ko kanina.</example>
+			<example type="correct">Ang mga <marker>kababaihan</marker> sa ating mundo ay importante.</example>
+		</rule>
+		<rule id="SUFFIX_U" name="Suffix - o (u)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[a-zA-Z]*o(an|han|in|hin)</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="([a-zA-Z]*)o((an|han|in|hin))" regexp_replace="$1u$2"/></suggestion>? The o in <match no="2"/> should be replaced with a u.</message>
+			<short>E/I vs O/U</short>
+			<example correction="biruin" type="incorrect">Huwag mong <marker>biroin</marker> ang tatay mo!</example>
+			<example correction="taguan" type="incorrect">Naglaro ang mga bata ng <marker>tagoan</marker>.</example>
+			<example correction="pasuin" type="incorrect">Mag-ingat ka, baka <marker>pasoin</marker> mo ang sarili mo.</example>
+			<example type="correct"><marker>Tinakbuhan</marker> niya ang guro.</example>
+			<example type="correct">Ayaw niyang <marker>kalbuhin</marker> ang aso niya.</example>
+			<example type="correct">Nagawa niyang <marker>pasuin</marker> ang kanyang sarili.</example>
+		</rule>
+		<rule id="HYPHENATED_E" name="Hyphenated - i (e)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">(?i)(\b\w+)i-(\1)[ei](\b)</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="(?i)(\b\w+)i-(\1)[ei](\b)" regexp_replace="$1e-$2e"/></suggestion>? The i in <match no="2"/> should be replaced with an e.</message>
+			<short>E/I vs O/U</short>
+			<example correction="arte-arte" type="incorrect">Ang <marker>arti-arte</marker> mo naman.</example>
+			<example correction="libre-libre" type="incorrect"><marker>Libri-libre</marker> ang mga regalo ko.</example>
+			<example correction="bente-bente" type="incorrect"><marker>Benti-bente</marker> lamang ang sinisingil niya.</example>
+			<example type="correct">Nandiyan lang siya sa mga <marker>kalye-kalye</marker>.</example>
+			<example type="correct">Makikita mo yung basura sa tabi ng mga <marker>bote-bote</marker>.</example>
+			<example type="correct"><marker>Simple-simple</marker> lamang ang mga guhit ko.</example>
+		</rule>
+		<rule id="HYPHENATED_O" name="Hyphenated - u (o)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">(?i)(\b\w+)u-(\1)[ou](\b)</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="(?i)(\b\w+)u-(\1)[ou](\b)" regexp_replace="$1o-$2o"/></suggestion>? The u in <match no="2"/> should be replaced with an o.</message>
+			<short>E/I vs O/U</short>
+			<example correction="ano-ano" type="incorrect"><marker>Anu-ano</marker> ang ginagawa niyo?</example>
+			<example correction="piso-piso" type="incorrect"><marker>Pisu-piso</marker> lamang ang mayroon ako.</example>
+			<example correction="baho-baho" type="incorrect">Ang <marker>bahu-baho</marker> mo.</example>
+			<example type="correct">Kung <marker>ano-ano</marker> nanaman ang pinagsasasabi mo!</example>
+			<example type="correct">Humingi sa akin si ate ng mga <marker>piso-piso</marker></example>
+			<example type="correct">Ang <marker>baho-baho</marker> ng damit mo.</example>
+		</rule>
+		<rule id="UNHYPHENATED_U" name="Unhyphenated - o (u)">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">(?i)(\b\w+)o(\1)[ou](\b)</token>
+			</pattern>
+			<message> Did you mean <suggestion><match no="2" case_conversion="startlower" regexp_match="(?i)(\b\w+)o(\1)[ou](\b)" regexp_replace="$1u$2o"/></suggestion>? The o in <match no="2"/> should be replaced with a u.</message>
+			<short>E/I vs O/U</short>
+			<example correction="salusalo" type="incorrect">May ginanap na <marker>salosalo</marker> sa bahay ko.</example>
+			<example correction="haluhalo" type="incorrect">Gusto kong kumain ng <marker>halohalo</marker>.</example>
+			<example correction="batubato" type="incorrect">Kami ay naglaro ng <marker>batobato</marker> sa ilalim ng puno.</example>
+			<example type="correct">Sumama ka na sa <marker>salusalo</marker> na igaganap sa bahay ko!</example>
+			<example type="correct">Ang sarap ng <marker>haluhalo</marker> na ginawa ni nanay.</example>
+			<example type="correct">Naglaro kami ng <marker>batubato</marker>sa ilalim ng puno.</example>
+		</rule>
+	</category>
+
+	<!-- KA- PREFIX RULE -->
+	<category name="Ka Prefix">
+		<!--
+			-	This rule handles the incorrect use of "ka" prefix.
+			- 	This rule avoids those that repeats "ka" thrice >> example: "kakakain".
+			- 	This is also has an exception of the verbs that starts with "ka" and is in
+				future tense. >> example: kakain, kakaway, kakapit
+					- Few exceptions are provided in .dict file.
+					- Additional exceptions for the ka-kaVERB-in form. >> example: kakainin, kakalimutin
+		-->
+		<rule id="Kaka_Prefix" name="Ka Prefix Verb Rule">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">
+					(?i)^kaka(?!ka)(.{2})(.*)
+					<exception postag="KAVRB"/>
+					<exception postag="KAVRBIN"/>
+				</token>
+			</pattern>
+
+			<message>
+				Did you mean <suggestion><match no="1" case_conversion="startlower" regexp_match="(?i)^kaka(?!ka)([aeiou]|(.{2}))(.*)" regexp_replace="ka$1$1$3"/></suggestion>?
+				Possible incorrect verb formation: "<match no="1" case_conversion="startlower"/>". 
+				Use "ka-" as prefix and repeat the verb's first syllable.
+			</message>
+			<short>Wrong use of "ka-" prefix.</short>
+
+			<example correction="Kapapasok" type="incorrect"><marker>Kakapasok</marker> niya lang.</example>
+			<example correction="kagigising" type="incorrect">Kanina ay <marker>kakagising</marker> niya lang.</example>
+			<example correction="Kabibili" type="incorrect"><marker>Kakabili</marker> ko lang ng ulam.</example>
+
+			<example type="correct"><marker>Kasasakay</marker> niya lang.</example>
+			<example type="correct"><marker>Kauuwi</marker> ko lang.</example>
+			<example type="correct">Parang <marker>kasasabi</marker> ko lang kanina.</example>
+		</rule>
+	</category>
+
+	<!-- NAG/MAG- PREFIX RULE -->
+	<category name="Nag/Mag Prefix + Verb">
+		<!--
+			-	This rule handles the abscence of hyphen in using nag/mag prefix given that the prefix
+				and verb are separated by space. The verb must also start with a vowel.
+		-->
+		<rule id="VERB_VOWEL_SPACE" name="verb_vowel_space">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[mn]ag</token>
+				<token regexp="yes">[aeiou][a-zA-Z]+</token>
+			</pattern>
+
+			<message>
+				Did you mean <suggestion><match no="1"/>-<match no="2"/></suggestion>? The prefix "<match no="1"/>" must be followed by a hyphen if the verb starts with a vowel.
+			</message>
+			<short>Missing hyphen after "nag-" or "mag-"</short>
+
+			<example correction="Nag-ayos" type="incorrect"><marker>Nag ayos</marker> ako ng gamit.</example>
+			<example correction="mag-aral" type="incorrect">Kailangan ko <marker>mag aral</marker>.</example>
+			<example correction="nag-uusap" type="incorrect">Sina Juan at Maria ay<marker>nag uusap</marker>.</example>
+		
+			<example type="correct">Si Juan ang <marker>mag-aalok</marker> ng pagkain.</example>
+			<example type="correct"><marker>Nag-aayos</marker> na ako ng gamit pang-Japan.</example>
+			<example type="correct">Bakit dapat<marker>mag-ingay</marker>?</example>
+		</rule>
+
+		<!--
+			-	This rule handles the abscence of hyphen in using nag/mag prefix given that the prefix
+				and verb are not separated by anything. The verb must also start with a vowel.
+			-	Exceptions are used in this rule so that verbs that starts with 'g' and uses the prefix
+				"na-" will not be flagged. >> example: nagawa, nagamit
+					-	Few exceptions are provided in the .dict file
+		-->
+		<rule id="VERB_VOWEL_NOSPACE" name="verb_vowel_nospace">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">
+					[mn]ag[aeiou][a-zA-Z]+
+					<exception postag="NAVRB"/>
+					<exception postag="MAVRB"/>
+				</token>
+			</pattern>
+
+			<message>
+						Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)([aeiou][a-zA-Z]+)" regexp_replace="$1-$2"/></suggestion>?
+						The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".
+						Add a "-" after the "nag" or "mag" prefix.
+				</message>
+			<short>Missing hyphen after "nag-" or "mag-"</short>
+
+			<example correction="Nag-ayos" type="incorrect"><marker>Nag yos</marker> ako ng gamit.</example>
+			<example correction="mag-aral" type="incorrect">Kailangan ko <marker>magaral</marker>.</example>
+			<example correction="nag-uusap" type="incorrect">Sina Juan at Maria ay<marker>naguusap</marker>.</example>
+		
+			<example type="correct">Si Juan ang <marker>mag-aalok</marker> ng pagkain.</example>
+			<example type="correct"><marker>Nag-aayos</marker> na ako ng gamit pang-Japan.</example>
+			<example type="correct">Bakit dapat<marker>mag-ingay</marker>?</example>
+		</rule>
+
+		<!--
+			-	This rule handles the presence of space in using nag/mag prefix given that the verb
+				starts with a consonant.
+		-->
+		<rule id="VERB_CONSONANT_SPACE" name="verb_consonant_space">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[mn]ag</token>
+				<token regexp="yes">[^aeiou][a-zA-Z]+</token>
+			</pattern>
+
+			<message>
+				Did you mean <suggestion><match no="1"/><match no="2"/></suggestion>?
+				The prefix "<match no="1"/>" must NOT be followed by anything if the verb starts with a consonant.
+			</message>
+
+			<example correction="Nagbayad" type="incorrect"><marker>Nag bayad</marker> na ako ng utang.</example>
+			<example correction="magsumbong" type="incorrect">Kailangan ko <marker>mag sumbong</marker> kay mama.</example>
+			<example correction="naglalaro" type="incorrect">Sina Juan at Maria ay<marker>nag lalaro</marker>.</example>
+		
+			<example type="correct">Si Juan ang <marker>magbibitbit</marker> ng pagkain.</example>
+			<example type="correct"><marker>Naghahanda</marker> na ako ng gamit pang-Japan.</example>
+			<example type="correct">Bakit dapat<marker>magdala</marker> ng damit?</example>
+		</rule>
+
+		<!--
+			-	This rule handles the presence of hyphen in using nag/mag prefix given that the verb
+				starts with a consonant.
+		-->
+		<rule id="VERB_CONSONANT_HYPHEN" name="verb_consonant_hyphen">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">[mn]ag-[^aeiou][a-zA-Z]+</token>
+			</pattern>
+
+			<message>
+				Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)-([^aeiou][a-zA-Z]+)" regexp_replace="$1$2"/></suggestion>?
+				The hyphen in the word "<match no="1"/>" must be removed if the verb starts with a consonant.
+				</message>
+
+			<example correction="Nagbayad" type="incorrect"><marker>Nag-bayad</marker> na ako ng utang.</example>
+			<example correction="magsumbong" type="incorrect">Kailangan ko <marker>mag-sumbong</marker> kay mama.</example>
+			<example correction="naglalaro" type="incorrect">Sina Juan at Maria ay<marker>nag-lalaro</marker>.</example>
+		
+			<example type="correct">Si Juan ang <marker>magbibitbit</marker> ng pagkain.</example>
+			<example type="correct"><marker>Naghahanda</marker> na ako ng gamit pang-Japan.</example>
+			<example type="correct">Bakit dapat<marker>magdala</marker> ng damit?</example>
+		</rule>
+	</category>
+
+	<!-- FILIPINO PREFIX + ENGLISH VERB-->
+	<category name="Prefix + English Verb">
+		<!-- 
+			-	This rule handles when the Tagalog prefix and English verb is separated by a space instead
+				of hyphen.
+			-	Only few English verbs are registered in the .dict file. Hence, this will not flag those that
+				include verbs that are not in the .dict file.
+		-->
+		<rule id="PREFIX_ENG_VERB" name="prefix + English verb">
+			<pattern case_sensitive="no" mark_from="0">
+				<token regexp="yes">ipa|na|ma</token>
+				<token postag="ENGVRB"/>
+			</pattern>
+
+			<message>
+				Did you mean <suggestion><match no="1"/>-<match no="2"/></suggestion>? The prefix "<match no="1"/>" must be followed by a hyphen if the verb is in English.
+			</message>
+
+			<example correction="Na-print" type="incorrect"><marker>Na print</marker> ko na ang mga reviewer.</example>
+			<example correction="ma-check" type="incorrect">Maaari bang <marker>ma check</marker> ang sagot ko?</example>
+			<example correction="ipa-handle" type="incorrect">Si Juan na ang<marker>ipa handle</marker> mo.</example>
+		
+			<example type="correct">Ayusin mo para <marker>ma-check</marker> na ni Juan ng papel mo.</example>
+			<example type="correct"><marker>Na-download</marker> ni Maria ang kanta na gusto ko.</example>
+			<example type="correct">Bakit dapat<marker>ipa-print</marker> ang reviewer?</example>
+		</rule>
+	</category>
 </rules>

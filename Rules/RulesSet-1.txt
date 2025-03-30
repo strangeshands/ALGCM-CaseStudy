@@ -1,0 +1,198 @@
+<category name="Daw ↔ Raw / Din ↔ Rin Rules">
+
+     <!-- daw after vowel (should be raw) -->
+     <rule id="DAW_AFTER_VOWEL" name="Wrong daw after vowel (should be raw)" type="grammar">
+          <pattern mark_from="1">
+               <token regexp="yes">.*[aeiouwy]$<exception regexp="yes">.*(ri|ra|ray|raw)$</exception></token>
+               <token>daw</token>
+          </pattern>
+          <message>Do you mean <suggestion>raw</suggestion>? Use "raw" after words ending in a vowel or glide/semivowel (w/y), unless they end in -ri, -ra, -ray, or -raw.</message>
+          <short>Use "raw" after vowels or glides, except -ri/-ra/-ray/-raw</short>
+          
+          <example type="incorrect" correction="raw">
+               Pupunta <marker>daw</marker> siya sa Manila bukas.
+          </example>
+          <example type="incorrect" correction="raw">
+               Gusto <marker>daw</marker> niya bumili ng hotdog.
+          </example>
+          <example type="incorrect" correction="raw">
+               Magiging abala <marker>daw</marker> sila sa trabaho.
+          </example>
+          <example type="incorrect" correction="raw">
+               Maamo <marker>daw</marker> ang mga aso sa labas.
+          </example>
+          <example type="incorrect" correction="raw">
+               Masaya <marker>daw</marker> ang kaniyang mga kaibigan.
+          </example>
+          <example type="correct">
+               Isang buo raw ang kinain niya.
+          </example>
+          <example type="correct">
+               Maganda raw ang pinanuod niyang pelikula.
+          </example>
+          <example type="correct">
+               Matamlay raw ang mga hayop sa zoo.
+          </example>
+          <example type="correct">
+               Sige raw, pupunta na ako.
+          </example>
+          <example type="correct">
+               Naging abogado raw siya.
+          </example>
+     </rule>
+
+     <!-- din after vowel (should be rin) -->
+     <rule id="DIN_AFTER_VOWEL" name="Wrong din after vowel (should be rin)" type="grammar">
+          <pattern mark_from="1">
+               <token regexp="yes">.*[aeiouwy]$<exception regexp="yes">.*(ri|ra|ray|raw)$</exception></token>
+               <token>din</token>
+          </pattern>
+          <message>Do you mean <suggestion>rin</suggestion>? Use "rin" after words ending in a vowel or glide/semivowel (w/y), unless they end in -ri, -ra, -ray, or -raw.</message>
+          <short>Use "rin" after vowels or glides, except -ri/-ra/-ray/-raw</short>
+
+          <example type="incorrect" correction="rin">
+               Ako <marker>din</marker> ang nagsabi niyan.
+          </example>
+          <example type="incorrect" correction="rin">
+               Naligo na <marker>din</marker> siya kanina.
+          </example>
+          <example type="incorrect" correction="rin">
+               Gumawa <marker>din</marker> ako ng mensahe para sa iyo.
+          </example>
+          <example type="incorrect" correction="rin">
+               Sabaw <marker>din</marker> ang ulam mamayang hapon.
+          </example>
+          <example type="incorrect" correction="rin">
+               Nagbigay <marker>din</marker> siya ng regalo.
+          </example>
+          <example type="correct">
+               Mapakla rin ang lasa ng ampalaya.
+          </example>
+          <example type="correct">
+               Nahuli rin ang mga hayop sa bundok.
+          </example>
+          <example type="correct">
+               Madumi rin ang ilog doon.
+          </example>
+          <example type="correct">
+               Gumagalaw rin ang mga halaman sa paligid.
+          </example>
+          <example type="correct">
+               Baboy rin ang handa sa kaniyang kaarawan.
+          </example>
+     </rule>
+
+     <!-- raw after consonant (should be daw) -->
+     <rule id="RAW_AFTER_CONSONANT" name="Wrong raw after consonant (should be daw)" type="grammar">
+          <pattern mark_from="1">
+               <token regexp="yes">.*[bcdfghjklmnpqrstvxz]$|.*(ri|ra|ray|raw)$</token>
+               <token>raw</token>
+          </pattern>
+          <message>Do you mean <suggestion>daw</suggestion>? Use "daw" after words ending in a consonant, or those ending in -ri/-ra/-ray/-raw.</message>
+          <short>Use "daw" after consonants or -ri/-ra/-ray/-raw</short>
+          <example type="incorrect" correction="daw">
+               Sapatos <marker>raw</marker> ang dapat isuot.
+          </example>
+          <example type="incorrect" correction="daw">
+               Sa Palawan <marker>raw</marker> tayo pupunta.
+          </example>
+          <example type="incorrect" correction="daw">
+               Sa susunod na taon <marker>raw</marker> tayo magkikita.
+          </example>
+          <example type="incorrect" correction="daw">
+               Magandang araw <marker>raw</marker> ito para maglakad.
+          </example>
+          <example type="incorrect" correction="daw">
+               Kakain <marker>raw</marker> sila sa Jollibee.
+          </example>
+          <example type="correct">
+               Sasamahan daw namin si Reyes.
+          </example>
+          <example type="correct">
+               Pinalayas daw sila ng mga kapitbahay.
+          </example>
+          <example type="correct">
+               Malinis daw ang kaniyang kwarto.
+          </example>
+          <example type="correct">
+               Nangangamoy usok daw ang kalsada.
+          </example>
+          <example type="correct">
+               Maaari daw kayong sumama sa talipapa.
+          </example>
+     </rule>
+
+     <!-- rin after consonant (should be din) -->
+     <rule id="RIN_AFTER_CONSONANT" name="Wrong rin after consonant (should be din)" type="grammar">
+          <pattern mark_from="1">
+               <token regexp="yes">.*[bcdfghjklmnpqrstvxz]$|.*(ri|ra|ray|raw)$</token>
+               <token>rin</token>
+          </pattern>
+          <message>Do you mean <suggestion>din</suggestion>? Use "din" after words ending in a consonant, or those ending in -ri/-ra/-ray/-raw.</message>
+          <short>Use "din" after consonants or -ri/-ra/-ray/-raw</short>
+          <example type="incorrect" correction="din">
+               Aalis <marker>rin</marker> siya bukas.
+          </example>
+          <example type="incorrect" correction="din">
+               Papel <marker>rin</marker> ang ginamit niya.
+          </example>
+          <example type="incorrect" correction="din">
+               Sinalihan <marker>rin</marker> nila ang paligsahan.
+          </example>
+          <example type="incorrect" correction="din">
+               Napatalon <marker>rin</marker> kami.
+          </example>
+          <example type="correct">
+               Maalinsangan din ang panahon ngayong araw.
+          </example>
+          <example type="correct">
+               May sasakyan din ang asawa ko.
+          </example>
+          <example type="correct">
+               Mataray din ang kaniyang ate.
+          </example>
+          <example type="correct">
+               Maaraw din sa probinsya. 
+          </example>
+     </rule>
+
+</category>
+
+<!-- Sila vs. Sina -->
+<category name="Sina vs. Sila">
+     <rule id="SILA_BEFORE_NAME" name="Sila before proper noun (should be sina)" type="grammar">
+          <!--
+               NOTE: Although mark_from="0" and mark_to="0" should only highlight the first token ("sila"),
+               the current LanguageTool GUI may still visually highlight both tokens ("sila" and the proper noun).
+               This may be a quirk in some LanguageTool interfaces and does not affect the correctness of the rule logic.
+          -->
+          <pattern case_sensitive="yes" mark_from="0" mark_to="0">
+               <token regexp="yes">sila|Sila</token>
+               <token regexp="yes">^[A-Z].*</token>
+          </pattern>
+          <message>Do you mean <suggestion>sina</suggestion>? Use "sina" before proper names.</message>
+          <short>Use "sina" before proper names</short>
+          <example correction="Sina" type="incorrect">
+               <marker>Sila</marker> Juan ay dumating.
+          </example>
+          <example correction="sina" type="incorrect">
+               Dumating na <marker>sila</marker> Maria at Jose.
+          </example>
+          <example correction="sina" type="incorrect">
+               <marker>Sila</marker> Toni ay nasa mamahaling kainan.
+          </example>
+          <example type="correct">
+               Sila ang mga estudyante ng ating paaralan.
+          </example>
+          <example type="correct">
+               Kinamusta namin sila.
+          </example>
+          <example type="correct">
+               Sina Reyes at Santos ang mga bisita.
+          </example>
+          <example type="correct">
+               Sina Rodrigo ay nakulong.
+          </example>
+     </rule>
+     
+</category>

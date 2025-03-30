@@ -1,0 +1,5 @@
+KAVRB     verbs that start with "ka" and use the prefix "ka"
+KAVRBIN   verbs that start with "ka", use the prefix "ka", and use the suffix "in" or "an"
+NAVRB     verbs that start with 'g' and use the prefix "na"
+MAVRB     verbs that start with 'g' and use the prefix "ma"
+ENGVRB    English verbs

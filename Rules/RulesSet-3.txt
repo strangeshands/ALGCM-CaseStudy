@@ -1,0 +1,169 @@
+<!-- KA- PREFIX RULE -->
+<category name="Ka Prefix">
+    <!--
+        -	This rule handles the incorrect use of "ka" prefix.
+        - 	This rule avoids those that repeats "ka" thrice >> example: "kakakain".
+        - 	This is also has an exception of the verbs that starts with "ka" and is in
+            future tense. >> example: kakain, kakaway, kakapit
+                - Few exceptions are provided in .dict file.
+                - Additional exceptions for the ka-kaVERB-in form. >> example: kakainin, kakalimutin
+    -->
+    <rule id="Kaka_Prefix" name="Ka Prefix Verb Rule">
+        <pattern case_sensitive="no" mark_from="0">
+            <token regexp="yes">
+                (?i)^kaka(?!ka)(.{2})(.*)
+                <exception postag="KAVRB"/>
+                <exception postag="KAVRBIN"/>
+            </token>
+        </pattern>
+
+        <message>
+            Did you mean <suggestion><match no="1" case_conversion="startlower" regexp_match="(?i)^kaka(?!ka)([aeiou]|(.{2}))(.*)" regexp_replace="ka$1$1$3"/></suggestion>?
+            Possible incorrect verb formation: "<match no="1" case_conversion="startlower"/>". 
+            Use "ka-" as prefix and repeat the verb's first syllable.
+        </message>
+        <short>Wrong use of "ka-" prefix.</short>
+
+        <example correction="Kapapasok" type="incorrect"><marker>Kakapasok</marker> niya lang.</example>
+        <example correction="kagigising" type="incorrect">Kanina ay <marker>kakagising</marker> niya lang.</example>
+        <example correction="Kabibili" type="incorrect"><marker>Kakabili</marker> ko lang ng ulam.</example>
+
+        <example type="correct"><marker>Kasasakay</marker> niya lang.</example>
+        <example type="correct"><marker>Kauuwi</marker> ko lang.</example>
+        <example type="correct">Parang <marker>kasasabi</marker> ko lang kanina.</example>
+    </rule>
+</category>
+
+<!-- NAG/MAG- PREFIX RULE -->
+<category name="Nag/Mag Prefix + Verb">
+    <!--
+        -	This rule handles the abscence of hyphen in using nag/mag prefix given that the prefix
+            and verb are separated by space. The verb must also start with a vowel.
+    -->
+    <rule id="VERB_VOWEL_SPACE" name="verb_vowel_space">
+        <pattern case_sensitive="no" mark_from="0">
+            <token regexp="yes">[mn]ag</token>
+            <token regexp="yes">[aeiou][a-zA-Z]+</token>
+        </pattern>
+
+        <message>
+            Did you mean <suggestion><match no="1"/>-<match no="2"/></suggestion>? The prefix "<match no="1"/>" must be followed by a hyphen if the verb starts with a vowel.
+        </message>
+        <short>Missing hyphen after "nag-" or "mag-"</short>
+
+        <example correction="Nag-ayos" type="incorrect"><marker>Nag ayos</marker> ako ng gamit.</example>
+        <example correction="mag-aral" type="incorrect">Kailangan ko <marker>mag aral</marker>.</example>
+        <example correction="nag-uusap" type="incorrect">Sina Juan at Maria ay<marker>nag uusap</marker>.</example>
+    
+        <example type="correct">Si Juan ang <marker>mag-aalok</marker> ng pagkain.</example>
+        <example type="correct"><marker>Nag-aayos</marker> na ako ng gamit pang-Japan.</example>
+        <example type="correct">Bakit dapat<marker>mag-ingay</marker>?</example>
+    </rule>
+
+    <!--
+        -	This rule handles the abscence of hyphen in using nag/mag prefix given that the prefix
+            and verb are not separated by anything. The verb must also start with a vowel.
+        -	Exceptions are used in this rule so that verbs that starts with 'g' and uses the prefix
+            "na-" will not be flagged. >> example: nagawa, nagamit
+                -	Few exceptions are provided in the .dict file
+    -->
+    <rule id="VERB_VOWEL_NOSPACE" name="verb_vowel_nospace">
+        <pattern case_sensitive="no" mark_from="0">
+            <token regexp="yes">
+                [mn]ag[aeiou][a-zA-Z]+
+                <exception postag="NAVRB"/>
+                <exception postag="MAVRB"/>
+            </token>
+        </pattern>
+
+        <message>
+				Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)([aeiou][a-zA-Z]+)" regexp_replace="$1-$2"/></suggestion>?
+				The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".
+				Add a "-" after the "nag" or "mag" prefix.
+		</message>
+        <short>Missing hyphen after "nag-" or "mag-"</short>
+
+        <example correction="Nag-ayos" type="incorrect"><marker>Nag yos</marker> ako ng gamit.</example>
+        <example correction="mag-aral" type="incorrect">Kailangan ko <marker>magaral</marker>.</example>
+        <example correction="nag-uusap" type="incorrect">Sina Juan at Maria ay<marker>naguusap</marker>.</example>
+    
+        <example type="correct">Si Juan ang <marker>mag-aalok</marker> ng pagkain.</example>
+        <example type="correct"><marker>Nag-aayos</marker> na ako ng gamit pang-Japan.</example>
+        <example type="correct">Bakit dapat<marker>mag-ingay</marker>?</example>
+    </rule>
+
+    <!--
+        -	This rule handles the presence of space in using nag/mag prefix given that the verb
+            starts with a consonant.
+    -->
+    <rule id="VERB_CONSONANT_SPACE" name="verb_consonant_space">
+        <pattern case_sensitive="no" mark_from="0">
+            <token regexp="yes">[mn]ag</token>
+            <token regexp="yes">[^aeiou][a-zA-Z]+</token>
+        </pattern>
+
+        <message>
+            Did you mean <suggestion><match no="1"/><match no="2"/></suggestion>?
+            The prefix "<match no="1"/>" must NOT be followed by anything if the verb starts with a consonant.
+        </message>
+
+        <example correction="Nagbayad" type="incorrect"><marker>Nag bayad</marker> na ako ng utang.</example>
+        <example correction="magsumbong" type="incorrect">Kailangan ko <marker>mag sumbong</marker> kay mama.</example>
+        <example correction="naglalaro" type="incorrect">Sina Juan at Maria ay<marker>nag lalaro</marker>.</example>
+    
+        <example type="correct">Si Juan ang <marker>magbibitbit</marker> ng pagkain.</example>
+        <example type="correct"><marker>Naghahanda</marker> na ako ng gamit pang-Japan.</example>
+        <example type="correct">Bakit dapat<marker>magdala</marker> ng damit?</example>
+    </rule>
+
+    <!--
+        -	This rule handles the presence of hyphen in using nag/mag prefix given that the verb
+            starts with a consonant.
+    -->
+    <rule id="VERB_CONSONANT_HYPHEN" name="verb_consonant_hyphen">
+        <pattern case_sensitive="no" mark_from="0">
+            <token regexp="yes">[mn]ag-[^aeiou][a-zA-Z]+</token>
+        </pattern>
+
+        <message>
+            Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)-([^aeiou][a-zA-Z]+)" regexp_replace="$1$2"/></suggestion>?
+            The hyphen in the word "<match no="1"/>" must be removed if the verb starts with a consonant.
+		</message>
+
+        <example correction="Nagbayad" type="incorrect"><marker>Nag-bayad</marker> na ako ng utang.</example>
+        <example correction="magsumbong" type="incorrect">Kailangan ko <marker>mag-sumbong</marker> kay mama.</example>
+        <example correction="naglalaro" type="incorrect">Sina Juan at Maria ay<marker>nag-lalaro</marker>.</example>
+    
+        <example type="correct">Si Juan ang <marker>magbibitbit</marker> ng pagkain.</example>
+        <example type="correct"><marker>Naghahanda</marker> na ako ng gamit pang-Japan.</example>
+        <example type="correct">Bakit dapat<marker>magdala</marker> ng damit?</example>
+    </rule>
+</category>
+
+<!-- FILIPINO PREFIX + ENGLISH VERB-->
+<category name="Prefix + English Verb">
+    <!-- 
+        -	This rule handles when the Tagalog prefix and English verb is separated by a space instead
+            of hyphen.
+        -	Only few English verbs are registered in the .dict file. Hence, this will not flag those that
+            include verbs that are not in the .dict file.
+    -->
+    <rule id="PREFIX_ENG_VERB" name="prefix + English verb">
+        <pattern case_sensitive="no" mark_from="0">
+            <token regexp="yes">ipa|na|ma</token>
+            <token postag="ENGVRB"/>
+        </pattern>
+
+        <message>
+            Did you mean <suggestion><match no="1"/>-<match no="2"/></suggestion>? The prefix "<match no="1"/>" must be followed by a hyphen if the verb is in English.
+        </message>
+
+        <example correction="Na-print" type="incorrect"><marker>Na print</marker> ko na ang mga reviewer.</example>
+        <example correction="ma-check" type="incorrect">Maaari bang <marker>ma check</marker> ang sagot ko?</example>
+        <example correction="ipa-handle" type="incorrect">Si Juan na ang<marker>ipa handle</marker> mo.</example>
+    
+        <example type="correct">Ayusin mo para <marker>ma-check</marker> na ni Juan ng papel mo.</example>
+        <example type="correct"><marker>Na-download</marker> ni Maria ang kanta na gusto ko.</example>
+        <example type="correct">Bakit dapat<marker>ipa-print</marker> ang reviewer?</example>
+    </rule>
+</category>
