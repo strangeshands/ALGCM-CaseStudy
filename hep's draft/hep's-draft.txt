@@ -157,7 +157,7 @@
         </pattern>
 
         <message>
-            Do you mean <suggestion><match no="1"/>-<match no="2"/></suggestion>? The prefix "<match no="1"/>" must be followed by a hyphen if the verb is in English.
+            Did you mean <suggestion><match no="1"/>-<match no="2"/></suggestion>? The prefix "<match no="1"/>" must be followed by a hyphen if the verb is in English.
         </message>
 
         <example correction="Na-print" type="incorrect"><marker>Na print</marker> ko na ang mga reviewer.</example>
