@@ -48,7 +48,7 @@
         </pattern>
 
         <message>
-            Do you mean <suggestion><match no="1"/>-<match no="2"/></suggestion>? The prefix "<match no="1"/>" must be followed by a hyphen if the verb starts with a vowel.
+            Did you mean <suggestion><match no="1"/>-<match no="2"/></suggestion>? The prefix "<match no="1"/>" must be followed by a hyphen if the verb starts with a vowel.
         </message>
         <short>Missing hyphen after "nag-" or "mag-"</short>
 
