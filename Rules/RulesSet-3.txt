@@ -77,9 +77,9 @@
         </pattern>
 
         <message>
-				Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)([aeiou][a-zA-Z]+)" regexp_replace="$1-$2"/></suggestion>?
-				The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".
-				Add a "-" after the "nag" or "mag" prefix.
+            Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)([aeiou][a-zA-Z]+)" regexp_replace="$1-$2"/></suggestion>?
+            The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".
+            Add a "-" after the "nag" or "mag" prefix.
 		</message>
         <short>Missing hyphen after "nag-" or "mag-"</short>
 

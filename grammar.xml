@@ -454,10 +454,10 @@ title="Easy editing stylesheet" ?>
 			</pattern>
 
 			<message>
-						Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)([aeiou][a-zA-Z]+)" regexp_replace="$1-$2"/></suggestion>?
-						The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".
-						Add a "-" after the "nag" or "mag" prefix.
-				</message>
+				Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)([aeiou][a-zA-Z]+)" regexp_replace="$1-$2"/></suggestion>?
+				The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".
+				Add a "-" after the "nag" or "mag" prefix.
+			</message>
 			<short>Missing hyphen after "nag-" or "mag-"</short>
 
 			<example correction="Nag-ayos" type="incorrect"><marker>Nag yos</marker> ako ng gamit.</example>
@@ -505,7 +505,7 @@ title="Easy editing stylesheet" ?>
 			<message>
 				Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)-([^aeiou][a-zA-Z]+)" regexp_replace="$1$2"/></suggestion>?
 				The hyphen in the word "<match no="1"/>" must be removed if the verb starts with a consonant.
-				</message>
+			</message>
 
 			<example correction="Nagbayad" type="incorrect"><marker>Nag-bayad</marker> na ako ng utang.</example>
 			<example correction="magsumbong" type="incorrect">Kailangan ko <marker>mag-sumbong</marker> kay mama.</example>
