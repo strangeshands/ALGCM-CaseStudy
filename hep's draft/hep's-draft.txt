@@ -153,7 +153,7 @@
     -->
     <rule id="PREFIX_ENG_VERB" name="prefix + English verb">
         <pattern case_sensitive="no" mark_from="0">
-            <token regexp="yes">ipa|nag|na|ma</token>
+            <token regexp="yes">ipa|na|ma</token>
             <token postag="ENGVRB"/>
         </pattern>
 
