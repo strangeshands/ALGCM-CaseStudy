@@ -149,7 +149,6 @@
             of hyphen.
         -	Only few English verbs are registered in the .dict file. Hence, this will not flag those that
             include verbs that are not in the .dict file.
-                - That is, if the prefix is "nag", it may be flagged as error under VERB_CONSONANT_SPACE
     -->
     <rule id="PREFIX_ENG_VERB" name="prefix + English verb">
         <pattern case_sensitive="no" mark_from="0">
