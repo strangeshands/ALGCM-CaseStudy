@@ -164,7 +164,7 @@
         <example correction="ma-check" type="incorrect">Maaari bang <marker>ma check</marker> ang sagot ko?</example>
         <example correction="ipa-handle" type="incorrect">Si Juan na ang<marker>ipa handle</marker> mo.</example>
     
-        <example type="correct">Si Juan ang <marker>nag-check</marker> ng papel mo.</example>
+        <example type="correct">Ayusin mo para <marker>ma-check</marker> na ni Juan ng papel mo.</example>
         <example type="correct"><marker>Na-download</marker> ni Maria ang kanta na gusto ko.</example>
         <example type="correct">Bakit dapat<marker>ipa-print</marker> ang reviewer?</example>
     </rule>
