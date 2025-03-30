@@ -18,9 +18,9 @@
         </pattern>
 
         <message>
-            Possible incorrect verb formation: "<match no="1" case_conversion="startlower"/>". 
             Did you mean <suggestion><match no="1" case_conversion="startlower" regexp_match="(?i)^kaka(?!ka)([aeiou]|(.{2}))(.*)" regexp_replace="ka$1$1$3"/></suggestion>?
-            Use <suggestion>"ka-" </suggestion> as prefix and <suggestion>repeat the verb's first syllable</suggestion>.
+            Possible incorrect verb formation: "<match no="1" case_conversion="startlower"/>". 
+            Use "ka-" as prefix and repeat the verb's first syllable.
         </message>
         <short>Wrong use of "ka-" prefix.</short>
 
@@ -78,10 +78,10 @@
         </pattern>
 
         <message>
-            Did you mean <suggestion><match no="1" case_conversion="startlower" regexp_match="([mn]ag)([aeiou][a-zA-Z]+)" regexp_replace="$1-$2"/></suggestion>?
-            The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".
-            <suggestion>Add a "-" after the "nag" or "mag" prefix.</suggestion>
-        </message>
+				Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)([aeiou][a-zA-Z]+)" regexp_replace="$1-$2"/></suggestion>?
+				The word "<match no="1"/>" must be separated with a hyphen after the prefix "nag" or "mag".
+				Add a "-" after the "nag" or "mag" prefix.
+		</message>
         <short>Missing hyphen after "nag-" or "mag-"</short>
 
         <example correction="Nag-ayos" type="incorrect"><marker>Nag yos</marker> ako ng gamit.</example>
@@ -101,7 +101,6 @@
         <pattern case_sensitive="no" mark_from="0">
             <token regexp="yes">[mn]ag</token>
             <token regexp="yes">[^aeiou][a-zA-Z]+</token>
-            
         </pattern>
 
         <message>
@@ -128,9 +127,9 @@
         </pattern>
 
         <message>
-            Did you mean <suggestion><match no="1" case_conversion="startlower" regexp_match="(?i)([mn]ag)-([^aeiou][a-zA-Z]+)" regexp_replace="$1$2"/></suggestion>?
-            The <suggestion>hyphen</suggestion> in the word "<match no="1"/>" <suggestion>must be removed</suggestion> if the verb starts with a consonant.
-        </message>
+            Did you mean <suggestion><match no="1" regexp_match="(?i)([mn]ag)-([^aeiou][a-zA-Z]+)" regexp_replace="$1$2"/></suggestion>?
+            The hyphen in the word "<match no="1"/>" must be removed if the verb starts with a consonant.
+		</message>
 
         <example correction="Nagbayad" type="incorrect"><marker>Nag-bayad</marker> na ako ng utang.</example>
         <example correction="magsumbong" type="incorrect">Kailangan ko <marker>mag-sumbong</marker> kay mama.</example>
